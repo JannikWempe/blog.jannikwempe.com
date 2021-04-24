@@ -102,6 +102,7 @@ declare type ParameterDecorator = (target: Object, propertyKey: string | symbol,
 
 ## Order of evaluation
 The different types of decorators are evaluated in the following order:
+
 ⬇️ instance members: Property Decorators first and after that Accessor, Parameter or Method Decorators
 
 ⬇️ static members: Property Decorators first and after that Accessor, Parameter or Method Decorators
