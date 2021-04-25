@@ -22,7 +22,7 @@ To put it in a more general way: **you can change the behaviour of certain parts
 **BONUS:** There is even a **decorator pattern** described in the [Design Patterns book by the Gang of Four](https://en.wikipedia.org/wiki/Design_Patterns). Its intent is described as:
 > to add responsibilities to individual objects **dynamically and transparently**, that is, without effecting other objects.
 
-# Enable decorators <a name="enable-decorators"></a>
+# Enable decorators
 Since decorators are an experimental feature, they are **disabled by default**. You must enable them by either enabling it in the `tsconfig.json` or passing it to the TypeScript compiler (`tsc`). You should also at least use ES5 as a target (default is ES3).
 
 `tsconfig.json`
@@ -42,7 +42,7 @@ tsc -t ES5 --experimentalDecorators
 
 You might also want to have a look at the related [Emit Decorator Metadata](https://www.typescriptlang.org/tsconfig#emitDecoratorMetadata) setting (which is not in scope of this post.)
 
-# Types of decorators <a name="types-of-decorators"></a>
+# Types of decorators
 There are **5 different types of decorators**:
 - class decorators
 - property decorators
@@ -79,7 +79,7 @@ class Polygon {
 
 Class constructors can not have a decorator applied.
 
-## Overview over signatures <a name="overview-over-signatures"></a>
+## Overview over signatures
 Each of the decorator functions receives different parameters. The accessor decorator is an exception, because it is essentially just a method decorator, which is applied to an accessor (getter or setter).
 
 The different signatures are defined in `node_modules/typescript/lib/lib.es5.d.ts`:
@@ -239,7 +239,7 @@ The decorator factories are executed in the order of their occurrence and the de
 
 🔗 [GitHub issue discussion about adding Decorators to TypeScript](https://github.com/Microsoft/TypeScript/issues/2249)
 
-## ECMAScript proposals <a name="ecmascript-proposals"></a>
+## ECMAScript proposals
 🔗 [ECMAScript proposals](https://github.com/tc39/proposals)
 
 🔗 [ECMAScript decorator proposal](https://github.com/tc39/proposal-decorators)
