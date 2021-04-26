@@ -52,7 +52,7 @@ But it not only ships less code to the client, but also executes faster:
 
 ![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1619355565050/accrTZHyr.png)
 
-One of the reasons for this is that Svelte does not use a virtual DOM (vDOM). Svelte does not rely on the diff between vDOM and DOM to update the DOM. The other mentioned frameworks like React, Vue and Angular do use the vDOM. You can rad details about this in the Sveltes blog post [Virtual DOM is pure overhead](https://svelte.dev/blog/virtual-dom-is-pure-overhead).
+One of the reasons for this is that Svelte does not use a virtual DOM (vDOM). Svelte does not rely on the diff between vDOM and DOM to update the DOM. The other mentioned frameworks like React, Vue ~~and Angular~~ *(EDIT: Angular uses Incremental DOM)* do use the vDOM. You can rad details about this in the Sveltes blog post [Virtual DOM is pure overhead](https://svelte.dev/blog/virtual-dom-is-pure-overhead).
 
 A quick quote from that post:
 > Svelte is a compiler that knows **at build time** how things could change in your app, rather than waiting to do the work at run time.
