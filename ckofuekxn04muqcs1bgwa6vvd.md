@@ -84,7 +84,7 @@ Way more important: Tailwind is not about the translation of CSS properties into
 
 You are at least somehow right. Tailwind is huge without using `PostCSS`s `PurgeCSS` plugin in order to remove unused classes ([about 3.5MB uncompressed](https://tailwindcss.com/docs/optimizing-for-production)). But you don't have to set up `PurgeCSS` and integrate it into your build step, pipeline, or whatever you use because since v1.4 this is built-in. Just provide the `purge` option in `tailwind.config.js` and you are good to go.
 
-The end result will probably be even smaller (and therefore more performant) compared to your own CSS. Chances are, when writing your own CSS, that you ship at least some unused CSS (remember the argument about separation of concerns). Besides that, you have a lot of duplicated CSS in different places instead of reusing predefined classes *(I haven't measured it, but it makes sense to me. Anyone has numbers?)*.
+The result will probably be even smaller (and therefore more performant) compared to your own CSS. Chances are, when writing your own CSS, that you ship at least some unused CSS (remember the argument about separation of concerns). Besides that, you have a lot of duplicated CSS in different places instead of reusing predefined classes *(I haven't measured it, but it makes sense to me. Anyone has numbers?)*.
 
 ⚠️ A valid pain point regarding purging is the fact that you have to be aware of how purging works. You have to write [purgable HTML](https://tailwindcss.com/docs/optimizing-for-production#writing-purgeable-html). You can't use a class like `text-$(color)-500`, because `PurgeCSS` just works by parsing your HTML as a string. It does not run your code or interpret it in some way.
 
