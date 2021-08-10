@@ -6,13 +6,19 @@ If you are here for fancy code in a specific language using a specific library y
 
 ## What are State Machines?
 
-**What actually is *state* in the context of state machines?** Think of it as a status or mode of a system. Let us take a simplified oven as an example. It can have the states `off` and `heating`. The temperature of the oven is NOT the state. A state is something qualitative, not quantitative, and it is finite. Therefore the term state as used in frameworks like React or Vue is different from state in state machines. In React you would also refer to something like a `searchTerm` as state, but that would not be a state in a context of a state machine (there are infinite variations of possible `searchTerm`s; a state would be something like `idle`, `searching` etc.).
+**What actually is *state* in the context of state machines?**
+
+Think of it as a status or mode of a system. Let us take a simplified oven as an example. It can have the states `off` and `heating`. The temperature of the oven is NOT the state. A state is something qualitative, not quantitative, and it is finite. Therefore the term state as used in frameworks like React or Vue is different from state in state machines. In React you would also refer to something like a `searchTerm` as state, but that would not be a state in a context of a state machine (there are infinite variations of possible `searchTerm`s; a state would be something like `idle`, `searching` etc.).
+
+---
 
 Maybe you have also heard about *Finite State Machines (FSM)*? Have you googled "state machines" before? FSMs will be all over the place. This is how it looks like:
 
 ![state machines google search](https://cdn.hashnode.com/res/hashnode/image/upload/v1628324514880/K8F9JoCmB.png)
 
-Ok fine, but **what is the difference between state machines and finite state machines?** It is rather obvious: it's the word "finite". FSMs are a subset of state machines. There are also possibly infinite state machines (like the [Turing Machine](https://en.wikipedia.org/wiki/Turing_machine)). BUT almost always if someone is talking about state machines the person is in fact talking about FSMs. The Google search should already prove that point, right? Also, [Wikipedia redirects you to the FSM article if you search for "state machines"](https://en.wikipedia.org/wiki/state_machine). And let's be honest, a person talking about something like a Turing Machine will most probably let you know 😉 Therefore I will from now on also use state machines and FSMs interchangeably.
+Ok fine, but **what is the difference between state machines and finite state machines?** It is rather obvious: it's the word "finite".
+
+FSMs are a subset of state machines. There are also possibly infinite state machines (like the [Turing Machine](https://en.wikipedia.org/wiki/Turing_machine)). BUT almost always if someone is talking about state machines the person is in fact talking about FSMs. The Google search should already prove that point, right? Also, [Wikipedia redirects you to the FSM article if you search for "state machines"](https://en.wikipedia.org/wiki/state_machine). And let's be honest, a person talking about something like a Turing Machine will most probably let you know 😉 Therefore I will from now on also use state machines and FSMs interchangeably.
 
 ### Finite State Machines (FSM)
 
@@ -42,11 +48,17 @@ Remember state machines being a mathematical model? This is how you would define
 
 ![state machine mathematical model](https://cdn.hashnode.com/res/hashnode/image/upload/v1628337989607/oGAPOoD6C.png)
 
-That is already a very good foundational knowledge about state machines. There is more to it, like different classifications (deterministic vs. non-deterministic and Moore machines vs. Mealy machines), but I would consider them as extended knowledge. Therefore I will not go into details here. Let's answer the next question with more practical use: What are statecharts?
+That is already a very good foundational knowledge about state machines. There is more to it, like different classifications (deterministic vs. non-deterministic and Moore machines vs. Mealy machines), but I would consider them as extended knowledge. Therefore I will not go into details here.
+
+Let's answer the next question with more practical use: What are statecharts?
 
 ### Statecharts
 
-Okay great, that's it about state machines, but what are statecharts? State machines are helpful, but they can get very complex and lack some functionality. Imagine the video player example above would be extended to also include whether the player is maximized or not. You would have to duplicate the states to something like `playing maximized`, `stopped maximized`, and so on. Can you imagine how wild this would get with complex systems? There is even a term for that: [state explosion](https://statecharts.dev/state-machine-state-explosion.html) (aka exponential blow-up problem). But don't worry, statecharts to the rescue. To describe the need for statecharts with the words of its inventor David Haral (therefore they are also known as Harel statecharts):
+Okay great, that's it about state machines, but what are statecharts? State machines are helpful, but they can get very complex and lack some functionality.
+
+Imagine the video player example above would be extended to also include whether the player is maximized or not. You would have to duplicate the states to something like `playing maximized`, `stopped maximized`, and so on.
+
+Can you imagine how wild this would get with complex systems? There is even a term for that: [state explosion](https://statecharts.dev/state-machine-state-explosion.html) (aka exponential blow-up problem). But don't worry, statecharts to the rescue. To describe the need for statecharts with the words of its inventor David Haral (therefore they are also known as Harel statecharts):
 
 > However, it is also generally agreed that a complex system cannot be beneficially 
 described in this naive fashion [referring to FSMs], because of the unmanageable, exponentially growing multitude of states, all of which have to be arranged in a ‘flat’ unstratified fashion, resulting in an **unstructured, unrealistic, and chaotic state diagram**.
@@ -78,11 +90,17 @@ Hierarchical states allow us to cluster states and to zoom in and zoom out on th
 
 Also, note the transition from `loaded` to `loading` with the `reload` event. This means that our machine would always transition from `loaded` to `loading` on receiving the `reload` event no matter in what sub-state of `loaded` it is in.
 
+---
+
 **Orthogonal States**
 
-Orthogonal states are depicted by a dashed line. `loaded` has an orthogonal (or parallel) state describing the `play` **AND** `window` **component** (or orthogonal region). The "AND" is important here. It refers to the logical AND (in contrast to the XOR above). We are always in a state of all the orthogonal components at a time. Therefore we would refer to the substate of `loaded` like `(stopped, minimized)` as a single state (remember a hierarchical state always being a single state). We would say "The video player is in the stopped, minimized sub-state of loaded" or "The video player is in the minimized state of the window component". A component also acts like a statechart on its own.
+Orthogonal states are depicted by a dashed line. `loaded` has an orthogonal (or parallel) state describing the `play` **AND** `window` **component** (or orthogonal region). The "AND" is important here. It refers to the logical AND (in contrast to the XOR above).
+
+We are always in a state of all the orthogonal components at a time. Therefore we would refer to the substate of `loaded` like `(stopped, minimized)` as a single state (remember a hierarchical state always being a single state). We would say "The video player is in the stopped, minimized sub-state of loaded" or "The video player is in the minimized state of the window component". A component also acts like a statechart on its own.
 
 Orthogonal states reduce the required states. Without it, we would need a single state for all possible combinations of the `play` and `window` component states.
+
+---
 
 **History**
 
@@ -90,17 +108,23 @@ History is a useful concept for nested states. You can see an example of that in
 
 If we enter `loaded` for the first time we would end up in the `(stopped, minimized)` sub-state. With the introduction of the history state, the initial state is often also referred to as **default state**, because it will only be transitioned to if there is no previous history or no history state at all.
 
+---
+
 **Conditions**
 
 Conditions are enabling **guarded transitions**. A transition only happens if the condition is fulfilled. In our example, it is only possible to enter `maximized` if `play` is in `playing`. If the machine would receive a `maximize` event but the player is stopped nothing would happen. In this example, a condition is enabling us to synchronize parallel states.
 
 In addition, conditions allow us multiple outgoing transitions for the same event and state (all but one has to have a condition). For example, conditionally transitioning to a light or dark mode based on user preferences.
 
+---
+
 **Actions**
 
 Actions are outputs of your statecharts. They are side-effects allowing us to interact with the world outside of the machine itself or to send events to the machine. They are instantaneous and ideally take zero amount of time (you are not waiting for something to be finished, e.g. a request to respond). Think of actions like "fire and forget".
 
-Actions can happen in three different scenarios: **entering** a state, **exiting** a state, or when **transitioning**. I included examples for all of those in the video player. When entering `loading` we fire the `showLoadingIndicator` action and when exiting that stat we would fire `hideLoadingIndicator` *(This is probably not what you would do, because you could just show the loading indication by checking the state. But you could do it this way and I was lacking a better example)*. Also, for the transitions of the `play` events, I added the `start` action. This action could send a signal to an actual video player implementation.
+Actions can happen in three different scenarios: **entering** a state, **exiting** a state, or when **transitioning**. I included examples for all of those in the video player. 
+
+When entering `loading` we fire the `showLoadingIndicator` action and when exiting that stat we would fire `hideLoadingIndicator` *(This is probably not what you would do, because you could just show the loading indication by checking the state. But you could do it this way and I was lacking a better example)*. Also, for the transitions of the `play` events, I added the `start` action. This action could send a signal to an actual video player implementation.
 
 ---
 
