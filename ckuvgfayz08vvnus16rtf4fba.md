@@ -77,12 +77,12 @@ export class ScheduledLambda extends cdk.Construct {
   private createLambda(lambdaProps?: ScheduledLambdaProps["lambdaProps"]) {
     const lambda = new NodejsFunction(this, "Lambda", {
       ...defaultLambdaProps,
-      ...(lambdaProps ?? {}),
+      ...lambdaProps
     });
     new LogGroup(this, 'LogGroup', {
       // this name makes it replace the default log group
       logGroupName: '/aws/lambda/' + lambda.functionName,
-      ...(lambdaProps?.logGroupProps ?? {})
+      ...lambdaProps?.logGroupProps
     });
     return lambda;
   }
@@ -188,12 +188,12 @@ export class ScheduledLambda extends cdk.Construct {
   private createLambda(lambdaProps?: ScheduledLambdaProps["lambdaProps"]) {
     const lambda = new NodejsFunction(this, "Lambda", {
       ...defaultLambdaProps,
-      ...(lambdaProps ?? {}),
+      ...lambdaProps
     });
     new LogGroup(this, 'LogGroup', {
       // this name makes it replace the default log group
       logGroupName: '/aws/lambda/' + lambda.functionName,
-      ...(lambdaProps?.logGroupProps ?? {})
+      ...lambdaProps?.logGroupProps
     });
     return lambda;
   }
