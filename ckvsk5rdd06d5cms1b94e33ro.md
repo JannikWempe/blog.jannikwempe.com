@@ -1,4 +1,4 @@
-## Container Queries in Svelte using Svelte actions
+## Container Queries in Svelte using Svelte Actions
 
 Container queries are a neat upcoming CSS feature enabling us developers to build more reusable components. But they [aren't available in browsers just yet](https://caniuse.com/css-container-queries).
 
