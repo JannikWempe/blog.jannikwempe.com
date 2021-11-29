@@ -12,7 +12,7 @@ The cookie-based approach is also often referred to as **session authentication*
  
 ## Token-based Authentication
 
-Tokens use a different approach. The token containing the session information is created on the server. It is encoded and signed by the server and sent to the client. The client can use the session information in that token. In this case, the client has to store the token (usually in `localStorage` or `sessionStorage`) and has to actively send the token along with every request (usually in the `Authorization` header). The server doesn't have to keep track of the sessions. The token contains all information the server needs to verify the session. The signing of the token prevents the client from manipulating it.
+Tokens use a different approach. The token containing the session information is created on the server. It is encoded and signed by the server and sent to the client. The client can use the session information in that token. In this case, the client has to store the token (usually in `localStorage` or `sessionStorage`) and has to actively send the token along with every request (usually in the `Authorization` header). The server doesn't have to keep track of the sessions. The token contains all information the server needs to verify the session. (**EDIT:** Except the secret key, which is used for signing.) The signing of the token prevents the client from manipulating it.
 
 The most popular way of using tokens for authentication is JSON web tokens (JWTs). You can learn more about JWTs specifically at [jwt.io](https://jwt.io/introduction).
 
