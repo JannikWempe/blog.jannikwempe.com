@@ -8,7 +8,7 @@ In this post, I'll show you how to use the React techniques "render props" and "
 
 You can find the [finished code on GitHub](https://github.com/JannikWempe/react-reusable-components).
 
-# Starting Point: Non-Generic JS Component
+## Starting Point: Non-Generic JS Component
 
 This is the component we are starting with:
 
@@ -45,7 +45,7 @@ We could come with a `<LinkList />` which is also usable for trainers or add an 
 
 Okay, let us create a truly reusable `<List />` component.
 
-# React Render Props
+## React Render Props
 
 First of all, what is the React Render Props technique? It is even mentioned in the official React docs:
 
@@ -105,7 +105,7 @@ If we pass `items`, which is of type `Pokemon[]` first, then the single item in 
 
 Now the parent controls how the items of the list are rendered. That is nice, but it has a major flaw: `<List />` renders an outer `<ul>` and therefore we must return an `<li>` from `renderItem` in order to end up with valid HTML. We would have to remember that and we can't use it for more generic lists where we don't want to use an `<ul>` at all. This is where the as-prop comes into play.
 
-# React As Prop
+## React As Prop
 
 Our goal: We not only want to reverse control over how a single item is rendered but also for the HTML tag used by `<List />`. We can achieve that with the as-prop:
 
@@ -158,7 +158,7 @@ We now pass all props besides `items`, `renderItem` and `as` to `Component` by u
 
 What is `Omit<React.ComponentPropsWithoutRef<As>, keyof Props<Item, As>>` doing here? If we would include something like `href: MyHrefType` in our `Props` type and use `as="a"`, then we would end up with an error when trying to pass any `href`: `Type 'string' is not assignable to type 'never'.`. `Omit` excludes all prop types that we explicitly defined in our `Props` type from the result of `React.ComponentPropsWithoutRef<As>`. In our case – passing `as="a"` – `Omit<React.ComponentPropsWithoutRef<As>, keyof Props<Item, As>>` would not include the `href` type anymore. We now can pass the `href` prop of type `MyHrefType` again. **TLDR;** it deduplicates types.
 
-# The Result
+## The Result
 
 Now our `<List />` is truly generic and reusable for a lot of cases. I often still prefer creating something like a `<PokemonList />` which uses the `<List />` as a building block:
 
@@ -190,7 +190,7 @@ export function PokemonList({ pokemons }: Props) {
 
 Now we can easily create something like `<PokemonDetailsList />`, `<TrainersList />` or whatever – or use the `<List />` directly.
 
-# Conclusion
+## Conclusion
 
 React techniques like render props and the as prop enable us to build our own reusable, generic building blocks. Typing those generic components isn't that easy (at least this is how I feel about it). Therefore we also learned how to type those generic components using TypeScript.
 
