@@ -25,7 +25,7 @@ This is especially useful when building reusable components. For example, let us
 
 Now the [Svelte actions](https://svelte.dev/docs#use_action) come into play. An action in Svelte is a function that you attach to an HTML element by using the `use:` keyword (e.g. `<div use:actionName />`. In the function, you have access to the actual HTML element and optionally additional parameters you can pass to the action. From there on, the possibilities are almost endless. You can tinker with the classes being applied, dispatch custom events, apply styles and everything you can actually do with an HTML element and some JS.
 
-For our purpose we can use an action in combination with a [ResizeObserver]/]https://developer.mozilla.org/en-US/docs/Web/API/ResizeObserver). The `ResizeObserver` can observe the size of an element and execute a callback if the size has changed. The size of the actual element is exactly what we are interested in for building our container query functionality.
+For our purpose, we can use an action in combination with a [ResizeObserver]https://developer.mozilla.org/en-US/docs/Web/API/ResizeObserver). The `ResizeObserver` can observe the size of an element and execute a callback if the size has changed. The size of the actual element is exactly what we are interested in for building our container query functionality.
 
 Then we can pass a configuration object as a parameter to the action. The config contains a list of classes per breakpoint (being min-width) that should be applied if a certain element width is reached or exceeded. We always only want to apply the classes of the largest applicable breakpoint.
 
