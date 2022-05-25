@@ -1,6 +1,6 @@
 ## Authentication: Cookie- vs. Token-based
 
-Authentication is about confirming that users are who they say they are. Whereas authorization is about permissions of a given user (e.g. admin vs. user). Authentication is an integral part of most apps.
+Authentication is about confirming that users are who they say they are. Whereas authorization is about permissions of a given user (e.g. admin vs. user). Authentication is an integral part of most apps
 
 The two main methods for authentication are cookies and tokens. But what are the differences between the cookie- and the token-based approaches?
 
