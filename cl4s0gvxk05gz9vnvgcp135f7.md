@@ -14,6 +14,8 @@ By combining React's state-related hooks (`useState` and `useReducer`) with Reac
 
 For that reason, it is bad practice to have a single, huge state provided by a context. Instead, you should split the state up and create separate contexts like `AuthContext`, `ThemeContext`etc. Ask yourself if consumers mostly consume the majority of the state. Only in that case, you don't end up with a lot of extra re-renders. *(A few extra renders are not an issues at all but it can get out of control if a lot of components and their children re-render.)*
 
+*Note: There are ways to combine context with other techniques like subscriptions to mitigate this issue. But here I am referring to using plain context + ùseState` / ùseReducer`.*
+
 Besides the extra re-renders it can become hard to keep track of the data flow in your application. You won't be able to easily see which data is being used where, as it's the case with props. The React docs include a section [Before You Use Context](https://reactjs.org/docs/context.html#before-you-use-context) for a reason. One highlighted excerpt:
 
 > If you only want to avoid passing some props through many levels, component composition is often a simpler solution than context.
