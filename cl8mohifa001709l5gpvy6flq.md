@@ -12,6 +12,8 @@ In this post, I will show you a few possible implementations of custom CDK Aspec
 
 The goal is that you should be able to write your own Aspects and have a better idea of possible use cases for CDK Aspects.
 
+You can find all the code in a CDK app that you can play around with in my GitHub repository [JannikWempe/cdk-aspects-examples](https://github.com/JannikWempe/cdk-aspects-examples).
+
 ## Implementing Custom CDK Aspects
 
 Aspects have a small interface. This is what we have to implement creating our own custom Aspects:
@@ -263,5 +265,7 @@ Each rule has an identifier like `AwsSolutions-S2`. You can [turn off rules indi
 We had a look at different possibilities you have when creating your own CDK Aspects and have used a 3rd-party Aspect as well. By now you should have a good idea of how to work with CDK Aspects. Maybe you even have some use cases in mind in which Aspects could be helpful.
 
 There is also one other useful use case that I haven't explicitly shown above: You can alter constructs that you don't have direct access to. Imagine using a 3rd party L3 construct that does not expose ways to customize one of the underlying resources. You can create a CDK Aspect and apply it to that 3rd party construct.
+
+All the code is on GitHub [JannikWempe/cdk-aspects-examples](https://github.com/JannikWempe/cdk-aspects-examples).
 
 Thanks for reading this article ✌🏼
