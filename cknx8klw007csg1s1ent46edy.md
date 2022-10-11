@@ -1,1 +1,135 @@
-IyMgV2h5IFN2ZWx0ZSBpcyBkaWZmZXJlbnQgLSBhbmQgYXdlc29tZSEKCipKdXN0IHRvIGdldCB0aGlzIG91dCBvZiB0aGUgd2F5IGluIHRoZSBiZWdpbm5pbmc6KgoKKlRoaXMgaXMgbm90IG1lYW50IHRvIGJlIGJhc2hpbmcgb3RoZXIgZnJhbWV3b3JrcyBsaWtlIFJlYWN0LCBWdWUsIG9yIEFuZ3VsYXIuIEkgdXNlZCBhbGwgb2YgdGhlbSBhbmQgUmVhY3QgKHVzaW5nIE5leHRKUykgaXMgbW9zdGx5IHN0aWxsIG15IGdvLXRvLioKCiMgV2hhdCBpcyBTdmVsdGU/Cgo+IFN2ZWx0ZSBpcyBhIHJhZGljYWwgbmV3IGFwcHJvYWNoIHRvIGJ1aWxkaW5nIHVzZXIgaW50ZXJmYWNlcy4gV2hlcmVhcyB0cmFkaXRpb25hbCBmcmFtZXdvcmtzIGxpa2UgUmVhY3QgYW5kIFZ1ZSBkbyB0aGUgYnVsayBvZiB0aGVpciB3b3JrIGluIHRoZSBicm93c2VyLCBTdmVsdGUgc2hpZnRzIHRoYXQgd29yayBpbnRvIGEgKipjb21waWxlIHN0ZXAqKiB0aGF0IGhhcHBlbnMgd2hlbiB5b3UgYnVpbGQgeW91ciBhcHAuCgpUTERSOwppdCdzIGxpa2UgUmVhY3Qgb3IgVnVlLCBidXQgd2l0aCB0aGUgbWFpbiBkaWZmZXJlbmNlIHRoYXQgaXQgaXMgW2EgY29tcGlsZXJdKGh0dHBzOi8vc3ZlbHRlLmRldi9ibG9nL2ZyYW1ld29ya3Mtd2l0aG91dC10aGUtZnJhbWV3b3JrKS4KClRoZXJlIGlzIGEgcXVvdGUgaW4gdGhlIGJsb2cgYXJ0aWNsZSBsaW5rZWQgYWJvdmU6Cj5XYWl0LCB0aGlzIG5ldyBmcmFtZXdvcmsgaGFzIGEgcnVudGltZT8gVWdoLiBUaGFua3MsIEknbGwgcGFzcy4KCj4g4oCTIGZyb250IGVuZCBkZXZlbG9wZXJzIGluIDIwMTgKCkV2ZW4gdGhvdWdoIHRoaXMgZGlkbid0IGhhcHBlbiBpbiAyMDE4LCBJIHRoaW5rIHdlJ2xsIGdldCB0byB0aGF0IG1pbmRzZXQgYXQgc29tZSBwb2ludC4KCiMjIFdoYXQgZG9lcyAiU3ZlbHRlIGlzIGEgY29tcGlsZXIiIG1lYW4/CgpJdCBlc3NlbnRpYWxseSBtZWFucyB0aGF0IFN2ZWx0ZS1zcGVjaWZpYyBjb2RlIGdldHMgY29tcGlsZWQgKHRoaW5rIGFib3V0IHRyYW5zZm9ybWVkKSB0byBKYXZhU2NyaXB0LCB3aGljaCBpcyBleGVjdXRhYmxlIGJ5IHRoZSBicm93c2VyLgoKQW5vdGhlciBjb21waWxlciB5b3UgbWlnaHQga25vdyBpcyB0aGUgVHlwZVNjcmlwdCBjb21waWxlciAoYHRzY2ApLCB3aGljaCBjb21waWxlcyBUeXBlU2NyaXB0IHRvIEphdmFTY3JpcHQuIEl0J3MgdGhlIHNhbWUgY29uY2VwdC4KClNvIHdoYXQgaXMgdGhlIGRlYWw/IFlvdSBjYW4gYWxzbyB3cml0ZSBSZWFjdCBjb2RlIGFzIGAuanNgIGFuZCBzaGlwIGl0LiBUaGF0IGlzIHRydWUsIEJVVCB0aGF0IEphdmFTY3JpcHQgY29kZSBkb2VzIG5vdCB3b3JrIGluIHRoZSBicm93c2VyIHdpdGhvdXQgc2hpcHBpbmcgdGhlIFJlYWN0IHJ1bnRpbWUgc3lzdGVtIGFzIHdlbGwuCgo+IEEgcnVudGltZSBzeXN0ZW0gcmVmZXJzIHRvIHRoZSBjb2xsZWN0aW9uIG9mIHNvZnR3YXJlIGFuZCBoYXJkd2FyZSByZXNvdXJjZXMgdGhhdCBlbmFibGUgYSBzb2Z0d2FyZSBwcm9ncmFtIHRvIGJlIGV4ZWN1dGVkIG9uIGEgY29tcHV0ZXIgc3lzdGVtLgoKKk5vdGU6IEV2ZW4gdGhvdWdoIEkgYSBsb3Qgb2YgcGVvcGxlIGFyZSB0YWxraW5nIGFib3V0ICIobm8pIHJ1bnRpbWUiLCBpdCBzaG91bGQgbW9yZSBhY2N1cmF0ZWx5IGJlICIobm8pIHJ1bnRpbWUgKipzeXN0ZW0qKiIuKgoKUmVhZCB0aGUgZ3JlYXQgW1JlYWN0IGFzIGEgVUkgUnVudGltZV0oaHR0cHM6Ly9vdmVycmVhY3RlZC5pby9yZWFjdC1hcy1hLXVpLXJ1bnRpbWUvKSBibG9nIHBvc3QgZnJvbSBbRGFuIEFicmFtb3ZdKGh0dHBzOi8vbW9iaWxlLnR3aXR0ZXIuY29tL2Rhbl9hYnJhbW92KS4gSXQgZXhwbGFpbnMgUmVhY3QgYmVpbmcgYSBydW50aW1lIChzeXN0ZW0pIGluIGRlcHRoLgoKVGhlcmUgaXMgYWxzbyBhbm90aGVyIGJlbmVmaXQgYmVzaWRlcyBub3QgcmVxdWlyZSBhIHJ1bnRpbWUuIFN2ZWx0ZSBjb3VsZCBleHRlbmQgYW5kIGNoYW5nZSB0aGUgSmF2YVNjcmlwdCBzeW50YXggYmVjYXVzZSB0aGUgQ29tcGlsZXIgY29tcGlsZXMgdGhlIEphdmFTY3JpcHQgaW4gdGhlIGVuZC4gVGhlcmVmb3JlIFN2ZWx0ZSBjb3VsZCBnZXQgcmlkIG9mIHNvbWUgbGltaXRhdGlvbnMgcHJvdmlkZWQgYnkgSmF2YVNjcmlwdCBzeW50YXguCgpUaGlzIGNvdWxkIGFsc28gYmUgYSBkb3duc2lkZSBiZWNhdXNlIGlmIFN2ZWx0ZSB3b3VsZCBzdHJvbmdseSBkZXZpYXRlIGZyb20gSmF2YVNjcmlwdCBzeW50YXgsIGl0IHdvdWxkIGVzc2VudGlhbGx5IGJlY29tZSBhbm90aGVyIGxhbmd1YWdlIHRvIGxlYXJuLiBObyB3b3JyaWVzLCBTdmVsdGUgdHJpZXMgdG8gc3RpY2sgdG8gdGhlIEphdmFTY3JpcHQgU3ludGF4LgoKIyBCZW5lZml0cyByZXN1bHRpbmcgZnJvbSBTdmVsdGUgYmVpbmcgYSBjb21waWxlcgpTaW5jZSBTdmVsdGUgaXMgYSBjb21waWxlciBhbmQgdGhlcmVmb3JlIGRvZXMgbm90IHJlcXVpcmUgYSBydW50aW1lIHN5c3RlbSB0byBiZSBsb2FkZWQgaW50byB0aGUgY2xpZW50LCB0aGVyZSBhcmUgc2V2ZXJhbCBhZHZhbnRhZ2VzLiBUaGVzZSBhcmUgd2hhdCBtYWtlIFN2ZWx0ZSBzcGVjaWFsLiBUaGUgbW9zdCBpbXBvcnRhbnQgYWR2YW50YWdlcyB0aGF0IGNhbWUgdG8gbXkgbWluZCBhcmUgc2hvd24gaW4gdGhlIG5leHQgc2VjdGlvbnMuCgojIyBQZXJmb3JtYW5jZQpUaGlzIG9uZSBzaG91bGQgYmUgb2J2aW91czogTm8gcnVudGltZSB0byBsb2FkIGZvciB0aGUgY2xpZW50IHJlc3VsdHMgaW4gZmFzdGVyIGxvYWQgdGltZXMuCgpUaGUgZm9sbG93aW5nIGltYWdlIHNob3dzIGFuIGV4Y2VycHQgb2YgYSBKUyBmcmFtZXdvcmsgYmVuY2htYXJrIChzZWUgW3RoaXMgR2l0SHViIHJlcG9dKGh0dHBzOi8vZ2l0aHViLmNvbS9rcmF1c2VzdC9qcy1mcmFtZXdvcmstYmVuY2htYXJrKSkuIEl0J3MgYmFzZWQgb24gYSBsYXJnZSB0YWJsZSB3aXRoIHJhbmRvbWl6ZWQgZW50cmllcyBhbmQgbWVhc3VyZXMgdGhlIHRpbWUgZm9yIHZhcmlvdXMgb3BlcmF0aW9ucyBpbmNsdWRpbmcgcmVuZGVyaW5nIGR1cmF0aW9uLgoKIVtpbWFnZS5wbmddKGh0dHBzOi8vY2RuLmhhc2hub2RlLmNvbS9yZXMvaGFzaG5vZGUvaW1hZ2UvdXBsb2FkL3YxNjE5MzU1MTU4NTA4L09sdmRpNXpPay5wbmcpCgpUaGUgYXBwIHVzaW5nIFN2ZWx0ZSBzaGlwcyB0aGUgbG93ZXN0IGFtb3VudCBvZiBjb2RlLiAqKFNvbWVob3cgU3ZlbHRlIHNlZW1zIHRvIHJlcXVpcmUgbGVzcyBjb2RlIHRoYW4gdmFuaWxsYSBKUywgSSBoYXZlIG5vIGNsdWUgaG93IHRoYXQgY291bGQgaGFwcGVuIPCfmIUpKgoKQnV0IGl0IG5vdCBvbmx5IHNoaXBzIGxlc3MgY29kZSB0byB0aGUgY2xpZW50IGJ1dCBhbHNvIGV4ZWN1dGVzIGZhc3RlcjoKCiFbaW1hZ2UucG5nXShodHRwczovL2Nkbi5oYXNobm9kZS5jb20vcmVzL2hhc2hub2RlL2ltYWdlL3VwbG9hZC92MTYxOTM1NTU2NTA1MC9hY2NyVFpIeXIucG5nKQoKT25lIG9mIHRoZSByZWFzb25zIGZvciB0aGlzIGlzIHRoYXQgU3ZlbHRlIGRvZXMgbm90IHVzZSBhIHZpcnR1YWwgRE9NICh2RE9NKS4gU3ZlbHRlIGRvZXMgbm90IHJlbHkgb24gdGhlIGRpZmYgYmV0d2VlbiB2RE9NIGFuZCBET00gdG8gdXBkYXRlIHRoZSBET00uIFRoZSBvdGhlciBtZW50aW9uZWQgZnJhbWV3b3JrcyBsaWtlIFJlYWN0LCBWdWUgfn5hbmQgQW5ndWxhcn5+ICooRURJVDogQW5ndWxhciB1c2VzIEluY3JlbWVudGFsIERPTSkqIGRvIHVzZSB0aGUgdkRPTS4gWW91IGNhbiByZWFkIGRldGFpbHMgYWJvdXQgdGhpcyBpbiBTdmVsdGUncyBibG9nIHBvc3QgW1ZpcnR1YWwgRE9NIGlzIHB1cmUgb3ZlcmhlYWRdKGh0dHBzOi8vc3ZlbHRlLmRldi9ibG9nL3ZpcnR1YWwtZG9tLWlzLXB1cmUtb3ZlcmhlYWQpLgoKQSBxdWljayBxdW90ZSBmcm9tIHRoYXQgcG9zdDoKPiBTdmVsdGUgaXMgYSBjb21waWxlciB0aGF0IGtub3dzICoqYXQgYnVpbGQgdGltZSoqIGhvdyB0aGluZ3MgY291bGQgY2hhbmdlIGluIHlvdXIgYXBwLCByYXRoZXIgdGhhbiB3YWl0aW5nIHRvIGRvIHRoZSB3b3JrIGF0IHJ1biB0aW1lLgoKIyMgU3ZlbHRlIGluIGEgTWljcm8tRnJvbnRlbmQgQXJjaGl0ZWN0dXJlCk1pY3JvLUZyb250ZW5kcyAoTUZFcykgaXMgYSB0b3BpYyBpbiBpdHNlbGYgKHJlYWQgYWJvdXQgaXQgaW4gW3RoaXMgYXJ0aWNsZV0oaHR0cHM6Ly9tYXJ0aW5mb3dsZXIuY29tL2FydGljbGVzL21pY3JvLWZyb250ZW5kcy5odG1sKSBwcm92ZWQgYnkgW01hcnRpbiBGb3dsZXJdKGh0dHBzOi8vdHdpdHRlci5jb20vbWFydGluZm93bGVyKSkuIEJ1dCB0aGUgY29uY2VwdCBpcyBiYXNpY2FsbHkgdGhhdCBkaWZmZXJlbnQgdGVhbXMgY2FuIHNlcGFyYXRlbHkgZGV2ZWxvcCBkaXN0aW5jdCBwYXJ0cyBvZiB0aGUgZnJvbnRlbmQuIFRlYW1zIGNhbiBhbHNvIGNob29zZSB0aGUgdGVjaCBzdGFjayB0aGV5IHdhbnQgdG8gdXNlLiBUaGVyZWZvcmUgdGhlIGNsaWVudCBjb3VsZCBlbmQgdXAgbG9hZGluZyBkaWZmZXJlbnQgdmVyc2lvbnMgb2YgQW5ndWxhciwgVnVlLCBSZWFjdCwgZXRjLjoKCj4gU29tZSBtaWNybyBmcm9udGVuZCBpbXBsZW1lbnRhdGlvbnMgY2FuIGxlYWQgdG8gZHVwbGljYXRpb24gb2YgZGVwZW5kZW5jaWVzLCAqaW5jcmVhc2luZyB0aGUgbnVtYmVyIG9mIGJ5dGVzIG91ciB1c2VycyBtdXN0IGRvd25sb2FkKi4gCiooZnJvbSBNYXJ0aW4gRm93bGVyIGFydGljbGUgbGlua2VkIGFib3ZlKSoKCkJ1dCB3aGF0IGFib3V0IFN2ZWx0ZT8gU3ZlbHRlIChhbHNvIHVzaW5nIGRpZmZlcmVudCB2ZXJzaW9ucyBvZiBpdCkgZG9lcyBub3QgY29tZSB3aXRoIHRoZSBkb3duc2lkZSBvZiBpbmNyZWFzaW5nIHRoZSBLQnMgYSBjbGllbnQgaGFzIHRvIGxvYWQuIAoKU3ZlbHRlIGlzIGFuIGF3ZXNvbWUgY2hvaWNlIGZvciBNRkUgQXJjaGl0ZWN0dXJlLgoKIyBPdGhlciBiZW5lZml0cwpUaGVzZSBiZW5lZml0cyBkbyBub3QgcmVzdWx0IGZyb20gU3ZlbHRlIGJlaW5nIGEgY29tcGlsZXIsIGJ1dCB0aGV5IG1ha2UgU3ZlbHRlIHN0YW5kIG91dCBhbnl3YXlzLgoKIyMgUkVQTApTdmVsdGUgaGFzIGFuIGF3ZXNvbWUgUkVQTC4gWW91IGNhbiBzdGFydCBwbGF5aW5nIGFyb3VuZCBhbmQgdHJ5IG91dCB0aGluZ3Mgd2l0aG91dCBhbnkgZWZmb3J0LiBUaGlzIGlzIGF3ZXNvbWUhIFtUcnkgaXQgb3V0XShodHRwczovL3N2ZWx0ZS5kZXYvcmVwbC9oZWxsby13b3JsZD92ZXJzaW9uPTMuMzcuMCkuCgpZb3UgY2FuIGFsc28gc2VlIHRoZSBjb21waWxlZCBKUyBhbmQgb3V0cHV0dGVkIENTUyAoaXQgY2FuIGJlIHdyaXR0ZW4gaW4gdGhlIHNhbWUgYC5zdmVsdGVgIGZpbGUpIGJ5IGNsaWNraW5nIG9uICJKUyBPdXRwdXQiIG9yICJDU1MgT3V0cHV0IiByZXNwZWN0aXZlbHkuCgpJcyB0aGlzIGV2aWRlbmNlIGVub3VnaCB0aGF0IFN2ZWx0ZSBpcyBhIGNvbXBpbGVyPyDwn5iJCgpUaGUgUkVQTCBpcyB1c2VkIGluIHRoZWlyIGF3ZXNvbWUgdHV0b3JpYWwgYXMgd2VsbC4gWW91IGNhbiBsZWFybiBTdmVsdGUgaGFuZHMtb246IFtTdmVsdGUgdHV0b3JpYWxdKGh0dHBzOi8vc3ZlbHRlLmRldi90dXRvcmlhbC9iYXNpY3MpLgoKIyMgQnVpbHRpbiBmZWF0dXJlcwpTdmVsdGUgaGFzIHNvbWUgZmVhdHVyZXMgYnVpbHQtaW4gdGhhdCB5b3UgbmVlZCBpbiBhbG1vc3QgYW55IGFwcCBhbnl3YXlzIChhdCBsZWFzdCBsYXJnZXIgb25lcyksIGxpa2UgdHJhbnNpdGlvbnMsIGFuaW1hdGlvbnMsIGFuZCBhIHN0b3JlLiBObyBuZWVkIGZvciBhbiBhZGRpdGlvbmFsIGRlcGVuZGVuY3kgb3IgdGhlIGRlY2lzaW9uIGJldHdlZW4gdmFyaW91cyBjaG9pY2VzIGluIHRoZSBmaXJzdCBwbGFjZS4KCj4gQSBzdG9yZSBpcyBzaW1wbHkgYW4gb2JqZWN0IHdpdGggYSBzdWJzY3JpYmUgbWV0aG9kIHRoYXQgYWxsb3dzIGludGVyZXN0ZWQgcGFydGllcyB0byBiZSBub3RpZmllZCB3aGVuZXZlciB0aGUgc3RvcmUgdmFsdWUgY2hhbmdlcy4gCgpgYGBqYXZhc2NyaXB0CmltcG9ydCB7IHdyaXRhYmxlIH0gZnJvbSAnc3ZlbHRlL3N0b3JlJzsKCmV4cG9ydCBjb25zdCBjb3VudCA9IHdyaXRhYmxlKDApOwoKZXhwb3J0IGNvbnN0IGluY3JlbWVudCA9ICgpID0+IHsKCWNvdW50LnVwZGF0ZShuID0+IG4gKyAxKTsKfQpgYGAKClRoYXQncyBpdC4gWW91IGNhbiBpbXBvcnQgYGNvdW50YCBhbmQgYGluY3JlbWVudGAgYWNyb3NzIHlvdXIgYXBwLiBTaW1wbGUhCgpbVHJ5IG91dCBTdmVsdGUgc3RvcmUgdHV0b3JpYWxdKGh0dHBzOi8vc3ZlbHRlLmRldi90dXRvcmlhbC93cml0YWJsZS1zdG9yZXMpCgpBbmltYXRpb25zIGFuZCB0cmFuc2l0aW9ucyBpbiBTdmVsdGUgYXJlIGVhc3kgdG8gdXNlLiBDYW4geW91IGd1ZXNzIHdoYXQgdGhlIGZvbGxvd2luZyBjb2RlIGlzIGRvaW5nPwoKYGBgamF2YXNjcmlwdAp7I2lmIHZpc2libGV9Cgk8cCBpbjpmbHk9Int7IHk6IDIwMCwgZHVyYXRpb246IDIwMDAgfX0iIG91dDpmYWRlPgoJCUZsaWVzIGluLCBmYWRlcyBvdXQKCTwvcD4Key9pZn0KYGBgCgpbVHJ5IG91dCBTdmVsdGUgdHJhbnNpdGlvbnMgdHV0b3JpYWxdKGh0dHBzOi8vc3ZlbHRlLmRldi90dXRvcmlhbC9pbi1hbmQtb3V0KQoKQnV0IHRoZXkgY2FuIGFsc28gYmUgdXNlZCBmb3IgbW9yZSBjb21wbGV4IHRoaW5ncywgbGlrZSB0aGUgZm9sbG93aW5nOgoKIVthbmltYXRpb25zLmdpZl0oaHR0cHM6Ly9jZG4uaGFzaG5vZGUuY29tL3Jlcy9oYXNobm9kZS9pbWFnZS91cGxvYWQvdjE2MTkzNTcyMzIyNDIvaFNfNmVPZzVWLmdpZikKCkhhdmUgZnVuIGJ1aWxkaW5nIHRoaXMgaW4gUmVhY3Qg8J+kqgoKW1RyeSBvdXQgU3ZlbHRlIGFuaW1hdGlvbnMgdHV0b3JpYWxdKGh0dHBzOi8vc3ZlbHRlLmRldi90dXRvcmlhbC9hbmltYXRlKQoKIyBTdmVsdGVLaXQKW1N2ZWx0ZUtpdF0oaHR0cHM6Ly9raXQuc3ZlbHRlLmRldi8pIGlzIGEgdG9waWMgb2YgaXRzIG93bi4gQnV0IGl0IGlzIG9uZSBvZiB0aGUgbWFpbiByZWFzb25zIHdoeSBJIGFtIHNvIGV4Y2l0ZWQuIFRoaW5rIG9mIFN2ZWx0ZUtpdCBiZWluZyBmb3IgU3ZlbHRlIHdoYXQgTmV4dEpTIGlzIGZvciBSZWFjdC4KCkJ1dCB3aHkgaXMgaXQgYXdlc29tZT8KCj5TdmVsdGVLaXQgKipmdWxseSBlbWJyYWNlcyB0aGUgc2VydmVybGVzcyBwYXJhZGlnbSoqLCBhbmQgd2lsbCBsYXVuY2ggd2l0aCBzdXBwb3J0IGZvciBhbGwgdGhlIG1ham9yIHNlcnZlcmxlc3MgcHJvdmlkZXJzLCB3aXRoIGFuICdhZGFwdGVyJyBBUEkgZm9yIHRhcmdldGluZyBhbnkgcGxhdGZvcm1zIHRoYXQgd2UgZG9uJ3Qgb2ZmaWNpYWxseSBjYXRlciB0by4KClJlYWQgYWJvdXQgaXQgaW4gW1doYXQncyB0aGUgZGVhbCB3aXRoIFN2ZWx0ZUtpdD9dKGh0dHBzOi8vc3ZlbHRlLmRldi9ibG9nL3doYXRzLXRoZS1kZWFsLXdpdGgtc3ZlbHRla2l0KQoKQXMgSSBhbSB3cml0aW5nIHRoaXMgU3ZlbHRlS2l0IGlzIGN1cnJlbnRseSBpbiBiZXRhLiBDYW4ndCB3YWl0IGZvciB0aGUgcmVsZWFzZSEKCiMgQ29uY2x1c2lvbgpJIGNvdWxkIGdvIG9uIGFuZCBvbiBhbmQgb24gKGhhdmUgSSBtZW50aW9uZWQgU3ZlbHRlIGlzIHdyaXR0ZW4gaW4gVHlwZVNjcmlwdD8pLiBCdXQgdGhpcyB3cmFwcyBpdCB1cC4gWW91IGNhbiBzZWUgdGhhdCBJIGFtIGV4Y2l0ZWQsIHJpZ2h0PyBTdmVsdGUgaXMgc29tZXRoaW5nIEkgd291bGQgcGxhY2UgbXkgYmV0IG9uLiBMZWFybmluZyBTdmVsdGUgYW5kIHRoZSBkaWZmZXJlbmNlcyB0byBydW50aW1lIHN5c3RlbS1iYXNlZCBmcmFtZXdvcmtzIGlzIGRlZmluaXRlbHkgbm90IGEgd2FzdGUgb2YgdGltZS4KCkkgYW0gbG9va2luZyBmb3J3YXJkIHRvIFN2ZWx0ZXMgZXZvbHV0aW9uIGluIHRoZSBmdXR1cmUuIEkgaG9wZSB0aGF0IGl0IHdpbGwgc29vbiBiZSBtb3JlIHdpZGVseSB1c2VkIGFuZCBJIGNhbiBzdGFydCBjbGllbnQgcHJvamVjdHMgdXNpbmcgU3ZlbHRlIPCfmIk=
+# Why Svelte is different - and awesome!
+
+*Just to get this out of the way in the beginning:*
+
+*This is not meant to be bashing other frameworks like React, Vue, or Angular. I used all of them and React (using NextJS) is mostly still my go-to.*
+
+# What is Svelte?
+
+> Svelte is a radical new approach to building user interfaces. Whereas traditional frameworks like React and Vue do the bulk of their work in the browser, Svelte shifts that work into a **compile step** that happens when you build your app.
+
+TLDR;
+it's like React or Vue, but with the main difference that it is [a compiler](https://svelte.dev/blog/frameworks-without-the-framework).
+
+There is a quote in the blog article linked above:
+>Wait, this new framework has a runtime? Ugh. Thanks, I'll pass.
+
+> – front end developers in 2018
+
+Even though this didn't happen in 2018, I think we'll get to that mindset at some point.
+
+## What does "Svelte is a compiler" mean?
+
+It essentially means that Svelte-specific code gets compiled (think about transformed) to JavaScript, which is executable by the browser.
+
+Another compiler you might know is the TypeScript compiler (`tsc`), which compiles TypeScript to JavaScript. It's the same concept.
+
+So what is the deal? You can also write React code as `.js` and ship it. That is true, BUT that JavaScript code does not work in the browser without shipping the React runtime system as well.
+
+> A runtime system refers to the collection of software and hardware resources that enable a software program to be executed on a computer system.
+
+*Note: Even though I a lot of people are talking about "(no) runtime", it should more accurately be "(no) runtime **system**".*
+
+Read the great [React as a UI Runtime](https://overreacted.io/react-as-a-ui-runtime/) blog post from [Dan Abramov](https://mobile.twitter.com/dan_abramov). It explains React being a runtime (system) in depth.
+
+There is also another benefit besides not require a runtime. Svelte could extend and change the JavaScript syntax because the Compiler compiles the JavaScript in the end. Therefore Svelte could get rid of some limitations provided by JavaScript syntax.
+
+This could also be a downside because if Svelte would strongly deviate from JavaScript syntax, it would essentially become another language to learn. No worries, Svelte tries to stick to the JavaScript Syntax.
+
+# Benefits resulting from Svelte being a compiler
+Since Svelte is a compiler and therefore does not require a runtime system to be loaded into the client, there are several advantages. These are what make Svelte special. The most important advantages that came to my mind are shown in the next sections.
+
+## Performance
+This one should be obvious: No runtime to load for the client results in faster load times.
+
+The following image shows an excerpt of a JS framework benchmark (see [this GitHub repo](https://github.com/krausest/js-framework-benchmark)). It's based on a large table with randomized entries and measures the time for various operations including rendering duration.
+
+![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1619355158508/Olvdi5zOk.png)
+
+The app using Svelte ships the lowest amount of code. *(Somehow Svelte seems to require less code than vanilla JS, I have no clue how that could happen 😅)*
+
+But it not only ships less code to the client but also executes faster:
+
+![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1619355565050/accrTZHyr.png)
+
+One of the reasons for this is that Svelte does not use a virtual DOM (vDOM). Svelte does not rely on the diff between vDOM and DOM to update the DOM. The other mentioned frameworks like React, Vue ~~and Angular~~ *(EDIT: Angular uses Incremental DOM)* do use the vDOM. You can read details about this in Svelte's blog post [Virtual DOM is pure overhead](https://svelte.dev/blog/virtual-dom-is-pure-overhead).
+
+A quick quote from that post:
+> Svelte is a compiler that knows **at build time** how things could change in your app, rather than waiting to do the work at run time.
+
+## Svelte in a Micro-Frontend Architecture
+Micro-Frontends (MFEs) is a topic in itself (read about it in [this article](https://martinfowler.com/articles/micro-frontends.html) proved by [Martin Fowler](https://twitter.com/martinfowler)). But the concept is basically that different teams can separately develop distinct parts of the frontend. Teams can also choose the tech stack they want to use. Therefore the client could end up loading different versions of Angular, Vue, React, etc.:
+
+> Some micro frontend implementations can lead to duplication of dependencies, *increasing the number of bytes our users must download*. 
+*(from Martin Fowler article linked above)*
+
+But what about Svelte? Svelte (also using different versions of it) does not come with the downside of increasing the KBs a client has to load. 
+
+Svelte is an awesome choice for MFE Architecture.
+
+# Other benefits
+These benefits do not result from Svelte being a compiler, but they make Svelte stand out anyways.
+
+## REPL
+Svelte has an awesome REPL. You can start playing around and try out things without any effort. This is awesome! [Try it out](https://svelte.dev/repl/hello-world?version=3.37.0).
+
+You can also see the compiled JS and outputted CSS (it can be written in the same `.svelte` file) by clicking on "JS Output" or "CSS Output" respectively.
+
+Is this evidence enough that Svelte is a compiler? 😉
+
+The REPL is used in their awesome tutorial as well. You can learn Svelte hands-on: [Svelte tutorial](https://svelte.dev/tutorial/basics).
+
+## Builtin features
+Svelte has some features built-in that you need in almost any app anyways (at least larger ones), like transitions, animations, and a store. No need for an additional dependency or the decision between various choices in the first place.
+
+> A store is simply an object with a subscribe method that allows interested parties to be notified whenever the store value changes. 
+
+```javascript
+import { writable } from 'svelte/store';
+
+export const count = writable(0);
+
+export const increment = () => {
+	count.update(n => n + 1);
+}
+```
+
+That's it. You can import `count` and `increment` across your app. Simple!
+
+[Try out Svelte store tutorial](https://svelte.dev/tutorial/writable-stores)
+
+Animations and transitions in Svelte are easy to use. Can you guess what the following code is doing?
+
+```javascript
+{#if visible}
+	<p in:fly="{{ y: 200, duration: 2000 }}" out:fade>
+		Flies in, fades out
+	</p>
+{/if}
+```
+
+[Try out Svelte transitions tutorial](https://svelte.dev/tutorial/in-and-out)
+
+But they can also be used for more complex things, like the following:
+
+![animations.gif](https://cdn.hashnode.com/res/hashnode/image/upload/v1619357232242/hS_6eOg5V.gif)
+
+Have fun building this in React 🤪
+
+[Try out Svelte animations tutorial](https://svelte.dev/tutorial/animate)
+
+# SvelteKit
+[SvelteKit](https://kit.svelte.dev/) is a topic of its own. But it is one of the main reasons why I am so excited. Think of SvelteKit being for Svelte what NextJS is for React.
+
+But why is it awesome?
+
+>SvelteKit **fully embraces the serverless paradigm**, and will launch with support for all the major serverless providers, with an 'adapter' API for targeting any platforms that we don't officially cater to.
+
+Read about it in [What's the deal with SvelteKit?](https://svelte.dev/blog/whats-the-deal-with-sveltekit)
+
+As I am writing this SvelteKit is currently in beta. Can't wait for the release!
+
+# Conclusion
+I could go on and on and on (have I mentioned Svelte is written in TypeScript?). But this wraps it up. You can see that I am excited, right? Svelte is something I would place my bet on. Learning Svelte and the differences to runtime system-based frameworks is definitely not a waste of time.
+
+I am looking forward to Sveltes evolution in the future. I hope that it will soon be more widely used and I can start client projects using Svelte 😉
