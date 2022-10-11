@@ -1,1 +1,249 @@
-IyMgVHlwZVNjcmlwdCBkZWNvcmF0b3JzIGJhc2ljcwoK4oGJ77iPICoqV2hhdCoqIGFyZSBkZWNvcmF0b3JzPyAqKldoYXQqKiB0eXBlcyBvZiBkZWNvcmF0b3JzIGFyZSB0aGVyZT8KCuKBie+4jyAqKkhvdyoqIGNhbiB0aGV5IGJlIHVzZWQ/CgrigYnvuI8gKipXaGVuKiogYXJlIHRoZXkgZXhlY3V0ZWQ/CgojIERlY29yYXRvcnMKRGVjb3JhdG9ycyBhcmUgYSBzdGFnZSAyIEVDTUFTY3JpcHQgcHJvcG9zYWwgKCJfZHJhZnQiXzsgcHVycG9zZTogXyJQcmVjaXNlbHkgZGVzY3JpYmUgdGhlIHN5bnRheCBhbmQgc2VtYW50aWNzIHVzaW5nIGZvcm1hbCBzcGVjIGxhbmd1YWdlLiJfKS4gVGhlcmVmb3JlLCB0aGUgZmVhdHVyZSBpc24ndCBpbmNsdWRlZCBpbiB0aGUgRUNNQVNjcmlwdCBzdGFuZGFyZCB5ZXQuIFR5cGVTY3JpcHQgKGVhcmx5KSBhZG9wdGVkIHRoZSBmZWF0dXJlIG9mIGRlY29yYXRvcnMgYXMgYW4gKipleHBlcmltZW50YWwgZmVhdHVyZSoqLgoKQnV0IHdoYXQgYXJlIHRoZXk/IEluIHRoZSBbRUNNQVNjcmlwdCBwcm9wb3NhbF0oaHR0cHM6Ly9naXRodWIuY29tL3RjMzkvcHJvcG9zYWwtZGVjb3JhdG9ycykgdGhleSBhcmUgZGVzY3JpYmVkIGFzIGZvbGxvd3M6Cgo+IERlY29yYXRvcnMgQCBkZWNvcmF0b3IgYXJlIGZ1bmN0aW9ucyAqKmNhbGxlZCBvbiBjbGFzcyBlbGVtZW50cyBvciBvdGhlciBKYXZhU2NyaXB0IHN5bnRheCBmb3JtcyBkdXJpbmcgZGVmaW5pdGlvbioqLCAqKnBvdGVudGlhbGx5IHdyYXBwaW5nIG9yIHJlcGxhY2luZyB0aGVtIHdpdGggYSBuZXcgdmFsdWUqKiByZXR1cm5lZCBieSB0aGUgZGVjb3JhdG9yLgoKSW4gdGhlIFtUeXBlU2NyaXB0IGhhbmRib29rXShodHRwczovL3d3dy50eXBlc2NyaXB0bGFuZy5vcmcvZG9jcy9oYW5kYm9vay9kZWNvcmF0b3JzLmh0bWwpIGRlY29yYXRvcnMgYXJlIGRlc2NyaWJlZCBhczoKCj4gRGVjb3JhdG9ycyBwcm92aWRlIGEgd2F5IHRvIGFkZCBib3RoICoqYW5ub3RhdGlvbnMgYW5kIGEgbWV0YS1wcm9ncmFtbWluZyBzeW50YXgqKiBmb3IgY2xhc3MgZGVjbGFyYXRpb25zIGFuZCBtZW1iZXJzLgoKVG8gcHV0IGl0IGluIGEgbW9yZSBnZW5lcmFsIHdheTogKip5b3UgY2FuIGNoYW5nZSB0aGUgYmVoYXZpb3VyIG9mIGNlcnRhaW4gcGFydHMgb2YgdGhlIGNvZGUgYnkgYW5ub3RhdGluZyB0aGVtIHdpdGggYSBkZWNvcmF0b3IuKiogVGhlIHBhcnRzIG9mIHRoZSBjb2RlLCB3aGljaCBjYW4gYmUgYW5ub3RhdGVkIHdpdGggZGVjb3JhdG9ycyBhcmUgZGVzY3JpYmVkIGluIHRoZSBbVHlwZXMgb2YgZGVjb3JhdG9yc10oI3R5cGVzLW9mLWRlY29yYXRvcnMpIHNlY3Rpb24uCgoqKkJPTlVTOioqIFRoZXJlIGlzIGV2ZW4gYSAqKmRlY29yYXRvciBwYXR0ZXJuKiogZGVzY3JpYmVkIGluIHRoZSBbRGVzaWduIFBhdHRlcm5zIGJvb2sgYnkgdGhlIEdhbmcgb2YgRm91cl0oaHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvRGVzaWduX1BhdHRlcm5zKS4gSXRzIGludGVudCBpcyBkZXNjcmliZWQgYXM6Cj4gdG8gYWRkIHJlc3BvbnNpYmlsaXRpZXMgdG8gaW5kaXZpZHVhbCBvYmplY3RzICoqZHluYW1pY2FsbHkgYW5kIHRyYW5zcGFyZW50bHkqKiwgdGhhdCBpcywgd2l0aG91dCBlZmZlY3Rpbmcgb3RoZXIgb2JqZWN0cy4KCiMgRW5hYmxlIGRlY29yYXRvcnMKU2luY2UgZGVjb3JhdG9ycyBhcmUgYW4gZXhwZXJpbWVudGFsIGZlYXR1cmUsIHRoZXkgYXJlICoqZGlzYWJsZWQgYnkgZGVmYXVsdCoqLiBZb3UgbXVzdCBlbmFibGUgdGhlbSBieSBlaXRoZXIgZW5hYmxpbmcgaXQgaW4gdGhlIGB0c2NvbmZpZy5qc29uYCBvciBwYXNzaW5nIGl0IHRvIHRoZSBUeXBlU2NyaXB0IGNvbXBpbGVyIChgdHNjYCkuIFlvdSBzaG91bGQgYWxzbyBhdCBsZWFzdCB1c2UgRVM1IGFzIGEgdGFyZ2V0IChkZWZhdWx0IGlzIEVTMykuCgpgdHNjb25maWcuanNvbmAKYGBganNvbgp7CiAgImNvbXBpbGVyT3B0aW9ucyI6IHsKICAgICJ0YXJnZXQiOiAiRVM1IiwKICAgICJleHBlcmltZW50YWxEZWNvcmF0b3JzIjogdHJ1ZQogIH0KfQpgYGAKCioqQ0xJKioKYGBgYmFzaAp0c2MgLXQgRVM1IC0tZXhwZXJpbWVudGFsRGVjb3JhdG9ycwpgYGAKCllvdSBtaWdodCBhbHNvIHdhbnQgdG8gaGF2ZSBhIGxvb2sgYXQgdGhlIHJlbGF0ZWQgW0VtaXQgRGVjb3JhdG9yIE1ldGFkYXRhXShodHRwczovL3d3dy50eXBlc2NyaXB0bGFuZy5vcmcvdHNjb25maWcjZW1pdERlY29yYXRvck1ldGFkYXRhKSBzZXR0aW5nICh3aGljaCBpcyBub3QgaW4gc2NvcGUgb2YgdGhpcyBwb3N0LikKCiMgVHlwZXMgb2YgZGVjb3JhdG9ycwpUaGVyZSBhcmUgKio1IGRpZmZlcmVudCB0eXBlcyBvZiBkZWNvcmF0b3JzKio6Ci0gY2xhc3MgZGVjb3JhdG9ycwotIHByb3BlcnR5IGRlY29yYXRvcnMKLSBtZXRob2QgZGVjb3JhdG9ycwotIGFjY2Vzc29yIGRlY29yYXRvcnMgXyg9PSBtZXRob2QgZGVjb3JhdG9yIGFwcGxpZWQgdG8gZ2V0dGVyIC8gc2V0dGVyIGZ1bmN0aW9uKV8KLSBwYXJhbWV0ZXIgZGVjb3JhdG9ycwoKVGhlIGZvbGxvd2luZyBleGFtcGxlIHNob3dzIHdoZXJlIHRoZXkgY2FuIGJlIGFwcGxpZWQ6CmBgYHR5cGVzY3JpcHQKLy8gdGhpcyBpcyBubyBydW5uYWJsZSBjb2RlIHNpbmNlIHRoZSBkZWNvcmF0b3JzIGFyZSBub3QgZGVmaW5lZAoKQGNsYXNzRGVjb3JhdG9yCmNsYXNzIFBvbHlnb24gewogIEBwcm9wZXJ0eURlY29yYXRvcgogIGVkZ2VzOiBudW1iZXI7CiAgcHJpdmF0ZSBfeDogbnVtYmVyOwoKICBjb25zdHJ1Y3RvcihAcGFyYW1ldGVyRGVjb3JhdG9yIGVkZ2VzOiBudW1iZXIsIHg6IG51bWJlcikgewogICAgdGhpcy5lZGdlcyA9IGVkZ2VzOwogICAgdGhpcy5feCA9IHg7CiAgfQoKICBAYWNjZXNzb3JEZWNvcmF0b3IKICBnZXQgeCgpIHsKICAgIHJldHVybiB0aGlzLl94OwogIH0KCiAgQG1ldGhvZERlY29yYXRvcgogIGNhbGN1YXRlQXJlYSgpOiBudW1iZXIgewogICAgLy8gLi4uCiAgfQp9CmBgYAoKQ2xhc3MgY29uc3RydWN0b3JzIGNhbiBub3QgaGF2ZSBhIGRlY29yYXRvciBhcHBsaWVkLgoKIyMgT3ZlcnZpZXcgb3ZlciBzaWduYXR1cmVzCkVhY2ggb2YgdGhlIGRlY29yYXRvciBmdW5jdGlvbnMgcmVjZWl2ZXMgZGlmZmVyZW50IHBhcmFtZXRlcnMuIFRoZSBhY2Nlc3NvciBkZWNvcmF0b3IgaXMgYW4gZXhjZXB0aW9uLCBiZWNhdXNlIGl0IGlzIGVzc2VudGlhbGx5IGp1c3QgYSBtZXRob2QgZGVjb3JhdG9yLCB3aGljaCBpcyBhcHBsaWVkIHRvIGFuIGFjY2Vzc29yIChnZXR0ZXIgb3Igc2V0dGVyKS4KClRoZSBkaWZmZXJlbnQgc2lnbmF0dXJlcyBhcmUgZGVmaW5lZCBpbiBgbm9kZV9tb2R1bGVzL3R5cGVzY3JpcHQvbGliL2xpYi5lczUuZC50c2A6CmBgYHR5cGVzY3JpcHQKaW50ZXJmYWNlIFR5cGVkUHJvcGVydHlEZXNjcmlwdG9yPFQ+IHsKICBlbnVtZXJhYmxlPzogYm9vbGVhbjsKICBjb25maWd1cmFibGU/OiBib29sZWFuOwogIHdyaXRhYmxlPzogYm9vbGVhbjsKICB2YWx1ZT86IFQ7CiAgZ2V0PzogKCkgPT4gVDsKICBzZXQ/OiAodmFsdWU6IFQpID0+IHZvaWQ7Cn0KCmRlY2xhcmUgdHlwZSBDbGFzc0RlY29yYXRvciA9IDxURnVuY3Rpb24gZXh0ZW5kcyBGdW5jdGlvbj4odGFyZ2V0OiBURnVuY3Rpb24pID0+IFRGdW5jdGlvbiB8IHZvaWQ7Ci8vIGFsc28gYXBwbGllcyBmb3IgYWNjZXNzb3IgZGVjb3JhdG9ycwpkZWNsYXJlIHR5cGUgUHJvcGVydHlEZWNvcmF0b3IgPSAodGFyZ2V0OiBPYmplY3QsIHByb3BlcnR5S2V5OiBzdHJpbmcgfCBzeW1ib2wpID0+IHZvaWQ7CmRlY2xhcmUgdHlwZSBNZXRob2REZWNvcmF0b3IgPSA8VD4odGFyZ2V0OiBPYmplY3QsIHByb3BlcnR5S2V5OiBzdHJpbmcgfCBzeW1ib2wsIGRlc2NyaXB0b3I6IFR5cGVkUHJvcGVydHlEZXNjcmlwdG9yPFQ+KSA9PiBUeXBlZFByb3BlcnR5RGVzY3JpcHRvcjxUPiB8IHZvaWQ7CmRlY2xhcmUgdHlwZSBQYXJhbWV0ZXJEZWNvcmF0b3IgPSAodGFyZ2V0OiBPYmplY3QsIHByb3BlcnR5S2V5OiBzdHJpbmcgfCBzeW1ib2wsIHBhcmFtZXRlckluZGV4OiBudW1iZXIpID0+IHZvaWQ7CmBgYAoKIyMgT3JkZXIgb2YgZXZhbHVhdGlvbgpUaGUgZGlmZmVyZW50IHR5cGVzIG9mIGRlY29yYXRvcnMgYXJlIGV2YWx1YXRlZCBpbiB0aGUgZm9sbG93aW5nIG9yZGVyOgoK4qyH77iPIGluc3RhbmNlIG1lbWJlcnM6IFByb3BlcnR5IERlY29yYXRvcnMgZmlyc3QgYW5kIGFmdGVyIHRoYXQgQWNjZXNzb3IsIFBhcmFtZXRlciBvciBNZXRob2QgRGVjb3JhdG9ycwoK4qyH77iPIHN0YXRpYyBtZW1iZXJzOiBQcm9wZXJ0eSBEZWNvcmF0b3JzIGZpcnN0IGFuZCBhZnRlciB0aGF0IEFjY2Vzc29yLCBQYXJhbWV0ZXIgb3IgTWV0aG9kIERlY29yYXRvcnMKCuKsh++4jyBQYXJhbWV0ZXIgRGVjb3JhdG9ycyBhcmUgYXBwbGllZCBmb3IgdGhlIGNvbnN0cnVjdG9yLgoK4qyH77iPIENsYXNzIERlY29yYXRvcnMgYXJlIGFwcGxpZWQgZm9yIHRoZSBjbGFzcy4KCkJyaW5naW5nIHRoZSBkaWZmZXJlbnQgdHlwZXMsIHRoZWlyIHNpZ25hdHVyZXMgYW5kIG9yZGVyIG9mIGV2YWx1YXRpb24gdG9nZXRoZXI6CmBgYHR5cGVzY3JpcHQKCmZ1bmN0aW9uIHByb3BlcnR5RGVjb3JhdG9yKHRhcmdldDogT2JqZWN0LCBwcm9wZXJ0eUtleTogc3RyaW5nIHwgc3ltYm9sKSB7CiAgY29uc29sZS5sb2coInByb3BlcnR5RGVjb3JhdG9yIiwgcHJvcGVydHlLZXkpOwp9CmZ1bmN0aW9uIHBhcmFtZXRlckRlY29yYXRvcih0YXJnZXQ6IE9iamVjdCwgcHJvcGVydHlLZXk6IHN0cmluZyB8IHN5bWJvbCwgcGFyYW1ldGVySW5kZXg6IG51bWJlcikgewogIGNvbnNvbGUubG9nKCJwYXJhbWV0ZXJEZWNvcmF0b3IiLCBwcm9wZXJ0eUtleSwgcGFyYW1ldGVySW5kZXgpOwp9CmZ1bmN0aW9uIG1ldGhvZERlY29yYXRvcjxUPih0YXJnZXQ6IE9iamVjdCwgcHJvcGVydHlLZXk6IHN0cmluZyB8IHN5bWJvbCwgZGVzY3JpcHRvcjogVHlwZWRQcm9wZXJ0eURlc2NyaXB0b3I8VD4pIHsKICBjb25zb2xlLmxvZygibWV0aG9kRGVjb3JhdG9yIiwgcHJvcGVydHlLZXkpOwp9CmZ1bmN0aW9uIGFjY2Vzc29yRGVjb3JhdG9yPFQ+KHRhcmdldDogT2JqZWN0LCBwcm9wZXJ0eUtleTogc3RyaW5nIHwgc3ltYm9sLCBkZXNjcmlwdG9yOiBUeXBlZFByb3BlcnR5RGVzY3JpcHRvcjxUPikgewogIGNvbnNvbGUubG9nKCJhY2Nlc3NvckRlY29yYXRvciIsIHByb3BlcnR5S2V5KTsKfQpmdW5jdGlvbiBjbGFzc0RlY29yYXRvcih0YXJnZXQ6IEZ1bmN0aW9uKSB7CiAgY29uc29sZS5sb2coImNsYXNzRGVjb3JhdG9yIik7Cn0KCkBjbGFzc0RlY29yYXRvcgpjbGFzcyBQb2x5Z29uIHsKICBAcHJvcGVydHlEZWNvcmF0b3IKICBwcml2YXRlIHN0YXRpYyBfUEk6IG51bWJlciA9IDMuMTQ7CiAgQHByb3BlcnR5RGVjb3JhdG9yCiAgZWRnZXM6IG51bWJlcjsKICBwcml2YXRlIF94OiBudW1iZXI7CgogIGNvbnN0cnVjdG9yKEBwYXJhbWV0ZXJEZWNvcmF0b3IgZWRnZXM6IG51bWJlciwgeDogbnVtYmVyKSB7CiAgICB0aGlzLmVkZ2VzID0gZWRnZXM7CiAgICB0aGlzLl94ID0geDsKICB9CgogIEBtZXRob2REZWNvcmF0b3IKICBzdGF0aWMgcHJpbnQoQHBhcmFtZXRlckRlY29yYXRvciBmb286IHN0cmluZyk6IHZvaWQgewogICAgLy8gLi4uCiAgfQoKICBAYWNjZXNzb3JEZWNvcmF0b3IKICBzdGF0aWMgZ2V0IFBJKCk6IG51bWJlciB7CiAgICByZXR1cm4gUG9seWdvbi5fUEk7CiAgfQoKICBAYWNjZXNzb3JEZWNvcmF0b3IKICBnZXQgeCgpIHsKICAgIHJldHVybiB0aGlzLl94OwogIH0KCiAgQG1ldGhvZERlY29yYXRvcgogIGNhbGN1YXRlQXJlYShAcGFyYW1ldGVyRGVjb3JhdG9yIGJhcjogc3RyaW5nKTogbnVtYmVyIHsKICAgIHJldHVybiB0aGlzLnggKiAyOwogIH0KfQoKY29uc29sZS5sb2coImluc3RhbnRpYXRpbmcuLi4iKQpuZXcgUG9seWdvbigzLCAyKQoKLy8gT3V0cHV0OgovLyAgIFtMT0ddOiAicHJvcGVydHlEZWNvcmF0b3IiLCAgImVkZ2VzIgovLyAgIFtMT0ddOiAiYWNjZXNzb3JEZWNvcmF0b3IiLCAgIngiCi8vICAgW0xPR106ICJwYXJhbWV0ZXJEZWNvcmF0b3IiLCAgImNhbGN1YXRlQXJlYSIsICAwCi8vICAgW0xPR106ICJtZXRob2REZWNvcmF0b3IiLCAgImNhbGN1YXRlQXJlYSIKLy8gICBbTE9HXTogInByb3BlcnR5RGVjb3JhdG9yIiwgICJfUEkiCi8vICAgW0xPR106ICJwYXJhbWV0ZXJEZWNvcmF0b3IiLCAgInByaW50IiwgIDAKLy8gICBbTE9HXTogIm1ldGhvZERlY29yYXRvciIsICAicHJpbnQiCi8vICAgW0xPR106ICJhY2Nlc3NvckRlY29yYXRvciIsICAiUEkiCi8vICAgW0xPR106ICJwYXJhbWV0ZXJEZWNvcmF0b3IiLCAgdW5kZWZpbmVkLCAgMAovLyAgIFtMT0ddOiAiY2xhc3NEZWNvcmF0b3IiCi8vICAgW0xPR106ICJpbnN0YW50aWF0aW5nLi4uIgpgYGAKW09wZW4gZXhhbXBsZSBpbiBQbGF5Z3JvdW5kXShodHRwczovL3d3dy50eXBlc2NyaXB0bGFuZy5vcmcvcGxheT8jY29kZS9MQUtBWmdyZ2RneGdMZ1N3UFpRQVFBY0JPVDBGTk53Q2VBSXJqRXBnSVp3VUFVY2xtQTVybkFGeW9EeUFSZ0ZabHdBTkJteDRDaEFOSzVDSEFNNXhNQ0tFMVFBZlZMTUlCYmJrZ0EyQVNsUUJ2VUtsVGtvcy1iZ0IwZXBFMW9BaUxEbnhGUzVLalV6UGhibUpFVW9RR0FOeWdBTDZna0xDSUtCaU1sRnFzK0Y0VTFIUU16S3djUFB6d0FhSWVrdEp5Q2tvcTZwbzYrZ0ZKS1hENEFKSlFBQ2E0QUI0Y1VCQTYrRWJHcUdZV0tOWjZkZzVPcmcycG1PaytGUDRpN3VJaDlWU05MZTFkNFZFeDBQRElhSTBBRmtodEM1bVlBRHdBS2dCODlJd3M3Rng4QWtXcndXVWFGY3BxRFRhWFI2WVFkV1F3UlRvWHdjTzZFUEJ0QUFLeFhFcEFoVU44OXdlZ3hHbG5HazBjTGpPRnl1dm1XZ1JLSVhDd3hBMFhBaDNpYUVvTUJndUZrMW5tWkF5bU1lenh5YjN5bnhXUVZLTWoraWdCMVdCZFZRNE1oQ0doRkZoOE53U0pSbmpaOHNWdDBlT0pBNWp4Tm5zaE9jek5aN0lvcEtXWHhGVklpdElPY1dPRmowbEhaVnN3Zk5lSEFBWWd6am5xRFdNalZNWERCWGU2dVlzLUhzSFNCUUFBQmNOdTJRZTBESjltb1JINlFoTUJLbWZXb0JNVTFGUjY0akxBSUFCdTFGd2Yyb0NCZ3FBQStvam1qMCt0eDhLZ0FMeW9BRE10Z0FqQUFXZTNtWXZxa2hsM3dqVlVzV1FkLXFZY2NpYXUxbHZkVkM5WmYyM0ZqQlFRZUIwWXV6SnFjN3pYVkR6dGxMcnVZWVJibmYzd1BtVkJ3VTRJV1MyRyt5WHZYdG9GMVhjd1B5LVd4bTA2ZjlPbFhPa1JnVFlsTGhuQ2dSbmtCc20wcktBNEZvVTlOam1EMVVEQUpBa0hLQ1VtQU1EZ3F5UUJBMmhNRVp6QUFlbm8xQmJCWWtaWU1MQk16VFpEazAwTFZERUNiVjRzMmFXaHlPM1R0dXdMTjlVRXdWZ0lFd05Cc3owWE1VSEF0c1lOQU9DdUl0Qzl1V1F3c2hNNlVUYU1MY3haTGdlUzBGQTc4SUkwK01PSVEzaURVb1BRWUFnV3NBRUZaTW9iRDBEUE5Ja013VkJ1RVlFaktqRTU5SkxvbVM1SVU5OVAyLVNDQUNwVUFBSmpzOWpEUW1ZMXBpVVZETUlRQnRsQlkyeG5BTVVBb0Z3QUIzTE1jenpLQmFIN1lSVW9NSUEpCgojIERlY29yYXRvciBmYWN0b3JpZXMKTWF5YmUgeW91IGFscmVhZHkgYXNrZWQgeW91cnNlbGYsIGFmdGVyIGhhdmluZyBhIGxvb2sgYXQgdGhlIGRpZmZlcmVudCBzaWduYXR1cmVzLCBob3cgdG8gcGFzcyBhZGRpdGlvbmFsIHByb3BlcnRpZXMgdG8gdGhlIGRlY29yYXRvciBmdW5jdGlvbnMuIFRoZSBhbnN3ZXIgdG8gdGhhdCBpczogd2l0aCBkZWNvcmF0b3IgZmFjdG9yaWVzLgoKRGVjb3JhdG9yIGZhY3RvcmllcyBhcmUganVzdCBmdW5jdGlvbnMgd3JhcHBlZCBhcm91bmQgdGhlIGRlY29yYXRvciBmdW5jdGlvbiBpdHNlbGYuIFdpdGggdGhhdCBpbiBwbGFjZSwgeW91IGFyZSBhYmxlIHRvIHBhc3MgcGFyYW1ldGVycyB0byB0aGUgb3V0ZXIgZnVuY3Rpb24gaW4gb3JkZXIgdG8gbW9kaWZ5IHRoZSBiZWhhdmlvciBvZiB0aGUgZGVjb3JhdG9yLgoKRXhhbXBsZToKYGBgdHlwZXNjcmlwdApmdW5jdGlvbiBsb2codGV4dFRvTG9nOiBzdHJpbmcpIHsKICByZXR1cm4gZnVuY3Rpb24gKHRhcmdldDogT2JqZWN0LCBwcm9wZXJ0eUtleTogc3RyaW5nIHwgc3ltYm9sKSB7CiAgICBjb25zb2xlLmxvZyh0ZXh0VG9Mb2cpOwogIH0KfQoKY2xhc3MgQyB7CiAgQGxvZygidGhpcyB3aWxsIGJlIGxvZ2dlZCIpCiAgeDogbnVtYmVyOwp9CgovLyBPdXRwdXQ6Ci8vICAgW0xPR106ICJ0aGlzIHdpbGwgYmUgbG9nZ2VkIgpgYGAKW09wZW4gZXhhbXBsZSBpbiBQbGF5Z3JvdW5kXShodHRwczovL3d3dy50eXBlc2NyaXB0bGFuZy5vcmcvcGxheT8jY29kZS9MQUtBWmdyZ2RneGdMZ1N3UFpRQVFCc2tITUFVY0NtQUhuQUNwSUF5MkFYS2dNNXdCT0NVV0FsS2dONmlvUDV3UU0wa1dJaFNvOEFRd1pZK05BUElBakFGYjU0QUdsUUFIQmtrMzRHY0FKNEJwZklacjBtTFZBQjg2aGdMWUtrNmRseENwUHFHQ2xvdjhBSFNZdUFURVpKUnNBTnpjQUw2Z2NTQ2dNT2dTdExTb0FNS2MzS2dBQXNFNEFFUndBQllJNlFEdUNPam9xQXI0R05neUFDYUZyRG1FTkZBUVR2clJJREZBQSk6CgpJIGtub3cgdGhpcyBleGFtcGxlIGlzbid0IHRvbyBleGNpdGluZywgYnV0IGl0IG9wZW5zIHRoZSBkb29yIGZvciBhIGxvdCBvZiBwb3NzaWJpbGl0aWVzLiBCdXQgSSB3aWxsIGtlZXAgc29tZSBvZiB0aGVtIGZvciB0aGUgZm9sbG93aW5nIHBhcnRzIG9mIHRoaXMgc2VyaWVzIPCfmIkKCiMgRGVjb3JhdG9yIGNvbXBvc2l0aW9uCkNhbiB5b3UgYXBwbHkgbXVsdGlwbGUgZGVjb3JhdG9ycyBhdCBvbmNlPyBZZXMhIEluIHdoYXQgb3JkZXIgYXJlIHRoZXkgZXhlY3V0ZWQ/IEhhdmUgYSBsb29rOgoKYGBgdHlwZXNjcmlwdApmdW5jdGlvbiBsb2codGV4dFRvTG9nOiBzdHJpbmcpIHsKICBjb25zb2xlLmxvZyhgb3V0ZXI6ICR7dGV4dFRvTG9nfWApCiAgcmV0dXJuIGZ1bmN0aW9uICh0YXJnZXQ6IE9iamVjdCwgcHJvcGVydHlLZXk6IHN0cmluZyB8IHN5bWJvbCkgewogICAgY29uc29sZS5sb2coYGlubmVyOiAke3RleHRUb0xvZ31gKQogIH0KfQoKY2xhc3MgQyB7CiAgQGxvZygiZmlyc3QiKQogIEBsb2coInNlY29uZCIpCiAgeDogbnVtYmVyOwp9CgovLyBPdXRwdXQ6Ci8vICAgW0xPR106ICJvdXRlcjogZmlyc3QiCi8vICAgW0xPR106ICJvdXRlcjogc2Vjb25kIgovLyAgIFtMT0ddOiAiaW5uZXI6IHNlY29uZCIKLy8gICBbTE9HXTogImlubmVyOiBmaXJzdCIKYGBgCltPcGVuIGV4YW1wbGUgaW4gUGxheWdyb3VuZF0oaHR0cHM6Ly93d3cudHlwZXNjcmlwdGxhbmcub3JnL3BsYXk/I2NvZGUvTEFLQVpncmdkZ3hnTGdTd1BaUUFRQnNrSE1BVWNDbUFIbkFDcElBeTJBWEtnTTV3Qk9DVVdBbEtnTjZpcW93cTFKMCtBSFNaY0FBeVFRQ0RHZ0JJT0JZbVVwWUF2dU5iZFVEZkhBZ00wa1dJaFNvOEFRd1pZOU5BUElBakFGYjU0QUdsUUFIQmtrLTRHY0FDZUFOTDRnVFQwVEN5b0FENTBnUUMyRG9Mc1hDQThQSHhRQWtLaTJEaml6RkQrOG9wRXBCVFlHbHJwcUdxZzlTQ2dNT2dXdExTb0FNS2MyZ0FDWWpnQVJHQUlEUFNETlR6OStZTzByaWdBSmhQYWhEUlFFRW4rQU53TlFBKQoKVGhlIGRlY29yYXRvciBmYWN0b3JpZXMgYXJlIGV4ZWN1dGVkIGluIHRoZSBvcmRlciBvZiB0aGVpciBvY2N1cnJlbmNlIGFuZCB0aGUgZGVjb3JhdG9yIGZ1bmN0aW9ucyBhcmUgZXhlY3V0ZWQgaW4gcmV2ZXJzZWQgb3JkZXIuCgojIFJlc291cmNlcwrwn5SXIFtUeXBlU2NyaXB0IEhhbmRib29rIC0gRGVjb3JhdG9yc10oaHR0cHM6Ly93d3cudHlwZXNjcmlwdGxhbmcub3JnL2RvY3MvaGFuZGJvb2svZGVjb3JhdG9ycy5odG1sKQoK8J+UlyBbR2l0SHViIGlzc3VlIGRpc2N1c3Npb24gYWJvdXQgYWRkaW5nIERlY29yYXRvcnMgdG8gVHlwZVNjcmlwdF0oaHR0cHM6Ly9naXRodWIuY29tL01pY3Jvc29mdC9UeXBlU2NyaXB0L2lzc3Vlcy8yMjQ5KQoKIyMgRUNNQVNjcmlwdCBwcm9wb3NhbHMK8J+UlyBbRUNNQVNjcmlwdCBwcm9wb3NhbHNdKGh0dHBzOi8vZ2l0aHViLmNvbS90YzM5L3Byb3Bvc2FscykKCvCflJcgW0VDTUFTY3JpcHQgZGVjb3JhdG9yIHByb3Bvc2FsXShodHRwczovL2dpdGh1Yi5jb20vdGMzOS9wcm9wb3NhbC1kZWNvcmF0b3JzKQoKCiMgRmVlZGJhY2sgd2VsY29tZQpJJ2QgcmVhbGx5IGFwcHJlY2lhdGUgeW91ciBmZWVkYmFjay4gKipXaGF0IGRpZCB5b3UgKG5vdCkgbGlrZT8gV2h5PyoqIFBsZWFzZSBsZXQgbWUga25vdywgc28gSSBjYW4gaW1wcm92ZSB0aGUgY29udGVudC4K
+# TypeScript decorators basics
+
+⁉️ **What** are decorators? **What** types of decorators are there?
+
+⁉️ **How** can they be used?
+
+⁉️ **When** are they executed?
+
+# Decorators
+Decorators are a stage 2 ECMAScript proposal ("_draft"_; purpose: _"Precisely describe the syntax and semantics using formal spec language."_). Therefore, the feature isn't included in the ECMAScript standard yet. TypeScript (early) adopted the feature of decorators as an **experimental feature**.
+
+But what are they? In the [ECMAScript proposal](https://github.com/tc39/proposal-decorators) they are described as follows:
+
+> Decorators @ decorator are functions **called on class elements or other JavaScript syntax forms during definition**, **potentially wrapping or replacing them with a new value** returned by the decorator.
+
+In the [TypeScript handbook](https://www.typescriptlang.org/docs/handbook/decorators.html) decorators are described as:
+
+> Decorators provide a way to add both **annotations and a meta-programming syntax** for class declarations and members.
+
+To put it in a more general way: **you can change the behaviour of certain parts of the code by annotating them with a decorator.** The parts of the code, which can be annotated with decorators are described in the [Types of decorators](#types-of-decorators) section.
+
+**BONUS:** There is even a **decorator pattern** described in the [Design Patterns book by the Gang of Four](https://en.wikipedia.org/wiki/Design_Patterns). Its intent is described as:
+> to add responsibilities to individual objects **dynamically and transparently**, that is, without effecting other objects.
+
+# Enable decorators
+Since decorators are an experimental feature, they are **disabled by default**. You must enable them by either enabling it in the `tsconfig.json` or passing it to the TypeScript compiler (`tsc`). You should also at least use ES5 as a target (default is ES3).
+
+`tsconfig.json`
+```json
+{
+  "compilerOptions": {
+    "target": "ES5",
+    "experimentalDecorators": true
+  }
+}
+```
+
+**CLI**
+```bash
+tsc -t ES5 --experimentalDecorators
+```
+
+You might also want to have a look at the related [Emit Decorator Metadata](https://www.typescriptlang.org/tsconfig#emitDecoratorMetadata) setting (which is not in scope of this post.)
+
+# Types of decorators
+There are **5 different types of decorators**:
+- class decorators
+- property decorators
+- method decorators
+- accessor decorators _(== method decorator applied to getter / setter function)_
+- parameter decorators
+
+The following example shows where they can be applied:
+```typescript
+// this is no runnable code since the decorators are not defined
+
+@classDecorator
+class Polygon {
+  @propertyDecorator
+  edges: number;
+  private _x: number;
+
+  constructor(@parameterDecorator edges: number, x: number) {
+    this.edges = edges;
+    this._x = x;
+  }
+
+  @accessorDecorator
+  get x() {
+    return this._x;
+  }
+
+  @methodDecorator
+  calcuateArea(): number {
+    // ...
+  }
+}
+```
+
+Class constructors can not have a decorator applied.
+
+## Overview over signatures
+Each of the decorator functions receives different parameters. The accessor decorator is an exception, because it is essentially just a method decorator, which is applied to an accessor (getter or setter).
+
+The different signatures are defined in `node_modules/typescript/lib/lib.es5.d.ts`:
+```typescript
+interface TypedPropertyDescriptor<T> {
+  enumerable?: boolean;
+  configurable?: boolean;
+  writable?: boolean;
+  value?: T;
+  get?: () => T;
+  set?: (value: T) => void;
+}
+
+declare type ClassDecorator = <TFunction extends Function>(target: TFunction) => TFunction | void;
+// also applies for accessor decorators
+declare type PropertyDecorator = (target: Object, propertyKey: string | symbol) => void;
+declare type MethodDecorator = <T>(target: Object, propertyKey: string | symbol, descriptor: TypedPropertyDescriptor<T>) => TypedPropertyDescriptor<T> | void;
+declare type ParameterDecorator = (target: Object, propertyKey: string | symbol, parameterIndex: number) => void;
+```
+
+## Order of evaluation
+The different types of decorators are evaluated in the following order:
+
+⬇️ instance members: Property Decorators first and after that Accessor, Parameter or Method Decorators
+
+⬇️ static members: Property Decorators first and after that Accessor, Parameter or Method Decorators
+
+⬇️ Parameter Decorators are applied for the constructor.
+
+⬇️ Class Decorators are applied for the class.
+
+Bringing the different types, their signatures and order of evaluation together:
+```typescript
+
+function propertyDecorator(target: Object, propertyKey: string | symbol) {
+  console.log("propertyDecorator", propertyKey);
+}
+function parameterDecorator(target: Object, propertyKey: string | symbol, parameterIndex: number) {
+  console.log("parameterDecorator", propertyKey, parameterIndex);
+}
+function methodDecorator<T>(target: Object, propertyKey: string | symbol, descriptor: TypedPropertyDescriptor<T>) {
+  console.log("methodDecorator", propertyKey);
+}
+function accessorDecorator<T>(target: Object, propertyKey: string | symbol, descriptor: TypedPropertyDescriptor<T>) {
+  console.log("accessorDecorator", propertyKey);
+}
+function classDecorator(target: Function) {
+  console.log("classDecorator");
+}
+
+@classDecorator
+class Polygon {
+  @propertyDecorator
+  private static _PI: number = 3.14;
+  @propertyDecorator
+  edges: number;
+  private _x: number;
+
+  constructor(@parameterDecorator edges: number, x: number) {
+    this.edges = edges;
+    this._x = x;
+  }
+
+  @methodDecorator
+  static print(@parameterDecorator foo: string): void {
+    // ...
+  }
+
+  @accessorDecorator
+  static get PI(): number {
+    return Polygon._PI;
+  }
+
+  @accessorDecorator
+  get x() {
+    return this._x;
+  }
+
+  @methodDecorator
+  calcuateArea(@parameterDecorator bar: string): number {
+    return this.x * 2;
+  }
+}
+
+console.log("instantiating...")
+new Polygon(3, 2)
+
+// Output:
+//   [LOG]: "propertyDecorator",  "edges"
+//   [LOG]: "accessorDecorator",  "x"
+//   [LOG]: "parameterDecorator",  "calcuateArea",  0
+//   [LOG]: "methodDecorator",  "calcuateArea"
+//   [LOG]: "propertyDecorator",  "_PI"
+//   [LOG]: "parameterDecorator",  "print",  0
+//   [LOG]: "methodDecorator",  "print"
+//   [LOG]: "accessorDecorator",  "PI"
+//   [LOG]: "parameterDecorator",  undefined,  0
+//   [LOG]: "classDecorator"
+//   [LOG]: "instantiating..."
+```
+[Open example in Playground](https://www.typescriptlang.org/play?#code/LAKAZgrgdgxgLgSwPZQAQAcBOT0FNNwCeAIrjEpgIZwUAUclmA5rnAFyoDyARgFZlwANBmx4ChANK5CHAM5xMCKE1QAfVLMIBbbkgA2ASlQBvUKlTkos-bgB0epE1oAiLDnxFS5KjUzPhbmJEUoQGANygAL6gkLCIKBiMlFqs+F4U1HQMzKwcPPzwAaIektJyCkoq6po6+gFJKXD4AJJQACa4AB4cUBA6+EbGqGYWKNZ6dg5Org2pmOk+FP4i7uIh9VSNLe1d4VEx0PDIaI0AFkhtC5mYADwAKgB89Iws7Fx8AkWrwWUaFcpqDTaXR6YQdWQwRToXwcO6EPBtAAKxXEpAhUN89wegxGlnGk0cLjOFyuvmWgRKIXCwxA0XAh3iaEoMBguFk1nmZAymMezxyb3ynxWQVKMj+igB1WBdVQ4MhCGhFFh8NwSJRnjZ8sVt0eOJA5jxNnshOczNZ7IopKWXxFVIitIOcWOFj0lHZVswfNeHAAYgzjnqDWMjVMXDBXe6uYs-HsHSBQAABcNu2Qe0DJ9moRH6QhMBKmfWoBMU1FR64jLAIABu1Fwf2oCBgqAA+ojmj0+tx8KgALyoADMtgAjAAWe3mYvqkhl3wjVUsWQd-qYcciau1lvdVC9Zf23FjBQQeB0YuzJqc7zXVDztlLruYYRbnf3wPmVBwU4IWS2G+yXvXtoF1XcwPy-Wxm06f9OlXOkRgTYlLhnCgRnkBsm0rKA4FoU9NjmD1UDAJAkHKCUmAMDgqyQBA2hMEZzAAeno1BbBYkZYMLBMzTZDk00LVDECbV4s2aWhyO3TtuwLN9UEwVgIEwNBsz0XMUHAtsYNAOCuItC9uWQwshM6UTaMLcxZLgeS0FA78II0+MOIQ3iDUoPQYAgWsAEFZMobD0DPNIkMwVBuEYEjKjE59JLomS5IU99P2-SCACpUAAJjs9jDQmY1piUVDMIQBtlBY2xnAMUAoFwAB3LMczzKBaH7YRUoMIA)
+
+# Decorator factories
+Maybe you already asked yourself, after having a look at the different signatures, how to pass additional properties to the decorator functions. The answer to that is: with decorator factories.
+
+Decorator factories are just functions wrapped around the decorator function itself. With that in place, you are able to pass parameters to the outer function in order to modify the behavior of the decorator.
+
+Example:
+```typescript
+function log(textToLog: string) {
+  return function (target: Object, propertyKey: string | symbol) {
+    console.log(textToLog);
+  }
+}
+
+class C {
+  @log("this will be logged")
+  x: number;
+}
+
+// Output:
+//   [LOG]: "this will be logged"
+```
+[Open example in Playground](https://www.typescriptlang.org/play?#code/LAKAZgrgdgxgLgSwPZQAQBskHMAUcCmAHnACpIAy2AXKgM5wBOCUWAlKgN6ioP5wQM0kWIhSo8AQwZY+NAPIAjAFb54AGlQAHBkk34GcAJ4BpfIZr0mLVAB86hgLYKk6dlxCpPqGClov8AHSYuATEZJRsANzcAL6gcSCgMOgStLSoAMKc3KgAAsE4AERwABYI6QDuCOjoqAr4GNgyACaFrDmENFAQTvrRIDFAA):
+
+I know this example isn't too exciting, but it opens the door for a lot of possibilities. But I will keep some of them for the following parts of this series 😉
+
+# Decorator composition
+Can you apply multiple decorators at once? Yes! In what order are they executed? Have a look:
+
+```typescript
+function log(textToLog: string) {
+  console.log(`outer: ${textToLog}`)
+  return function (target: Object, propertyKey: string | symbol) {
+    console.log(`inner: ${textToLog}`)
+  }
+}
+
+class C {
+  @log("first")
+  @log("second")
+  x: number;
+}
+
+// Output:
+//   [LOG]: "outer: first"
+//   [LOG]: "outer: second"
+//   [LOG]: "inner: second"
+//   [LOG]: "inner: first"
+```
+[Open example in Playground](https://www.typescriptlang.org/play?#code/LAKAZgrgdgxgLgSwPZQAQBskHMAUcCmAHnACpIAy2AXKgM5wBOCUWAlKgN6iqowq1J0+AHSZcAAyQQCDGgBIOBYmUpYAvuNbdUDfHAgM0kWIhSo8AQwZY9NAPIAjAFb54AGlQAHBkk-4GcACeANL4gTT0TCyoAD50gQC2DoLsXCA8PHxQAkKi2DjizFD+8opEpBTYGlrpqGqg9SCgMOgWtLSoAMKc2gACYjgARGAIDPSDNTz9+YO0rigAJhPahDRQEEn+ANwNQA)
+
+The decorator factories are executed in the order of their occurrence and the decorator functions are executed in reversed order.
+
+# Resources
+🔗 [TypeScript Handbook - Decorators](https://www.typescriptlang.org/docs/handbook/decorators.html)
+
+🔗 [GitHub issue discussion about adding Decorators to TypeScript](https://github.com/Microsoft/TypeScript/issues/2249)
+
+## ECMAScript proposals
+🔗 [ECMAScript proposals](https://github.com/tc39/proposals)
+
+🔗 [ECMAScript decorator proposal](https://github.com/tc39/proposal-decorators)
+
+
+# Feedback welcome
+I'd really appreciate your feedback. **What did you (not) like? Why?** Please let me know, so I can improve the content.
