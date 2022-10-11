@@ -1,1 +1,149 @@
-IyMgQmVuZWZpdHMgYW5kIERvd25zaWRlcyBvZiBVc2luZyBTdGF0ZWNoYXJ0cwoKKlRoaXMgcG9zdCBpcyBwYXJ0IHR3byBvZiBteSBbc2VyaWVzIGFib3V0IHN0YXRlIG1hY2hpbmVzXShodHRwczovL2Jsb2cuamFubmlrd2VtcGUuY29tL3Nlcmllcy9zdGF0ZS1tYWNoaW5lcykuIEl0IGlzIGEgZm9sbG93LXVwIHBvc3Qgb2YgW1N0YXRlIE1hY2hpbmVzIGFuZCBTdGF0ZWNoYXJ0czogV2hhdCBhcmUgdGhleT9dKGh0dHBzOi8vYmxvZy5qYW5uaWt3ZW1wZS5jb20vd2hhdC1hcmUtc3RhdGUtbWFjaGluZXMtYW5kLXN0YXRlY2hhcnRzKS4gU3RhcnQgdGhlcmUgaWYgeW91J2QgbGlrZSB0byBsZWFybiBhYm91dCB3aGF0IChmaW5pdGUpIHN0YXRlIG1hY2hpbmVzIGFuZCBzdGF0ZWNoYXJ0cyBhcmUuKgoKLS0tCgpBZnRlciBoYXZpbmcgYW5zd2VyZWQgdGhlICoiV2hhdCBhcmUgU3RhdGUgTWFjaGluZXMgYW5kIFN0YXRlY2hhcnRzPyIqIGluIG15IGxhc3QgYXJ0aWNsZSwgdGhpcyB3aWxsIGJlIGFib3V0IHRoZSAqIldoeSBhcmUgdGhleT8iKi4gV2hhdCBhcmUgdGhlaXIgYmVuZWZpdHM/IFdoYXQgYXJlIHRoZSBkb3duc2lkZXM/CgojIFdoYXQgYXJlIHRoZSBCZW5lZml0cyBvZiBTdGF0ZWNoYXJ0cz8KCuKchSAqKkxlc3MgQnVncyoqCgpZb3UgcHJvYmFibHkgYWxsIGhhdmUgc2VlbiBjb2RlIHVzaW5nIHZhcmlvdXMgYm9vbGVhbnMgdG8gaW5kaWNhdGUgdGhlIHN0YXRlIG9mIHNvbWV0aGluZy4gYGlzTG9hZGluZ2AgYW5kIGBpc0Vycm9yYCBhcmUgdHlwaWNhbCBleGFtcGxlcyBJIHNlZSBxdWl0ZSBmcmVxdWVudGx5IHdoZW4gZGVhbGluZyB3aXRoIHNvbWUga2luZCBvZiByZXF1ZXN0LiBUaGlzIG9mdGVuIGdvZXMgaGFuZCBpbiBoYW5kIHdpdGggY29kZSBsaWtlIHRoaXM6CgpgYGBqcwppZiAoaXNFcnJvcikgewogIC8vIHJldHVybiBzb21lIGtpbmQgb2YgZXJyb3IKfQoKaWYgKGlzTG9hZGluZykgewogIC8vIHNob3cgbG9hZGluZyBpbmRpY2F0b3IKfQoKLy8gSXQgaXMgbmVpdGhlciBsb2FkaW5nIG5vciBlcnJvci4gSXQgbXVzdCBoYXZlIGJlZW4gc3VjY2Vzc2Z1bAovLyByZXR1cm4gYWN0dWFsIGNvbnRlbnQKYGBgCgpZb3UgaGF2ZSB0byBtYWtlIHN1cmUgYGlzTG9hZGluZ2AgYW5kIGBpc0Vycm9yYCBhcmUga2VwdCBpbiBzeW5jLiBTaG91bGQgYGlzRXJyb3IgPT09IHRydWVgIGJlIGFsbG93ZWQgd2hpbGUgbG9hZGluZz8gSWYgdGhhdCdzIG5vdCB0aGUgY2FzZSB5b3Ugd2lsbCBlbmQgdXAgaW4gYW4gKippbXBvc3NpYmxlIHN0YXRlKiogaWYgYm90aCBvZiB0aGVtIGFyZSBgdHJ1ZWAgYXQgdGhlIHNhbWUgdGltZS4gWW91IHdvdWxkIHN0aWxsIHNob3cgdGhlIGVycm9yIGV2ZW4gdGhvdWdoIGEgbmV3IHJlcXVlc3QgaGFzIGJlZW4gc3RhcnRlZC4KClVzaW5nIGEgU3RhdGVjaGFydCB5b3Ugd291bGQgYWxzbyBtb2RlbCB0aGUgc3VjY2VzcyBzdGF0ZSBleHBsaWNpdGx5LiBTdGF0ZWNoYXJ0cyByZXF1aXJlIHlvdSB0byBiZSBpbiBhIHNpbmdsZSBzdGF0ZSBhdCBhbGwgdGltZXMgKCpJIGNvbnNpZGVyIHBhcmFsbGVsIHN0YXRlcyBzdGlsbCBhcyBhIHNpbmdsZSBzdGF0ZSopLgoKKlllcywgdGhpcyBpcyBhIHNpbXBsaWZpZWQgZXhhbXBsZSB3aGVyZSBhIHNpbmdsZSBzdHJpbmcgYHN0YXRlYCB2YXJpYWJsZSB3aXRoIHZhbHVlcyBsaWtlIGAibG9hZGluZyJgLCBgImVycm9yImAgb3IgYCJzdWNjZXNzYCB3b3VsZCBhbHJlYWR5IGJlIGEgZ3JlYXQgaW1wcm92ZW1lbnQuIEJ1dCB5b3UgaG9wZWZ1bGx5IGdldCB0aGUgcG9pbnQgLSBpdCBjYW4gZ2V0IHdheSBtb3JlIGNvbXBsZXguIChBbHNvIHRoZSBzdHJpbmcgc29sdXRpb24gd291bGQgYWxzbyBhbGxvdyBmb3IgaGFyZC10by1zcG90IGJ1Z3MgZHVlIHRvIHR5cG9zKS4qCgrimqDvuI8gKipTaWRlbm90ZSBhYm91dCB0aGUgZmxhd3Mgb2YgQm9vbGVhbnM6KiogQm9vbGVhbnMgYXJlIG5vdCBvbmx5IGV4Y2x1c2l2ZWx5IHN1aXRhYmxlIGZvciBiaW5hcnkgc3RhdGVzIGxpa2UgYGlzT3BlbmAsIGJ1dCBhbHNvIHRoZXkgYXJlIG5vdCBleHRlbnNpYmxlICh5b3UgY2FuJ3QgYWRkIGFuIGBpc09wZW5pbmdgIGlmIHlvdSdkIGxpa2UgdG8gdXNlIGl0IGZvciBhbmltYXRpb24gb3Igc29tZXRoaW5nKS4gRG8gbm90IHRyeSB0byBzcHJlYWQgYSBzaW5nbGUgc3RhdGUgYWNyb3NzIG11bHRpcGxlIGJvb2xlYW5zLgoKLS0tCgrinIUgKipFeHBsb3JpbmcgU3RhdGVzIGFuZCBUcmFuc2l0aW9ucyoqCgpUaGlzIGJlbmVmaXQgaGFzIGFscmVhZHkgYmVlbiBpbXBsaWNpdGx5IGRlc2NyaWJlZCBpbiB0aGUgcHJldmlvdXMgZXhhbXBsZS4gU2luY2UgeW91IHdvdWxkIG1vZGVsIHRoZSBwb3NzaWJsZSBzdGF0ZXMgYmVmb3JlaGFuZCBhbmQgY2FuIChhbmQgYWxzbyBzaG91bGQpIHZpc3VhbGl6ZSB0aGVtLCB5b3Ugd291bGQgc3BvdCBtaXNzaW5nIHN0YXRlcy4gQSBzdGF0ZSBtYWNoaW5lIG11c3QgYWx3YXlzIGJlIGluIGEgc2luZ2xlIHN0YXRlLgoKU28gd2hhdCBhYm91dCB0aGUgaW5pdGlhbCBzdGF0ZSBpbiB0aGUgcHJldmlvdXMgZXhhbXBsZT8gRG9lcyBpdCBzdGFydCBpbiBhIGxvYWRpbmcgc3RhdGUgc3RyYWlnaHQgYXdheT8gV2Ugd2VyZSBhbHNvIG1pc3Npbmcgc29tZSBraW5kIG9mIGEgc3VjY2VzcyBzdGF0ZS4gV2lsbCB0aGUgZXJyb3Igc3RhdGUgYmUgYSBmaW5hbCBzdGF0ZT8gRG8gd2UgbmVlZCBzb21lIGtpbmQgb2YgYXV0b21hdGljIHJldHJ5PyBBIGNhY2hlIGZvciB0aGUgcmVzdWx0cz8KCkl0IGlzIHdheSBlYXNpZXIgdG8gZXZlbiBhc2sgeW91cnNlbGYgdGhlc2UgcXVlc3Rpb25zIHdoZW4gbG9va2luZyBhdCBhIGRpYWdyYW0gY29tcGFyZWQgdG8gKG1heWJlIGFscmVhZHkgY2x1dHRlcmVkKSBjb2RlLgoKV2l0aCBzdGF0ZWNoYXJ0cywgeW91IHdpbGwgYmUgdXNpbmcgYSAqKnRvcC1kb3duIGFwcHJvYWNoKiouIFlvdSB3b3VsZCBmaXJzdCBzdGFydCB3aXRoIGFuIGlkZWEsIHN0YXJ0IHRoZSBmaXJzdCBzY3JhdGNoLCBmbGVzaCBvdXQgc29tZSBraW5kIG9mIHZpc3VhbGl6YXRpb24gKGF0IGxlYXN0IGluIG1vcmUgY29tcGxleCBzY2VuYXJpb3MpIGFuZCB3cml0ZSB0aGUgYWN0dWFsIGNvZGUgaW4gdGhlIGVuZC4gV2hlcmVhcyB3aXRob3V0IHN0YXRlY2hhcnRzIHlvdSB3b3VsZCBtb3JlIGxpa2VseSBiZSB1c2luZyBhIGJvdHRvbS11cCBhcHByb2FjaCBhbmQgd3JpdGUgc29tZSBjb2RlIHByZXR0eSBlYXJseS4KCi0tLQoK4pyFICoqRWFzaWVyIENvbW11bmljYXRpb24qKgoKQSB2aXN1YWxpemF0aW9uIG9mIHRoZSBsb2dpYyBpcyBub3Qgb25seSB2ZXJ5IHVzZWZ1bCBmb3IgaW1wbGVtZW50YXRpb24gYnV0IGFsc28gZm9yIGNvbW11bmljYXRpb24uIENhbiB5b3Ugc2hvdyB5b3VyIGNvZGUgdG8gYnVzaW5lc3MgZXhwZXJ0cyBhcmd1aW5nIGFib3V0IGNvcnJlY3RuZXNzIG9yIGNvbXBsZXRlbmVzcz8gWW91IGNhbid0LiBCdXQgeW91IGNhbiBzaG93IHRoZW0gYSBkaWFncmFtIHdpdGggc3RhdGVzLCBldmVudHMsIHRyYW5zaXRpb25zLCBhbmQgc28gb24uIAoKVGhlIHZpc3VhbGl6YXRpb24gY2FuIGhlbHAgdG8gYnJpZGdlIHRoZSBnYXAgYmV0d2VlbiBidXNpbmVzcyBleHBlcnRzIGFuZCBkZXZlbG9wZXJzLiBJdCBoZWxwcyB0byBzb2x2ZSB0aGUgYWN0dWFsIGJ1c2luZXNzIHByb2JsZW0gaW4gYSBjb3JyZWN0IHdheS4gWW91IGNhbiAoYW5kIHNob3VsZCkgdXNlIGFjdHVhbCBidXNpbmVzcyB0ZXJtcyBmb3Igc3RhdGVzIGFuZCBldmVudHMuIFRoaXMgbWFrZXMgaXQgYSBoYW5keSB0b29sIGluIGNvbWJpbmF0aW9uIHdpdGggW0RvbWFpbi1Ecml2ZW4gRGVzaWduXShodHRwczovL2Jsb2cuamFubmlrd2VtcGUuY29tL2RvbWFpbi1kcml2ZW4tZGVzaWduLWludHJvZHVjdGlvbikuIFVzaW5nIHRvb2xzIGxpa2UgRXZlbnQgU3Rvcm1pbmcgd29ya3Mgd2VsbCB0b2dldGhlciB3aXRoIHRoZSBjb25jZXB0IG9mIHN0YXRlY2hhcnRzLgoKLS0tCgrinIUgKipJbXByb3ZlZCBSZWFkYWJpbGl0eSBhbmQgTWFpbnRhaW5hYmlsaXR5KioKCldpdGggc3RhdGVjaGFydHMgeW91IGRlc2NyaWJlIGJlaGF2aW9yIGluIGEgc2luZ2xlIHBsYWNlIGluc3RlYWQgb2YgaGF2aW5nIGl0IHNjYXR0ZXJlZCBldmVyeXdoZXJlIGluIHlvdXIgY29kZS4gVGhpcyBlbmFibGVzIGEgbmljZSAqKnNlcGFyYXRpb24gb2YgY29uY2VybnMqKiBiZXR3ZWVuIGJlaGF2aW9yL2xvZ2ljIGFuZCBwcmVzZW50YXRpb24gKGluIGNhc2Ugb2YgdXNpbmcgaXQgaW4gYSBmcm9udGVuZCkuIEJvdGggb2YgdGhlc2Ugd2lsbCBiZSBlYXNpZXIgdG8gdW5kZXJzdGFuZCB3aGVuIGJlaW5nIHNlcGFyYXRlZC4gCgpJIGhpZ2hseSByZWNvbW1lbmQgd2F0Y2hpbmcgdGhlIHRhbGsgW0Zpbml0ZSBTdGF0ZSBNYWNoaW5lcyBpbiBWdWUgM10oaHR0cHM6Ly95b3V0dS5iZS9mVDlwOUNDU3JuOCkgYnkgW1NhcmFoIERheWFuXShodHRwczovL3R3aXR0ZXIuY29tL2Zyb250c3R1ZmZfaW8pLiBTaGUgcmVmYWN0b3JzIHNvbWUgVnVlIGNvZGUgdXNpbmcgW1hTdGF0ZV0oaHR0cHM6Ly94c3RhdGUuanMub3JnLykgKGEgSmF2YVNjcmlwdCBzdGF0ZWNoYXJ0cyBsaWJyYXJ5KS4gVGhlIHJlc3VsdCBpcyBtdWNoIG1vcmUgcmVhZGFibGUgYWZ0ZXIgdGhlIHJlZmFjdG9yaW5nLgoKSGF2aW5nIHRoZSBiZWhhdmlvciBzZXBhcmF0ZWQgaW4gYSBzdGF0ZSBtYWNoaW5lIGFsc28gZW5hYmxlcyB5b3UgdG8gcmV1c2UgaXQuIFlvdSBjYW4gcmVwbGFjZSB0aGUgVUkgYW5kIGtlZXAgdGhlIGxvZ2ljLiBZb3UgY2FuJ3QgZG8gdGhhdCB3aXRoIHByZXNlbnRhdGlvbiBhbmQgYmVoYXZpb3IgY29uY2VybnMgYmVpbmcgbWl4ZWQuCiAKVGhpcyBhbHNvIGFsbG93cyB5b3UgdG8gc2hhcmUgY29tbW9uIGxvZ2ljIOKAlCBub3Qgb25seSB3aXRoaW4geW91ciBjb2RlYmFzZSBidXQgYWxzbyB3aXRoIG90aGVycy4gR3JlYXQgZXhhbXBsZXMgYXJlIFtYU3RhdGUgQ2F0YWxvZ3VlXShodHRwczovL3hzdGF0ZS1jYXRhbG9ndWUuY29tLykgYW5kIFtTdGF0ZWx5IFJlZ2lzdHJ5XShodHRwczovL3N0YXRlbHkuYWkvcmVnaXN0cnkpCgoqVGhlIGJlbmVmaXQgaXNuJ3QgdW5pcXVlIHRvIHN0YXRlIG1hY2hpbmVzLiBZb3UgY2FuIGFsc28gc2VwYXJhdGUgYmVoYXZpb3IgdXNpbmcgc29tZXRoaW5nIGxpa2UgaG9va3MuIE5ldmVydGhlbGVzcywgc3RhdGUgbWFjaGluZXMgc29tZWhvdyBlbmZvcmNlIHRvIG1ha2UgdXNlIG9mIHRoYXQgYmVuZWZpdC4qCgotLS0KCuKchSAqKkJldHRlciBIYW5kbGluZyBvZiBDb21wbGV4aXR5KioKCiBUaGluayBiYWNrIHRvIHRoZSBzb2x1dGlvbiB1c2luZyBib29sZWFucyAob3IgYSBzdHJpbmcpIHRvIHJlcHJlc2VudCBzdGF0ZS4gWW91IHdpbGwgZW5kIHVwIGluIHB1cmUgY2hhb3MgaWYgaXQgaXMgZ2V0dGluZyBjb21wbGljYXRlZCDigaDigJQgSSBwcm9taXNlLiBIb3cgd291bGQgeW91IHJlcHJlc2VudCBwYXJhbGxlbCBvciBuZXN0ZWQgc3RhdGVzPwoKRmVhdHVyZXMgd2lsbCBiZSBhZGRlZCBvdmVyIHRpbWUgYW5kIHRoaW5ncyBhcmUgZ2V0dGluZyBvdXQgb2YgY29udHJvbC4gSXQgaXMgc3RhcnRpbmcgdG8gYmVjb21lIHVucmVhZGFibGUsIGVycm9yLXByb25lIGFuZCBubyBvbmUgbGlrZXMgdG8gdG91Y2ggdGhhdCBjb2RlLiBTdGF0ZWNoYXJ0cyBzdGFydCB0byBzaGluZSB3aGVuIHRoaW5ncyBhcmUgZ2V0dGluZyBjb21wbGljYXRlZC4gSSBmaW5kIHRoZSBmb2xsb3dpbmcgZGlhZ3JhbSBieSBbTWF0dCBQb2NvY2tdKGh0dHBzOi8vdHdpdHRlci5jb20vbXBvY29jazEpIHZlcnkgYWNjdXJhdGUuCgoqVGhlIGRpYWdyYW0gaXMgc3BlY2lmaWMgdG8gUmVhY3QsIGJ1dCBJIHRoaW5rIGl0IGlzIGV2ZW4gdmFsdWFibGUgaWYgeW91IGRvbid0IGhhdmUgZXhwZXJpZW5jZSB1c2luZyBSZWFjdC4gWFN0YXRlIGlzIGEgc3RhdGVjaGFydCBsaWJyYXJ5LiBJdCBjb3VsZCBiZSBnZW5lcmFsaXplZCB0byBzdGF0ZWNoYXJ0cy4qCgohW2ltYWdlLnBuZ10oaHR0cHM6Ly9jZG4uaGFzaG5vZGUuY29tL3Jlcy9oYXNobm9kZS9pbWFnZS91cGxvYWQvdjE2MjkwNDE0MzExNDgvWC15VU9qaHhsLnBuZykKCkl0IHZpc3VhbGl6ZXMgbmljZWx5IGhvdyBzdGF0ZWNoYXJ0cyB3aWxsIHBheSBvZmYgb3ZlciB0aW1lLiBJJ2xsIGdldCB0byB0aGUgbGVhcm5pbmcgY3VydmUgbGF0ZXIgb24g8J+YiQoKLS0tCgrinIUgKipZb3UgQ2FuIEdlbmVyYXRlIFN0dWZmKioKCk1vZGVsaW5nIGJlaGF2aW9yIHVzaW5nIHN0YXRlY2hhcnRzIGVuYWJsZXMgeW91IHRvIGdlbmVyYXRlIHZhcmlvdXMgdGhpbmdzIGJlY2F1c2UgdGhlaXIgZGVzY3JpcHRpb24gY2FuIGJlIGludGVycHJldGVkLgoKTXkgZmF2b3JpdGUgdG9vbCBhbmQgYSBncmVhdCBleGFtcGxlIGZvciB0aGlzIGlzIFtYU3RhdGVzIFZpc3VhbGl6ZXJdKGh0dHBzOi8veHN0YXRlLmpzLm9yZy92aXovKS4gSnVzdCBwYXN0ZSB5b3VyIHN0YXRlIG1hY2hpbmUgY29kZSBpbiBhbmQgZ2V0IGFuIGludGVyYWN0aXZlIHZpc3VhbGl6YXRpb24uIERvZXMgaXQgZ2V0IGFueSBjb29sZXI/CgohW2ltYWdlLnBuZ10oaHR0cHM6Ly9jZG4uaGFzaG5vZGUuY29tL3Jlcy9oYXNobm9kZS9pbWFnZS91cGxvYWQvdjE2MjkwNDIxNDgzNzAvYUpMeFpVM1FiMy5wbmcpCgpCdXQgaXQgZG9lc24ndCBlbmQgYXQgdmlzdWFsaXphdGlvbnMuIFlvdSBjb3VsZCBnZW5lcmF0ZSBtdWNoIG1vcmUuIFlvdSBjb3VsZCBldmVuIGdlbmVyYXRlIHRlc3RzIPCfpK8gW0RhdmlkIEtob3Vyc2hpZHNdKGh0dHBzOi8vdHdpdHRlci5jb20vRGF2aWRLUGlhbm8pIHRhbGsgW1dyaXRlIEZld2VyIFRlc3RzISBGcm9tIEF1dG9tYXRpb24gdG8gQXV0b2dlbmVyYXRpb25dKGh0dHBzOi8veW91dHUuYmUvdHBObVBLalBTRlEpIGlzIGV4YWN0bHkgYWJvdXQgdGhhdC4gRGVmaW5pdGVseSBpbnRlcmVzdGluZyB0byB3YXRjaC4KCi0tLQoK4pyFICoqVGhlcmUgaXMgYSBTdGFuZGFyZCoqCgpUaGVyZSBpcyBhIFczQyBzdGFuZGFyZDogW1N0YXRlIENoYXJ0IFhNTCAoU0NYTUwpOiBTdGF0ZSBNYWNoaW5lIE5vdGF0aW9uIGZvciBDb250cm9sIEFic3RyYWN0aW9uXShodHRwczovL3d3dy53My5vcmcvVFIvc2N4bWwvKS4gWWVzLCB0aGUgZXhpc3RlbmNlIG9mIGEgc3RhbmRhcmQgaW4gaXRzZWxmIGlzbid0IGEgYmVuZWZpdC4gQnV0IGl0IGNvbWVzIHdpdGggYSBmZXcgaW1wbGljaXQgb25lcy4gVGhleSB3b3JrZWQgZm9yIGFib3V0IDEwIHllYXJzIG9uIHRoYXQuIEZvciBtZSwgaXQgaXMgYWxzbyBhbiBpbmRpY2F0b3IgdGhhdCB0aGUgZ2VuZXJhbCBjb25jZXB0IGlzIHZhbHVhYmxlIGFuZCB3b24ndCBnbyBhd2F5IGFueXRpbWUgc29vbi4KCgojIFdoYXQgYXJlIHRoZSBEb3duc2lkZXMgb2YgU3RhdGVjaGFydHM/CgrinYwgKipJbml0aWFsIExlYXJuaW5nIEN1cnZlKioKCkFzIHdpdGggYW55IG5ldyB0aGluZywgdGhlcmUgaXMgYW4gaW5pdGlhbCBsZWFybmluZyBjdXJ2ZS4gWW91IGhhdmUgdG8gbGVhcm4gYWJvdXQgdGhlIGdlbmVyYWwgY29uY2VwdCBvZiBzdGF0ZWNoYXJ0cyAoW215IGZpcnN0IGJsb2cgcG9zdCBvZiBteSBzdGF0ZSBtYWNoaW5lIHNlcmllc10oaHR0cHM6Ly9ibG9nLmphbm5pa3dlbXBlLmNvbS93aGF0LWFyZS1zdGF0ZS1tYWNoaW5lcy1hbmQtc3RhdGVjaGFydHMpIG1pZ2h0IGhlbHAgaGVyZSkuIFByb2JhYmx5IHlvdSB3aWxsIHVzZSBzb21lIGtpbmQgb2YgYSBsaWJyYXJ5IHRoYXQgeW91J2xsIGhhdmUgdG8gbGVhcm4uCgpTY3JvbGwgYSBsaXR0bGUgdXAgYW5kIHNlZSB0aGUgZGlhZ3JhbSBhYm91dCB0aW1lIGFuZCBjb21wbGV4aXR5LiBJbml0aWFsbHksIGl0IHdpbGwgYmUgaGFyZGVyIGFuZCBldmVuIGNvbWVzIHdpdGggYW4gb3ZlcmhlYWQuIEJ1dCBpdCB3aWxsIHBheSBvZmYuCgpUaGUgbGVhcm5pbmcgY3VydmUgbWFrZXMgaXQgZXZlbiBoYXJkZXIgaWYgeW91IGFyZSB3b3JraW5nIGluIGEgdGVhbS4gSW4gdGhhdCBjYXNlLCBpdCBpcyBub3Qgb25seSBhYm91dCB5b3UgYnV0IGFsc28gYWJvdXQgdGhlIG90aGVycy4KCi0tLQoK4p2MICoqQWRkaXRpb25hbCBMaWJyYXJ5KioKCllvdSBkb24ndCBuZWVkIGFueSBsaWJyYXJ5IGZvciBzaW1wbGUgc3RhdGUgbWFjaGluZXMsIGJ1dCBtb3N0IHByb2JhYmx5IHlvdSB3aWxsIHVzZSBhIGxpYnJhcnkuIFRoYXQgYWRkcyBhbm90aGVyIGRlcGVuZGVuY3kuIFlvdSBoYXZlIHRvIHVwZGF0ZSB0aGF0LCB0YWtlIHRoZSByaXNrIG9mIG5vdCBiZWluZyBtYWludGFpbmVkLCB0aGUgYnVuZGxlIHNpemUgaW5jcmVhc2VzLCBhbmQgd2hhdGV2ZXIgb3RoZXIgZG93bnNpZGVzIG9mIHVzaW5nIDNyZCBwYXJ0eSBsaWJyYXJpZXMgdGhlcmUgYXJlLgoKIyBDb25jbHVzaW9uCgoqVExEUjsqCgrinIUgKipMZXNzIEJ1Z3MqKgoK4pyFICoqRXhwbG9yaW5nIFN0YXRlcyBhbmQgVHJhbnNpdGlvbnMqKgoK4pyFICoqRWFzaWVyIENvbW11bmljYXRpb24qKgoK4pyFICoqSW1wcm92ZWQgUmVhZGFiaWxpdHkgYW5kIE1haW50YWluYWJpbGl0eSoqCgrinIUgKipCZXR0ZXIgSGFuZGxpbmcgb2YgQ29tcGxleGl0eSoqCgrinIUgKipZb3UgQ2FuIEdlbmVyYXRlIFN0dWZmKioKCuKchSAqKlRoZXJlIGlzIGEgU3RhbmRhcmQqKgoK4p2MICoqSW5pdGlhbCBMZWFybmluZyBDdXJ2ZSoqCgrinYwgKipBZGRpdGlvbmFsIExpYnJhcnkqKgoKLS0tCgpBcyB5b3UgbWF5IGFscmVhZHkgaGF2ZSBub3RpY2VkIGJ5IHJlYWRpbmcgdGhlIGFydGljbGUsIEkgdGhpbmsgdGhlIGJlbmVmaXRzIG91dHdlaWdoIHRoZSBkb3duc2lkZXMgYnkgZmFyLiBTdGF0ZWNoYXJ0cyBhcmUgYSBncmVhdCB0b29sIGluIGEgZGV2ZWxvcGVyJ3MgdG9vbGJlbHQuIEl0IHdpbGwgbm90IG9ubHkgaW1wcm92ZSB5b3VyIGNvZGUncyBxdWFsaXR5LCByZWFkYWJpbGl0eSBhbmQgbWFpbnRhaW5hYmlsaXR5IGJ1dCBpdCBpcyBhbHNvIGEgZ3JlYXQgY29tbXVuaWNhdGlvbiB0b29sLiBBdCBsZWFzdCBJIGFtIHNvbGQgb24gc3RhdGVjaGFydHMg8J+YiQoKVGhlcmUgbWF5IGJlIHNpdHVhdGlvbnMgd2hlbiB5b3UgZG9uJ3QgbmVlZCBzdGF0ZSBtYWNoaW5lcy4gRm9yIGV4YW1wbGUgaW4gdGhlIGNhc2Ugb2YgdmVyeSBzaW1wbGUgbG9naWMgd2l0aCBhIGxvdyBwb3NzaWJpbGl0eSBvZiBjb21wbGV4aXR5IGFkZGVkIGxhdGVyIG9uLiBCdXQgaXQgd2lsbCBkbyBubyBoYXJtIHRvIGFsc28gdXNlIHN0YXRlY2hhcnRzIGhlcmUgaWYgeW91IHVzZSBpdCBzb21ld2hlcmUgZWxzZSBpbiB0aGUgcHJvamVjdCBhbnl3YXlzLgoKLS0tCgpEbyB5b3UgYWxyZWFkeSB1c2Ugc3RhdGVjaGFydHM/IERvIHlvdSBwbGFuIG9uIHVzaW5nIHRoZW0/IEhhdmUgSSBtaXNzZWQgYW55IGltcG9ydGFudCBiZW5lZml0cyBvciBkb3duc2lkZXM/IEkgd291bGQgbG92ZSB0byBnZXQgeW91ciBwb2ludCBvZiB2aWV3Lg==
+# Benefits and Downsides of Using Statecharts
+
+*This post is part two of my [series about state machines](https://blog.jannikwempe.com/series/state-machines). It is a follow-up post of [State Machines and Statecharts: What are they?](https://blog.jannikwempe.com/what-are-state-machines-and-statecharts). Start there if you'd like to learn about what (finite) state machines and statecharts are.*
+
+---
+
+After having answered the *"What are State Machines and Statecharts?"* in my last article, this will be about the *"Why are they?"*. What are their benefits? What are the downsides?
+
+# What are the Benefits of Statecharts?
+
+✅ **Less Bugs**
+
+You probably all have seen code using various booleans to indicate the state of something. `isLoading` and `isError` are typical examples I see quite frequently when dealing with some kind of request. This often goes hand in hand with code like this:
+
+```js
+if (isError) {
+  // return some kind of error
+}
+
+if (isLoading) {
+  // show loading indicator
+}
+
+// It is neither loading nor error. It must have been successful
+// return actual content
+```
+
+You have to make sure `isLoading` and `isError` are kept in sync. Should `isError === true` be allowed while loading? If that's not the case you will end up in an **impossible state** if both of them are `true` at the same time. You would still show the error even though a new request has been started.
+
+Using a Statechart you would also model the success state explicitly. Statecharts require you to be in a single state at all times (*I consider parallel states still as a single state*).
+
+*Yes, this is a simplified example where a single string `state` variable with values like `"loading"`, `"error"` or `"success` would already be a great improvement. But you hopefully get the point - it can get way more complex. (Also the string solution would also allow for hard-to-spot bugs due to typos).*
+
+⚠️ **Sidenote about the flaws of Booleans:** Booleans are not only exclusively suitable for binary states like `isOpen`, but also they are not extensible (you can't add an `isOpening` if you'd like to use it for animation or something). Do not try to spread a single state across multiple booleans.
+
+---
+
+✅ **Exploring States and Transitions**
+
+This benefit has already been implicitly described in the previous example. Since you would model the possible states beforehand and can (and also should) visualize them, you would spot missing states. A state machine must always be in a single state.
+
+So what about the initial state in the previous example? Does it start in a loading state straight away? We were also missing some kind of a success state. Will the error state be a final state? Do we need some kind of automatic retry? A cache for the results?
+
+It is way easier to even ask yourself these questions when looking at a diagram compared to (maybe already cluttered) code.
+
+With statecharts, you will be using a **top-down approach**. You would first start with an idea, start the first scratch, flesh out some kind of visualization (at least in more complex scenarios) and write the actual code in the end. Whereas without statecharts you would more likely be using a bottom-up approach and write some code pretty early.
+
+---
+
+✅ **Easier Communication**
+
+A visualization of the logic is not only very useful for implementation but also for communication. Can you show your code to business experts arguing about correctness or completeness? You can't. But you can show them a diagram with states, events, transitions, and so on. 
+
+The visualization can help to bridge the gap between business experts and developers. It helps to solve the actual business problem in a correct way. You can (and should) use actual business terms for states and events. This makes it a handy tool in combination with [Domain-Driven Design](https://blog.jannikwempe.com/domain-driven-design-introduction). Using tools like Event Storming works well together with the concept of statecharts.
+
+---
+
+✅ **Improved Readability and Maintainability**
+
+With statecharts you describe behavior in a single place instead of having it scattered everywhere in your code. This enables a nice **separation of concerns** between behavior/logic and presentation (in case of using it in a frontend). Both of these will be easier to understand when being separated. 
+
+I highly recommend watching the talk [Finite State Machines in Vue 3](https://youtu.be/fT9p9CCSrn8) by [Sarah Dayan](https://twitter.com/frontstuff_io). She refactors some Vue code using [XState](https://xstate.js.org/) (a JavaScript statecharts library). The result is much more readable after the refactoring.
+
+Having the behavior separated in a state machine also enables you to reuse it. You can replace the UI and keep the logic. You can't do that with presentation and behavior concerns being mixed.
+ 
+This also allows you to share common logic — not only within your codebase but also with others. Great examples are [XState Catalogue](https://xstate-catalogue.com/) and [Stately Registry](https://stately.ai/registry)
+
+*The benefit isn't unique to state machines. You can also separate behavior using something like hooks. Nevertheless, state machines somehow enforce to make use of that benefit.*
+
+---
+
+✅ **Better Handling of Complexity**
+
+ Think back to the solution using booleans (or a string) to represent state. You will end up in pure chaos if it is getting complicated ⁠— I promise. How would you represent parallel or nested states?
+
+Features will be added over time and things are getting out of control. It is starting to become unreadable, error-prone and no one likes to touch that code. Statecharts start to shine when things are getting complicated. I find the following diagram by [Matt Pocock](https://twitter.com/mpocock1) very accurate.
+
+*The diagram is specific to React, but I think it is even valuable if you don't have experience using React. XState is a statechart library. It could be generalized to statecharts.*
+
+![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1629041431148/X-yUOjhxl.png)
+
+It visualizes nicely how statecharts will pay off over time. I'll get to the learning curve later on 😉
+
+---
+
+✅ **You Can Generate Stuff**
+
+Modeling behavior using statecharts enables you to generate various things because their description can be interpreted.
+
+My favorite tool and a great example for this is [XStates Visualizer](https://xstate.js.org/viz/). Just paste your state machine code in and get an interactive visualization. Does it get any cooler?
+
+![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1629042148370/aJLxZU3Qb3.png)
+
+But it doesn't end at visualizations. You could generate much more. You could even generate tests 🤯 [David Khourshids](https://twitter.com/DavidKPiano) talk [Write Fewer Tests! From Automation to Autogeneration](https://youtu.be/tpNmPKjPSFQ) is exactly about that. Definitely interesting to watch.
+
+---
+
+✅ **There is a Standard**
+
+There is a W3C standard: [State Chart XML (SCXML): State Machine Notation for Control Abstraction](https://www.w3.org/TR/scxml/). Yes, the existence of a standard in itself isn't a benefit. But it comes with a few implicit ones. They worked for about 10 years on that. For me, it is also an indicator that the general concept is valuable and won't go away anytime soon.
+
+
+# What are the Downsides of Statecharts?
+
+❌ **Initial Learning Curve**
+
+As with any new thing, there is an initial learning curve. You have to learn about the general concept of statecharts ([my first blog post of my state machine series](https://blog.jannikwempe.com/what-are-state-machines-and-statecharts) might help here). Probably you will use some kind of a library that you'll have to learn.
+
+Scroll a little up and see the diagram about time and complexity. Initially, it will be harder and even comes with an overhead. But it will pay off.
+
+The learning curve makes it even harder if you are working in a team. In that case, it is not only about you but also about the others.
+
+---
+
+❌ **Additional Library**
+
+You don't need any library for simple state machines, but most probably you will use a library. That adds another dependency. You have to update that, take the risk of not being maintained, the bundle size increases, and whatever other downsides of using 3rd party libraries there are.
+
+# Conclusion
+
+*TLDR;*
+
+✅ **Less Bugs**
+
+✅ **Exploring States and Transitions**
+
+✅ **Easier Communication**
+
+✅ **Improved Readability and Maintainability**
+
+✅ **Better Handling of Complexity**
+
+✅ **You Can Generate Stuff**
+
+✅ **There is a Standard**
+
+❌ **Initial Learning Curve**
+
+❌ **Additional Library**
+
+---
+
+As you may already have noticed by reading the article, I think the benefits outweigh the downsides by far. Statecharts are a great tool in a developer's toolbelt. It will not only improve your code's quality, readability and maintainability but it is also a great communication tool. At least I am sold on statecharts 😉
+
+There may be situations when you don't need state machines. For example in the case of very simple logic with a low possibility of complexity added later on. But it will do no harm to also use statecharts here if you use it somewhere else in the project anyways.
+
+---
+
+Do you already use statecharts? Do you plan on using them? Have I missed any important benefits or downsides? I would love to get your point of view.
