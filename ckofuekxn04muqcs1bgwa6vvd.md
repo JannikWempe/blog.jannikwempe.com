@@ -1,1 +1,131 @@
-IyMgRGVidW5raW5nIFRhaWx3aW5kIENvdW50ZXJhcmd1bWVudHMKCiMgU2FtZSBEaXNjdXNzaW9ucyBPdmVyIGFuZCBPdmVyIEFnYWluCgpUaGlzIHBvc3QgZGVidW5rcyBzb21lIG9mIHRoZSBhcmd1bWVudHMgYWdhaW5zdCB1c2luZyBgdGFpbHdpbmRjc3NgLiBJJ3ZlIGFyZ3VlZCBhYm91dCB0aGVtIHF1aXRlIG9mdGVuIGluIHRoZSBwYXN0LiBNYXliZSB5b3UgaGF2ZSwgdG9vPyBJJ2xsIHBsYW4gdG8ganVzdCByZWZlcmVuY2UgdGhpcyBhcnRpY2xlIGZyb20gbm93IG9uLiBUaGlzIHdpbGwgbWFrZSBteSAoYW5kIHlvdXI/KSBsaWZlIGVhc2llciDwn6SqCgpJZiB5b3UgYXJlIGluIHRoZSAnYWdhaW5zdCBUYWlsd2luZCBjYW1wJywgSSdtIGludGVyZXN0ZWQgaW4gdmFsaWQgY291bnRlcmFyZ3VtZW50cyBmcm9tIHlvdXIgcGVyc3BlY3RpdmUuIEF0IHRoZSBlbmQgb2YgdGhpcyBhcnRpY2xlLCBJIHdpbGwgcG9pbnQgdG8gYSBjb24gSSBjdXJyZW50bHkgdGhpbmsgb2YgYXMgYmVpbmcgc29tZWhvdyB2YWxpZC4KCipOT1RFOiBFdmVuIHRob3VnaCB0aGlzIHBvc3QgaXMgYWJvdXQgVGFpbHdpbmQgdGhlIHdyaXR0ZW4gYWxzbyBhcHBsaWVzIGZvciB1dGlsaXR5IGZpcnN0IENTUyBmcmFtZXdvcmtzIGluIGdlbmVyYWwuKgoKIyBUaGUgQ291bnRlcmFyZ3VtZW50cwpUaGVzZSBhcmUganVzdCBzb21lIHN0YXRlbWVudHMgSSBoZWFyZCBvdmVyIGFuZCBvdmVyIGFnYWluIG92ZXIgdGltZS4gSSdsbCBnbyB0aHJvdWdoIHRoZW0gb25lIGJ5IG9uZSBhZnRlciB0aGlzIHNlY3Rpb24uIFRoZXkgYXJlIG9yZGVyZWQgaW4gZGVzY2VuZGluZyBvcmRlciBhZnRlciB0aGUgZW1vdGlvbnMgY29taW5nIHVwIG9uIG15IHNpZGUg8J+YhQoKPiBUYWlsd2luZCB2aW9sYXRlcyB0aGUgc2VwYXJhdGlvbiBvZiBjb25jZXJucyBiZXR3ZWVuIHN0eWxlIGFuZCBtYXJrdXAuCgotLS0KCj4gVGFpbHdpbmQgaXMgbGlrZSBpbmxpbmUgc3R5bGVzIGFuZCB0aGV5IGFyZSBjb25zaWRlcmVkIGJhZCBwcmFjdGljZS4KCi0tLQoKPiBUYWlsd2luZCBpcyBodWdlIGFuZCByZWR1Y2VzIHBlcmZvcm1hbmNlLiBZb3UgaGF2ZSB0byBzZXQgdXAgYFB1cmdlQ1NTYCBgUG9zdENTU2AgcGx1Z2luIHRvIG1ha2UgaXQgc21hbGxlci4KCi0tLQoKPiAgVGhlcmUgaXMgYSBsb3QgSSBoYXZlIHRvIGxlYXJuIHVwZnJvbnQuCgotLS0KCj4gSFRNTCBsb29rcyBsaWtlIGEgbWVzcyBhbmQgaXMgYmxvYXRlZC4KCiMgRGVidW5raW5nIHRoZSBBcmd1bWVudHMKTm93IHRvIHRoZSBmdW4gcGFydC4gSG93IGNhbiBiZSBhcmd1ZWQgYWdhaW5zdCB0aGVzZSBhcmd1bWVudHM/CgojIyBWaW9sYXRlcyBTZXBhcmF0aW9uIG9mIENvbmNlcm5zCj4gVGFpbHdpbmQgdmlvbGF0ZXMgdGhlIHNlcGFyYXRpb24gb2YgY29uY2VybnMgYmV0d2VlbiBzdHlsZSBhbmQgbWFya3VwLgoKVGhlIGNvbmNlcm5zIGJlaW5nIHJlZmVycmVkIHRvIGFyZSB0aGUgbWFya3VwIChIVE1MKSBhbmQgdGhlIHN0eWxpbmcgKENTUykuIFBlb3BsZSBwb2ludGluZyB0byB0aGlzIG9mdGVuIGxpa2UgdG8gcmVmZXIgdG8gW0NTUyBaZW4gR2FyZGVuXShodHRwOi8vd3d3LmNzc3plbmdhcmRlbi5jb20vKSwgd2hpY2ggc2hvd2Nhc2VzIHRoYXQgdGhlIGxvb2sgYW5kIGZlZWwgb2YgYSB3ZWJzaXRlIGNhbiBiZSBjaGFuZ2VkIGVudGlyZWx5IGJ5IG9ubHkgY2hhbmdpbmcgdGhlIENTUy4gWWVzLCB0aGF0IGlzIHRydWUsIGl0IGlzIHBvc3NpYmxlLiBIb3cgb2Z0ZW4gaGF2ZSB5b3UgY2hhbmdlZCB0aGUgbG9vayBhbmQgZmVlbCBvZiB5b3VyIGVudGlyZSBzaXRlIHdpdGhvdXQgdG91Y2hpbmcgSFRNTCAobm90IHRhbGtpbmcgYWJvdXQgZGFyayBtb2RlIPCfmIkpPwoKWW91IHRoaW5rIHdpdGggc29tZXRoaW5nIGxpa2UgW0JFTSAoQmxvY2sgRWxlbWVudCBNb2RpZmllcildKGh0dHA6Ly9nZXRiZW0uY29tLykgeW91IGhhdmUgInNlcGVyYXRlZCB0aGUgY29uY2VybnMiPyBBIGNhcmQgdXNpbmcgQkVNIGNvdWxkIGxvb2sgc29tZXRoaW5nIGxpa2UgdGhpczoKCmBgYGh0bWwKPGRpdiBjbGFzcz0iY2FyZCBjYXJkLS1kYXJrIj4KICAgIDxpbWcgY2xhc3M9ImNhcmRfX2ltYWdlIj4KICAgIDxoMyBjbGFzcz0iY2FyZF9faGVhZGluZyI+SGVhZGluZzwvaDM+CiAgICA8ZGl2IGNsYXNzPSJjYXJkX19jb250ZW50Ij4KICAgICAgICA8cCBjbGFzcz0iY2FyZF9fdGV4dCI+TG9yZW0gSXBzdW0uLi48L3A+CiAgICA8L2Rpdj4KPC9kaXY+CmBgYAoKSSBob3BlIHlvdSBkb24ndCB3YW50IHRvIHRlbGwgbWUgdGhlIGNvbmNlcm5zIGFyZSBzZXBhcmF0ZWQgbm93LiBUaGUgbWFya3VwIGtub3dzIGFib3V0IGJlaW5nIGRpc3BsYXllZCBhcyBhIGNhcmQuIFlvdSB3YW50IHNvbWV0aGluZyBsb29raW5nIHNpbWlsYXIsIGJ1dCBpdCBpc24ndCByZWFsbHkgYSBjYXJkPyBNYXliZSB5b3UgYXJlIHN0YXJ0aW5nIGV4dGVuZGluZyBgLmNhcmRgIHNvbWVob3cgb3IgZmluZCBhIGJyb2FkZXIsIG1vcmUgZ2VuZXJhbCBuYW1lLgoKV2hhdCBiZW5lZml0cyBkbyB5b3UgZ2V0IGJ5IHRyeWluZyB0byBjb21wbGV0ZWx5IHNlcGFyYXRlIHRoZSBzdHlsaW5nIGZyb20gdGhlIG1hcmt1cD8gRnJvbSBteSBwZXJzcGVjdGl2ZSwgaXQgZXZlbiBpcyBhIHN0cmVuZ3RoIG9mIFRhaWx3aW5kIHRvIGtlZXAgdGhlbSB0b2dldGhlciEgSnVzdCBpbWFnaW5lIHlvdSAob3Igc29tZWJvZHkgZWxzZSkgd2lsbCByZW1vdmUgdGhlIGNhcmQgaW4gYSBmZXcgbW9udGhzIG9yIGNyZWF0ZSBkaWZmZXJlbnQgc3R5bGluZyBmb3IgaXQuIFdpbGwgeW91IHJlbWVtYmVyIHRvIGFsc28gZGVsZXRlIHRoZSBDU1M/IENhbiB5b3UgZGVsZXRlIGl0PyBBbm90aGVyIHNjZW5hcmlvOiBZb3UgaGF2ZSBhIGJpZyAoUmVhY3QpIGNvbXBvbmVudCBhbmQgd2FudCB0byBjdXQgaXQgaW50byBzbWFsbGVyIHBpZWNlcy4gV2hpY2ggb2YgdGhlIENTUyBjYW4gKG9yIGhhdmUgdG8gYmUpIHRha2VuIHRvIHRoZSBuZXdseSBjcmVhdGVkIGNvbXBvbmVudD8gYFN0cmcgKyBGYCB3aWxsIHByb2JhYmx5IGJlIHlvdXIgZnJpZW5kLgoKKipLZWVwaW5nIHN0eWxpbmcgYW5kIG1hcmt1cCB0b2dldGhlciBpbXByb3ZlcyBtYWludGFpbmFiaWxpdHkuKioKCkFub3RoZXIgYmVuZWZpdCBvZiBub3Qgc2VwYXJhdGluZyB0aGUgc3R5bGVzIGZyb20gdGhlIG1hcmt1cDogKipZb3UgZG9uJ3QgaGF2ZSB0byBjb21lIHVwIHdpdGggbmFtZXMgZm9yIHRoaW5ncy4qKiBZb3Ugd2FudCB0byBjaGFuZ2UgdGhlIGNhcmQgdG8gYmUgZGlzcGxheWVkIGFzIHNvbWV0aGluZyBlbHNlPyBZb3Ugd2lsbCBwcm9iYWJseSBjaGFuZ2UgdGhlIG5hbWUuLi4gSXQgbWF5IHNlZW0gbGlrZSBhIG1pbm9yIHRoaW5nIHRvIHlvdSwgYnV0IGZvciBtZSwgaXQgaXMgYWN0dWFsbHkgb25lIHRoaW5nIGxlc3MgdG8gd29ycnkgYWJvdXQuCgpZb3UgcHJvYmFibHkgaGF2ZSByZWFkIG9yIGhlYXJkIHRoZSBmb2xsb3dpbmcgcXVvdGUgYmVmb3JlOgo+IFRoZXJlIGFyZSBvbmx5IHR3byBoYXJkIHRoaW5ncyBpbiBDb21wdXRlciBTY2llbmNlOiBjYWNoZSBpbnZhbGlkYXRpb24gYW5kIG5hbWluZyB0aGluZ3MuCgpbUmVhZCB0aGlzXShodHRwczovL21hcnRpbmZvd2xlci5jb20vYmxpa2kvVHdvSGFyZFRoaW5ncy5odG1sKSBpZiB5b3UgaGF2ZSBuZXZlciBoZWFyZCBhYm91dCBpdC4KClRoZXJlIGlzIGFuIGluLWRlcHRoIGFydGljbGUgd2l0aCB0aGUgdGl0bGUgW0NTUyBVdGlsaXR5IENsYXNzZXMgYW5kICJTZXBhcmF0aW9uIG9mIENvbmNlcm5zIl0oaHR0cHM6Ly9hZGFtd2F0aGFuLm1lL2Nzcy11dGlsaXR5LWNsYXNzZXMtYW5kLXNlcGFyYXRpb24tb2YtY29uY2VybnMvKSBmcm9tICBbQWRhbSBXYXRoYW5dKGh0dHBzOi8vdHdpdHRlci5jb20vYWRhbXdhdGhhbikuIFJlYWQgaXQgaWYgeW91IGFyZSBub3QgY29udmluY2VkIHlldC4gKkl0IG1heSBiZSBhIGxpdHRsZSBiaWFzZWQgYmVjYXVzZSBBZGFtIGlzIHRoZSBjcmVhdG9yIG9mIFRhaWx3aW5kIPCfpKoqCgojIyBUYWlsd2luZCBpcyBMaWtlIFdyaXRpbmcgSW5saW5lIFN0eWxlcwo+IFRhaWx3aW5kIGlzIGxpa2UgaW5saW5lIHN0eWxlcyBhbmQgdGhleSBhcmUgY29uc2lkZXJlZCBiYWQgcHJhY3RpY2UuCgpTb3JyeSwgYnV0IHlvdSBkaWRuJ3QgZ2V0IHRoZSBwb2ludCBvZiBUYWlsd2luZC4gTW9zdCBwcm9iYWJseSB5b3UgaGF2ZW4ndCB1c2VkIGl0IGFsbC4gKihIb3cgYXJlIHlvdSBhYmxlIHRvIGFyZ3VlIGFnYWluc3Qgc29tZXRoaW5nIHlvdSBoYXZlbid0IHJlYWxseSB0cmllZCB5b3Vyc2VsZj8pKgoKT2theSwgZ290IGl0LCB0aGVyZSBhcmUgcXVpdGUgYSBsb3Qgb2YgMToxIG1hcHBpbmdzIGJldHdlZW4gQ1NTIHByb3BlcnRpZXMgYW5kIFRhaWx3aW5kIGNsYXNzZXMgbGlrZSBgZGlzcGxheTogZmxleGAgYW5kIHRoZSBjbGFzcyBgZmxleGAuIEJ1dCwgZmlyc3Qgb2YgYWxsIC0ganVzdCBiZWluZyBhIHNpZGUgbm90ZSAtIHRoaXMgaXMgbm90IHRydWUgZm9yIGFsbCBjYXNlcywgZS5nLiBgc3BhY2UteS0xYCAod2hpY2ggaXMgb25lIG9mIG15IGZhdm9yaXRlcykgdHJhbnNsYXRlcyBpbnRvIApgYGBjc3MKLyogQ1NTIGZvciBUYWlsd2luZHMgLnNwYWNlLXktMSAqLwotLXR3LXNwYWNlLXktcmV2ZXJzZTogMDsKbWFyZ2luLXRvcDogY2FsYygwLjI1cmVtICogY2FsYygxIC0gdmFyKC0tdHctc3BhY2UteS1yZXZlcnNlKSkpOwptYXJnaW4tYm90dG9tOiBjYWxjKDAuMjVyZW0gKiB2YXIoLS10dy1zcGFjZS15LXJldmVyc2UpKTsKYGBgCgpXYXkgbW9yZSBpbXBvcnRhbnQ6IFRhaWx3aW5kIGlzIG5vdCBhYm91dCB0aGUgdHJhbnNsYXRpb24gb2YgQ1NTIHByb3BlcnRpZXMgaW50byBjbGFzc2VzLiBJdCBlbmFibGVzIHlvdSB0byBlYXNpbHkgdXNlIChhbmQgc3RpY2sgdG8pIGEgKmRlc2lnbiBzeXN0ZW0gYnkgcHJvdmlkaW5nIGEgbGltaXRlZCBzZXQgb2YgY2xhc3NlcyogW3Rocm91Z2ggdGhlIHRoZW1pbmddKGh0dHBzOi8vdGFpbHdpbmRjc3MuY29tL2RvY3MvdGhlbWUpLCB3aGljaCBoZWxwcyB5b3UgdG8gY3JlYXRlIGEgY29uc2lzdGVudCBzdHlsaW5nIG1vcmUgZWFzaWx5LiBgc3R5bGU9ImNvbG9yOiAjNjM2NkYxOyJgIGFuZCBgY2xhc3M9InRleHQtaW5kaWdvLTUwMCJgIHByb3ZpZGUgdGhlIHNhbWUgb3V0Y29tZSBpbiB0aGlzIGNhc2UsIGJ1dCBieSB1c2luZyBpbmxpbmUgc3R5bGVzIHlvdSBjb3VsZCBqdXN0IHVzZSBhIHNsaWdodGx5IG9mZiBjb2xvciBpbiB0aGUgbmV4dCBwbGFjZSB3aGVyZWFzIHdpdGggVGFpbHdpbmQgeW91IHdvdWxkIHVzZSBzb21ldGhpbmcgbGlrZSBgY2xhc3M9InRleHQtaW5kaWdvLTYwMCJgLiBZZXMsIHlvdSBjb3VsZCBhY2hpZXZlIHNvbWV0aGluZyBsaWtlIHRoaXMgd2l0aCBDU1MgdmFyaWFibGVzIHlvdXJzZWxmLCBidXQgVGFpbHdpbmQgYWxyZWFkeSBwcm92aWRlcyB0aGF0IHRvIHlvdSBvdXQgb2YgdGhlIGJveC4KCiMjIFRhaWx3aW5kIElzIEJhZCBGb3IgUGVyZm9ybWFuY2U7IFB1cmdlQ1NTIEhhcyB0byBCZSBTZXQgVXAKPiBUYWlsd2luZCBpcyBodWdlIGFuZCByZWR1Y2VzIHBlcmZvcm1hbmNlLiBZb3UgaGF2ZSB0byBzZXQgdXAgYFB1cmdlQ1NTYCBgUG9zdENTU2AgcGx1Z2luIHRvIG1ha2UgaXQgc21hbGxlci4KCllvdSBhcmUgYXQgbGVhc3Qgc29tZWhvdyByaWdodC4gVGFpbHdpbmQgaXMgaHVnZSB3aXRob3V0IHVzaW5nIGBQb3N0Q1NTYHMgYFB1cmdlQ1NTYCBwbHVnaW4gaW4gb3JkZXIgdG8gcmVtb3ZlIHVudXNlZCBjbGFzc2VzIChbYWJvdXQgMy41TUIgdW5jb21wcmVzc2VkXShodHRwczovL3RhaWx3aW5kY3NzLmNvbS9kb2NzL29wdGltaXppbmctZm9yLXByb2R1Y3Rpb24pKS4gQnV0IHlvdSBkb24ndCBoYXZlIHRvIHNldCB1cCBgUHVyZ2VDU1NgIGFuZCBpbnRlZ3JhdGUgaXQgaW50byB5b3VyIGJ1aWxkIHN0ZXAsIHBpcGVsaW5lLCBvciB3aGF0ZXZlciB5b3UgdXNlIGJlY2F1c2Ugc2luY2UgdjEuNCB0aGlzIGlzIGJ1aWx0LWluLiBKdXN0IHByb3ZpZGUgdGhlIGBwdXJnZWAgb3B0aW9uIGluIGB0YWlsd2luZC5jb25maWcuanNgIGFuZCB5b3UgYXJlIGdvb2QgdG8gZ28uCgpUaGUgcmVzdWx0IHdpbGwgcHJvYmFibHkgYmUgZXZlbiBzbWFsbGVyIChhbmQgdGhlcmVmb3JlIG1vcmUgcGVyZm9ybWFudCkgY29tcGFyZWQgdG8geW91ciBvd24gQ1NTLiBDaGFuY2VzIGFyZSwgd2hlbiB3cml0aW5nIHlvdXIgb3duIENTUywgdGhhdCB5b3Ugc2hpcCBhdCBsZWFzdCBzb21lIHVudXNlZCBDU1MgKHJlbWVtYmVyIHRoZSBhcmd1bWVudCBhYm91dCBzZXBhcmF0aW9uIG9mIGNvbmNlcm5zKS4gQmVzaWRlcyB0aGF0LCB5b3UgaGF2ZSBhIGxvdCBvZiBkdXBsaWNhdGVkIENTUyBpbiBkaWZmZXJlbnQgcGxhY2VzIGluc3RlYWQgb2YgcmV1c2luZyBwcmVkZWZpbmVkIGNsYXNzZXMgKihJIGhhdmVuJ3QgbWVhc3VyZWQgaXQsIGJ1dCBpdCBtYWtlcyBzZW5zZSB0byBtZS4gQW55b25lIGhhcyBudW1iZXJzPykqLgoK4pqg77iPIEEgdmFsaWQgcGFpbiBwb2ludCByZWdhcmRpbmcgcHVyZ2luZyBpcyB0aGUgZmFjdCB0aGF0IHlvdSBoYXZlIHRvIGJlIGF3YXJlIG9mIGhvdyBwdXJnaW5nIHdvcmtzLiBZb3UgaGF2ZSB0byB3cml0ZSBbcHVyZ2FibGUgSFRNTF0oaHR0cHM6Ly90YWlsd2luZGNzcy5jb20vZG9jcy9vcHRpbWl6aW5nLWZvci1wcm9kdWN0aW9uI3dyaXRpbmctcHVyZ2VhYmxlLWh0bWwpLiBZb3UgY2FuJ3QgdXNlIGEgY2xhc3MgbGlrZSBgdGV4dC0kKGNvbG9yKS01MDBgLCBiZWNhdXNlIGBQdXJnZUNTU2AganVzdCB3b3JrcyBieSBwYXJzaW5nIHlvdXIgSFRNTCBhcyBhIHN0cmluZy4gSXQgZG9lcyBub3QgcnVuIHlvdXIgY29kZSBvciBpbnRlcnByZXQgaXQgaW4gc29tZSB3YXkuCgojIyBBIExvdCB0byBMZWFybgo+ICBUaGVyZSBpcyBhIGxvdCBJIGhhdmUgdG8gbGVhcm4gdXBmcm9udC4KClRoZXJlIGlzIGFuIHVwZnJvbnQgbGVhcm5pbmcgY3VydmUuIEJ1dCBpdCBpcyB3YXkgZmxhdHRlciB0aGFuIHlvdSBtYXkgdGhpbmsuIFRoZSBjbGFzc2VzIGFyZSB2ZXJ5IG5hdHVyYWwgYW5kIGNvbnNpc3RlbnRseSBuYW1lZC4gWW91IG9ubHkgbmVlZCB0byBrbm93IGEgc3Vic2V0IGFuZCBjaGFuY2VzIGFyZSB5b3UgY2FuIGRlcml2ZSBjbGFzc2VzIGZyb20geW91ciBleGlzdGluZyBrbm93bGVkZ2UuIFRoZXJlIGFyZSBleGNlcHRpb25zIHRvIHRoaXM6IEkgaGFkIHRvIGxvb2sgdXAgdGhlIGNsYXNzZXMgZm9yIGBsaW5lLWhlaWdodGAgcXVpdGUgb2Z0ZW4gKGUuZy4gYC5sZWFkaW5nLWxvb3NlYCkuIAoKSXQgaXMgd2F5IGhhcmRlciB0byByZW1lbWJlciB0aGUgY2xhc3NlcyBvZiBDU1MgZnJhbWV3b3JrcyBsaWtlIEJvb3RzdHJhcCBhbmQgc3RyYW5nZWx5IGVub3VnaCwgSSd2ZSBuZXZlciBoZWFyZCB0aGF0IGFzIGFuIGFyZ3VtZW50IGFnYWluc3QgaXQg8J+kt/Cfj7zigI3imYLvuI8KCiMjIEhUTUwgaXMgYSBNZXNzCj4gSFRNTCBsb29rcyBsaWtlIGEgbWVzcyBhbmQgaXMgYmxvYXRlZC4KCk9rYXksIHRoZXJlIGFyZSBubyBhcmd1bWVudHMgdG8gZnVsbHkgZGVidW5rIHRoaXMgc3RhdGVtZW50LiBUaGlzIGlzIGNvcGllZCBmcm9tIG9uZSBvZiBteSBwcm9qZWN0czoKCmBgYGh0bWwKPGFydGljbGUgY2xhc3NOYW1lPSJvdmVyZmxvdy1oaWRkZW4gcm91bmRlZC1sZyBzaGFkb3ctbWQgY3Vyc29yLXBvaW50ZXIgZHVyYXRpb24tMzAwIGVhc2UtaW4tb3V0IGhvdmVyOnNjYWxlLTEwMiI+CiAgICA8c2VjdGlvbiBjbGFzc05hbWU9ImgtZnVsbCBwLTMgcm91bmRlZC1sZyBzaGFkb3ctbGcgYmctZ3JheS01MCI+CiAgICAgICAgPGgzIGNsYXNzTmFtZT0ibXQtMSB0ZXh0LXhsIGZvbnQtc2VtaWJvbGQgdHJ1bmNhdGUiPlRpdGxlPC9oMz4KICAgICAgICA8Zm9vdGVyIGNsYXNzTmFtZT0iZmxleCBpdGVtcy1jZW50ZXIgbXQtMiBzcGFjZS14LTIiPgogICAgICAgICAgICA8IS0tIC4uLiAtLT4KICAgICAgICA8L2Zvb3Rlcj4KICAgIDwvc2VjdGlvbj4KPC9hcnRpY2xlPgpgYGAKClRoZSBIVE1MIHVuZG91YnRlZGx5IGlzIG1vcmUgY2x1dHRlcmVkIPCfmJUKCkJVVCBvbiB0aGUgb3RoZXIgc2lkZSwgeW91IGRvbid0IGhhdmUgdG8gc3dpdGNoIHRvIG90aGVyIGZpbGVzIHRvIHNlZS9hZGp1c3QgdGhlIHN0eWxpbmcuIEFuZCBob3cgbXVjaCBvZiBhIGRlYWwgaXMgaXQgd2l0aCBzeW50YXggaGlnaGxpZ2h0aW5nPyBZb3Ugd2lsbCBzdGlsbCBiZSBhYmxlIHRvIGhhdmUgYW4gb3ZlcnZpZXcgb2YgdGhlIEhUTUwgZWxlbWVudHMgZHVlIHRvIGEgZGlmZmVyZW50IGNvbG9yLiBJbiB0aGUgZW5kLCB0aGlzIGlzIHNvbWV0aGluZyB5b3Ugd2lsbCBnZXQgdXNlZCB0by4KCiMgVmFsaWQgQ29ucwpFdmVuIHRob3VnaCB5b3UgcHJvYmFibHkgYnkgbm93IGhhdmUgbm90aWNlZCB0aGF0IEkgYW0gc29tZWhvdyBhIGZhbmJveSwgSSBhbSBhbHNvIGEgcXVpdGUgc2tlcHRpY2FsIGFuZCBhbmFseXRpY2FsIHBlcnNvbiBpbiBnZW5lcmFsLiBUaGVyZSBhcmUgc2VsZG9tIHRoaW5ncyB3aXRob3V0IGFueSB0cmFkZW9mZnMuIEl0IGlzIGFsd2F5cyBhYm91dCB0cmFkZS1vZmZzLgoKUGxlYXNlIGxldCBtZSBrbm93IHRoZSBjb3VudGVyYXJndW1lbnRzIEkgaGF2ZW4ndCBtZW50aW9uZWQuCgpJIGFsc28gaGF2ZSBvbmUgbXlzZWxmOiBDb21wYXJlZCB0byBjb21wb25lbnQgbGlicmFyaWVzIGxpa2UgW0NoYWtyYSBVSV0oaHR0cHM6Ly9jaGFrcmEtdWkuY29tLykgKHdoaWNoIEkgYWJzb2x1dGVseSBsb3ZlIC0gaXQgaGFzIGEgdmVyeSBUYWlsd2luZC1saWtlIEFQSSksIHlvdSBoYXZlIHRvIHdyaXRlIHRoaW5ncyBmcm9tIHNjcmF0Y2guIENvbW1vbiBidWlsZGluZyBibG9ja3MgbGlrZSBidXR0b25zLCBkYXRlIHBpY2tlcnMsIG1vZGFscywgYW5kIGlucHV0cyBhcmUgaGFyZCB0byBnZXQgcmlnaHQgKGVzcGVjaWFsbHkgY29uc2lkZXJpbmcgYTExeSkuIFNvIFRhaWx3aW5kIGluaXRpYWxseSBoYXMgYSBidXJkZW4gdG8gZ2V0IHVwIHRvIHNwZWVkLiBCVVQuIEZpcnN0bHksIHlvdSBjYW4gcmV1c2Ugd2hhdCB5b3UgaGF2ZSB3cml0dGVuIGJlZm9yZSBhbmQgdGhlcmVmb3JlIGl0IGdldHMgYmV0dGVyLiBBbmQgc2Vjb25kbHksIHRoaXMgaXMgd2hlcmUgW1RhaWx3aW5kIFVJXShodHRwczovL3RhaWx3aW5kdWkuY29tLykgYW5kIFtIZWFkbGVzcyBVSV0oaHR0cHM6Ly9oZWFkbGVzc3VpLmRldi8pIGNvbWUgaW50byBwbGF5LiBUaGV5IHByb3ZpZGUgeW91IHdpdGggZWFzaWx5IGFkanVzdGFibGUgYnVpbGRpbmcgYmxvY2tzLgoKIyBDb25jbHVzaW9uCkkgbG92ZSBUYWlsd2luZCDinaTvuI8gVGhlcmUgYXJlIHJlYXNvbnMgd2h5IGl0IGlzIGdldHRpbmcgdmVyeSBwb3B1bGFyLiBZb3Ugc2hvdWxkIHRyeSBpdCBvdXQgaWYgeW91IGhhdmVuJ3QgYWxyZWFkeS4gQW5kIGlmIHlvdSBzdGlsbCBoYXZlIGNvbmNlcm5zIGFmdGVyIGEgd2hpbGUgeW91IGFyZSBpbiBhIHBvc2l0aW9uIHRvIGFyZ3VlIGFnYWluc3QgaXQuIChBZ2FpbjogRG9uJ3QgYXJndWUgYWdhaW5zdCB0aGluZ3Mgd2l0aG91dCBhdCBsZWFzdCBoYXZpbmcgdHJpZWQgaXQgb3V0LikKCioqSGFwcHkgdG8gaGVhciB5b3VyIGZlZWRiYWNrLiBBcmUgeW91IHVzaW5nIFRhaWx3aW5kPyBOb3Q/IFdoeSBub3Q/KioKCgoK
+# Debunking Tailwind Counterarguments
+
+# Same Discussions Over and Over Again
+
+This post debunks some of the arguments against using `tailwindcss`. I've argued about them quite often in the past. Maybe you have, too? I'll plan to just reference this article from now on. This will make my (and your?) life easier 🤪
+
+If you are in the 'against Tailwind camp', I'm interested in valid counterarguments from your perspective. At the end of this article, I will point to a con I currently think of as being somehow valid.
+
+*NOTE: Even though this post is about Tailwind the written also applies for utility first CSS frameworks in general.*
+
+# The Counterarguments
+These are just some statements I heard over and over again over time. I'll go through them one by one after this section. They are ordered in descending order after the emotions coming up on my side 😅
+
+> Tailwind violates the separation of concerns between style and markup.
+
+---
+
+> Tailwind is like inline styles and they are considered bad practice.
+
+---
+
+> Tailwind is huge and reduces performance. You have to set up `PurgeCSS` `PostCSS` plugin to make it smaller.
+
+---
+
+>  There is a lot I have to learn upfront.
+
+---
+
+> HTML looks like a mess and is bloated.
+
+# Debunking the Arguments
+Now to the fun part. How can be argued against these arguments?
+
+## Violates Separation of Concerns
+> Tailwind violates the separation of concerns between style and markup.
+
+The concerns being referred to are the markup (HTML) and the styling (CSS). People pointing to this often like to refer to [CSS Zen Garden](http://www.csszengarden.com/), which showcases that the look and feel of a website can be changed entirely by only changing the CSS. Yes, that is true, it is possible. How often have you changed the look and feel of your entire site without touching HTML (not talking about dark mode 😉)?
+
+You think with something like [BEM (Block Element Modifier)](http://getbem.com/) you have "seperated the concerns"? A card using BEM could look something like this:
+
+```html
+<div class="card card--dark">
+    <img class="card__image">
+    <h3 class="card__heading">Heading</h3>
+    <div class="card__content">
+        <p class="card__text">Lorem Ipsum...</p>
+    </div>
+</div>
+```
+
+I hope you don't want to tell me the concerns are separated now. The markup knows about being displayed as a card. You want something looking similar, but it isn't really a card? Maybe you are starting extending `.card` somehow or find a broader, more general name.
+
+What benefits do you get by trying to completely separate the styling from the markup? From my perspective, it even is a strength of Tailwind to keep them together! Just imagine you (or somebody else) will remove the card in a few months or create different styling for it. Will you remember to also delete the CSS? Can you delete it? Another scenario: You have a big (React) component and want to cut it into smaller pieces. Which of the CSS can (or have to be) taken to the newly created component? `Strg + F` will probably be your friend.
+
+**Keeping styling and markup together improves maintainability.**
+
+Another benefit of not separating the styles from the markup: **You don't have to come up with names for things.** You want to change the card to be displayed as something else? You will probably change the name... It may seem like a minor thing to you, but for me, it is actually one thing less to worry about.
+
+You probably have read or heard the following quote before:
+> There are only two hard things in Computer Science: cache invalidation and naming things.
+
+[Read this](https://martinfowler.com/bliki/TwoHardThings.html) if you have never heard about it.
+
+There is an in-depth article with the title [CSS Utility Classes and "Separation of Concerns"](https://adamwathan.me/css-utility-classes-and-separation-of-concerns/) from  [Adam Wathan](https://twitter.com/adamwathan). Read it if you are not convinced yet. *It may be a little biased because Adam is the creator of Tailwind 🤪*
+
+## Tailwind is Like Writing Inline Styles
+> Tailwind is like inline styles and they are considered bad practice.
+
+Sorry, but you didn't get the point of Tailwind. Most probably you haven't used it all. *(How are you able to argue against something you haven't really tried yourself?)*
+
+Okay, got it, there are quite a lot of 1:1 mappings between CSS properties and Tailwind classes like `display: flex` and the class `flex`. But, first of all - just being a side note - this is not true for all cases, e.g. `space-y-1` (which is one of my favorites) translates into 
+```css
+/* CSS for Tailwinds .space-y-1 */
+--tw-space-y-reverse: 0;
+margin-top: calc(0.25rem * calc(1 - var(--tw-space-y-reverse)));
+margin-bottom: calc(0.25rem * var(--tw-space-y-reverse));
+```
+
+Way more important: Tailwind is not about the translation of CSS properties into classes. It enables you to easily use (and stick to) a *design system by providing a limited set of classes* [through the theming](https://tailwindcss.com/docs/theme), which helps you to create a consistent styling more easily. `style="color: #6366F1;"` and `class="text-indigo-500"` provide the same outcome in this case, but by using inline styles you could just use a slightly off color in the next place whereas with Tailwind you would use something like `class="text-indigo-600"`. Yes, you could achieve something like this with CSS variables yourself, but Tailwind already provides that to you out of the box.
+
+## Tailwind Is Bad For Performance; PurgeCSS Has to Be Set Up
+> Tailwind is huge and reduces performance. You have to set up `PurgeCSS` `PostCSS` plugin to make it smaller.
+
+You are at least somehow right. Tailwind is huge without using `PostCSS`s `PurgeCSS` plugin in order to remove unused classes ([about 3.5MB uncompressed](https://tailwindcss.com/docs/optimizing-for-production)). But you don't have to set up `PurgeCSS` and integrate it into your build step, pipeline, or whatever you use because since v1.4 this is built-in. Just provide the `purge` option in `tailwind.config.js` and you are good to go.
+
+The result will probably be even smaller (and therefore more performant) compared to your own CSS. Chances are, when writing your own CSS, that you ship at least some unused CSS (remember the argument about separation of concerns). Besides that, you have a lot of duplicated CSS in different places instead of reusing predefined classes *(I haven't measured it, but it makes sense to me. Anyone has numbers?)*.
+
+⚠️ A valid pain point regarding purging is the fact that you have to be aware of how purging works. You have to write [purgable HTML](https://tailwindcss.com/docs/optimizing-for-production#writing-purgeable-html). You can't use a class like `text-$(color)-500`, because `PurgeCSS` just works by parsing your HTML as a string. It does not run your code or interpret it in some way.
+
+## A Lot to Learn
+>  There is a lot I have to learn upfront.
+
+There is an upfront learning curve. But it is way flatter than you may think. The classes are very natural and consistently named. You only need to know a subset and chances are you can derive classes from your existing knowledge. There are exceptions to this: I had to look up the classes for `line-height` quite often (e.g. `.leading-loose`). 
+
+It is way harder to remember the classes of CSS frameworks like Bootstrap and strangely enough, I've never heard that as an argument against it 🤷🏼‍♂️
+
+## HTML is a Mess
+> HTML looks like a mess and is bloated.
+
+Okay, there are no arguments to fully debunk this statement. This is copied from one of my projects:
+
+```html
+<article className="overflow-hidden rounded-lg shadow-md cursor-pointer duration-300 ease-in-out hover:scale-102">
+    <section className="h-full p-3 rounded-lg shadow-lg bg-gray-50">
+        <h3 className="mt-1 text-xl font-semibold truncate">Title</h3>
+        <footer className="flex items-center mt-2 space-x-2">
+            <!-- ... -->
+        </footer>
+    </section>
+</article>
+```
+
+The HTML undoubtedly is more cluttered 😕
+
+BUT on the other side, you don't have to switch to other files to see/adjust the styling. And how much of a deal is it with syntax highlighting? You will still be able to have an overview of the HTML elements due to a different color. In the end, this is something you will get used to.
+
+# Valid Cons
+Even though you probably by now have noticed that I am somehow a fanboy, I am also a quite skeptical and analytical person in general. There are seldom things without any tradeoffs. It is always about trade-offs.
+
+Please let me know the counterarguments I haven't mentioned.
+
+I also have one myself: Compared to component libraries like [Chakra UI](https://chakra-ui.com/) (which I absolutely love - it has a very Tailwind-like API), you have to write things from scratch. Common building blocks like buttons, date pickers, modals, and inputs are hard to get right (especially considering a11y). So Tailwind initially has a burden to get up to speed. BUT. Firstly, you can reuse what you have written before and therefore it gets better. And secondly, this is where [Tailwind UI](https://tailwindui.com/) and [Headless UI](https://headlessui.dev/) come into play. They provide you with easily adjustable building blocks.
+
+# Conclusion
+I love Tailwind ❤️ There are reasons why it is getting very popular. You should try it out if you haven't already. And if you still have concerns after a while you are in a position to argue against it. (Again: Don't argue against things without at least having tried it out.)
+
+**Happy to hear your feedback. Are you using Tailwind? Not? Why not?**
+
+
+
