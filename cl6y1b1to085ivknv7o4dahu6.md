@@ -1,1 +1,60 @@
-IyMgQVdTIEJlZ2lubmVyOiBBV1MgaXMgZGlmZmVyZW50LiBXaGF0IGFyZSBBV1MgQWNjb3VudHMsIElBTSBVc2VycyBhbmQgUm9vdCBVc2VyPwoKVGhpbmdzIGFyZSBjb25mdXNpbmcgd2hlbiB5b3UgYXJlIGp1c3Qgc3RhcnRpbmcgdG8gdXNlIEFXUy4gWW91IGRvbid0IGp1c3QgY3JlYXRlIGFuIGFjY291bnQgYW5kIGdldCBzdGFydGVkIGFzIHlvdSBkbyB3aXRoIG90aGVyIHNlcnZpY2VzLiBZb3UgY29tZSBhY3Jvc3MgdGVybXMgbGlrZSAiQWNjb3VudCIsICJVc2VyIiBhbmQgIlJvb3QgVXNlciIgYW5kIG1heWJlIGFzayB5b3Vyc2VsZiBob3cgdGhleSBkaWZmZXIuIFRoaXMgcG9zdCBzaG91bGQgaGVscCB1bmRlcnN0YW5kIHRoZXNlIHRlcm1zLgoKIyMgV2hlbiBZb3UgU2lnbiBVcCBmb3IgYW4gQVdTIEFjY291bnQKCklmIHlvdSBbc2lnbiB1cCBmb3IgYW4gQVdTIGFjY291bnRdKGh0dHBzOi8vcG9ydGFsLmF3cy5hbWF6b24uY29tL2JpbGxpbmcvc2lnbnVwKSB5b3Ugd2lsbCBiZSBhc2tlZCB0byBlbnRlciBhICJSb290IHVzZXIgZW1haWwgYWRkcmVzcyIgYW5kIGFuICJBV1MgYWNjb3VudCBuYW1lIjoKCiFbQVdTIHNpZ24gdXAgc2NyZWVuXShodHRwczovL2Nkbi5oYXNobm9kZS5jb20vcmVzL2hhc2hub2RlL2ltYWdlL3VwbG9hZC92MTY2MDc1OTQ2MjA4MS9wcXY2QXJDTEwucG5nIGFsaWduPSJjZW50ZXIiKQoKQWZ0ZXIgeW91IGZpbmlzaCB0aGUgc2lnbnVwIHByb2Nlc3MsIHlvdSB3aWxsIGVuZCB1cCB3aXRoIGFuIGFjY291bnQgKGlkZW50aWZpZWQgYnkgYSAxMi1kaWdpdCBhY2NvdW50IElEIGFuZCBhbiBhY2NvdW50IG5hbWUsIGFsc28ga25vd24gYXMgYWNjb3VudCBhbGlhcykgYW5kIHNvbWUgY3JlZGVudGlhbHMgKGVtYWlsIGFuZCBwYXNzd29yZCBvZiB5b3VyIHJvb3QgdXNlcikgdG8gZW50ZXIgdGhhdCBhY2NvdW50LgoKVGhpcyBpcyB3aGF0IHRoZSBbQVdTIGRvY3Mgc2F5IGFib3V0IHRoZSByb290IHVzZXJdKGh0dHBzOi8vZG9jcy5hd3MuYW1hem9uLmNvbS9JQU0vbGF0ZXN0L1VzZXJHdWlkZS9pZF9yb290LXVzZXIuaHRtbCkgaW4gYSByZWQgd2FybmluZyBjYWxsb3V0OgoKPiBXZSBzdHJvbmdseSByZWNvbW1lbmQgdGhhdCB5b3UgZG8gKipub3QgdXNlIHRoZSByb290IHVzZXIgZm9yIHlvdXIgZXZlcnlkYXkgdGFza3MqKiwgZXZlbiB0aGUgYWRtaW5pc3RyYXRpdmUgb25lcy4gSW5zdGVhZCwgYWRoZXJlIHRvIHRoZSBiZXN0IHByYWN0aWNlIG9mIHVzaW5nIHRoZSByb290IHVzZXIgb25seSB0byAqKmNyZWF0ZSB5b3VyIGZpcnN0IElBTSB1c2VyKiouCgpPa2F5LCBzbyB5b3Ugc2hvdWxkIGNyZWF0ZSBhbiBJQU0gdXNlciAob2Z0ZW4ganVzdCByZWZlcnJlZCB0byBhcyB1c2VyOyB0aGlzIGlzIFtob3cgeW91IGNhbiBjcmVhdGUgYW4gSUFNIHVzZXJdKGh0dHBzOi8vZG9jcy5hd3MuYW1hem9uLmNvbS9JQU0vbGF0ZXN0L1VzZXJHdWlkZS9pZF91c2Vyc19jcmVhdGUuaHRtbCkpIGJ1dCB3aGF0IGlzIHRoZSBkaWZmZXJlbmNlIGJldHdlZW4gYW4gSUFNIHVzZXIgYW5kIHRoZSByb290IHVzZXI/IEFuZCB1c3VhbGx5LCBpZiB5b3Ugc2lnbiB1cCBmb3IgYSBzZXJ2aWNlIHlvdSBjcmVhdGUgYW4gYWNjb3VudCB3aXRoIGNyZWRlbnRpYWxzIGFuZCBlbmQgdXAgd2l0aCBvbmUgdGhpbmc6IGFuIGFjY291bnQuIFdoeSBkbyB5b3UgaGF2ZSAoYXQgbGVhc3QpIHRocmVlIGFjY291bnQtcmVsYXRlZCB0aGluZ3MgaW4gQVdTPyBIb3cgYXJlIHRoZXkgZGlmZmVyZW50PyBCZWZvcmUgd2Ugd2lsbCBnZXQgdG8gdGhlIGRlZmluaXRpb25zIHdlIHdpbGwgaGF2ZSBhIGxvb2sgYXQgaG93IHRvIHNpZ24gaW4gdXNpbmcgZWl0aGVyIHRoZSByb290IHVzZXIgb3IgYW4gSUFNIHVzZXIuCgojIyBTaWduIEluIHRvIHlvdXIgYWNjb3VudAoKVGhpcyBpcyBob3cgdGhlIHNpZ24taW4gc2NyZWVuIGxvb2tzIGxpa2Ugd2hlbiB5b3UgY2xpY2sgb24gdGhlICJTaWduIEluIiBidXR0b24gb24gW2h0dHBzOi8vYXdzLmFtYXpvbi5jb20vY29uc29sZS9dKGh0dHBzOi8vYXdzLmFtYXpvbi5jb20vY29uc29sZS8pOgoKIVtBV1Mgc2lnbiBpbiBzY3JlZW5dKGh0dHBzOi8vY2RuLmhhc2hub2RlLmNvbS9yZXMvaGFzaG5vZGUvaW1hZ2UvdXBsb2FkL3YxNjYwNzYzOTEyNzQ3L2hxZFNSYVhzcy5wbmcgYWxpZ249ImNlbnRlciIpCgpZb3UgY2FuIGVpdGhlciBnbyBhaGVhZCBhbmQgc2lnbiBpbiBhcyBhIHJvb3QgdXNlciBieSBqdXN0IHByb3ZpZGluZyB0aGUgcm9vdCB1c2VyIGVtYWlsIGFkZHJlc3MgYW5kIHRoZSBwYXNzd29yZCBvciB5b3UgY2FuIHNpZ24gaW4gYXMgYW4gSUFNIHVzZXIgYnkgcHJvdmlkaW5nIHRoZSBhY2NvdW50IElEIG9yIGFjY291bnQgYWxpYXMgZmlyc3QgYW5kIHRoZSBJQU0gdXNlciBuYW1lIGFuZCBwYXNzd29yZCBpbiB0aGUgc2Vjb25kIHN0ZXA6CgohW0FXUyBzaWduIGluIHNjcmVlbiBJQU0gdXNlcl0oaHR0cHM6Ly9jZG4uaGFzaG5vZGUuY29tL3Jlcy9oYXNobm9kZS9pbWFnZS91cGxvYWQvdjE2NjA3NjM3NzkxNzEvdWhsN2xqU0c1LnBuZyBhbGlnbj0iY2VudGVyIikKCk5vdGUgaG93IHlvdSBkb24ndCBoYXZlIHRvIHByb3ZpZGUgdGhlIGFjY291bnQgSUQgZm9yIHRoZSByb290IHVzZXIgYXMgdGhhdCB1c2VyIGhhcyB0byBiZSB1bmlxdWUgZ2xvYmFsbHkuCgpBbHNvLCB5b3UgY2FuIHVzZSB5b3VyIGFjY291bnQgbmFtZSBpbiBhIFVSTCBsaWtlIFtodHRwczovL215YWNjb3VudG5hbWUuc2lnbmluLmF3cy5hbWF6b24uY29tL2NvbnNvbGVdKGh0dHBzOi8vbXlhY2NvdW50bmFtZS5zaWduaW4uYXdzLmFtYXpvbi5jb20vY29uc29sZSkgdG8gcG9wdWxhdGUgdGhlIGFjY291bnQgaWQgaW5wdXQgd2l0aCBgbXlhY2NvdW50bmFtZWAgKHRoYXQgYWNjb3VudCBhbGlhcyBtdXN0IGV4aXN0LCBvdGhlcndpc2UgeW91IHdpbGwgbGFuZCBvbiBhIDQwNCBwYWdlKS4KCiMjIERlZmluaXRpb25zCgpOb3cgbGV0J3MgZ2V0IHRvIHRoZSBkZWZpbml0aW9ucy4KCiMjIyBBY2NvdW50CgpUaGluayBvZiBhbiBhY2NvdW50IGFzIGp1c3QgYSBjb250YWluZXIuIEEgY29udGFpbmVyIGNvbnRhaW5pbmcgeW91ciByZXNvdXJjZXMsIHVzZXJzIGFuZCBhY2NvdW50IHNldHRpbmdzLgoKWW91IGNhbiBjcmVhdGUgbXVsdGlwbGUgb2YgdGhlc2UgY29udGFpbmVycy4gSW4gZmFjdCwgaXQgaXMgYmVzdCBwcmFjdGljZSB0byBzZXBhcmF0ZSB5b3VyIGRpZmZlcmVudCB3b3JrbG9hZHMgKGZvciBleGFtcGxlIHRlc3QgYW5kIHByb2R1Y3Rpb24pIGludG8gZGlmZmVyZW50IGFjY291bnRzLgoKIyMjIFJvb3QgVXNlcgoKVGhlIHJvb3QgdXNlciBpcyB0aGUgbWFzdGVyIG9mIHlvdXIgYWNjb3VudC4gSXQgaXMgdGhlIGNlbnRyYWwga2V5ICh0aGlzIGlzIHdoeSB5b3Ugc2hvdWxkIGFjdGl2YXRlIE11bHRpLUZhY3RvciBBdXRoZW50aWNhdGlvbiAoTUZBKSBmb3IgaXQpIGFuZCBwcm92aWRlcyB1bnJlc3RyaWN0ZWQgYWNjZXNzIHRvIHRoZSBhY2NvdW50LiBUaGVyZSBpcyBhbHdheXMgZXhhY3RseSBvbmUgcm9vdCB1c2VyIHBlciBhY2NvdW50LgoKVGhlcmUgYXJlIHNvbWUgW3Rhc2tzIHRoYXQgb25seSBhIHJvb3QgdXNlciBjYW4gZG9dKGh0dHBzOi8vZG9jcy5hd3MuYW1hem9uLmNvbS9hY2NvdW50cy9sYXRlc3QvcmVmZXJlbmNlL3Jvb3QtdXNlci10YXNrcy5odG1sKSwgZS5nLiBjaGFuZ2luZyB0aGUgYWNjb3VudCBzZXR0aW5ncyAoaW5jbHVkaW5nIHRoZSBhY2NvdW50IG5hbWUpIGFuZCBiaWxsaW5nIGluZm9ybWF0aW9uLgoKQWdhaW46IHVzZSBNRkEgZm9yIHlvdXIgcm9vdCB1c2VyIGFuZCBvbmx5IHVzZSB0aGF0IHVzZXIgaWYgeW91IGhhdmUgdG8sIGRvbid0IHVzZSBpdCBmb3IgZXZlcnlkYXkgd29yay4KCiMjIyBJQU0gVXNlcgoKQW4gSUFNIFVzZXIgaXMgYW4gZW50aXR5IHJlcHJlc2VudGluZyBhIHBlcnNvbiBvciBhbiBhcHBsaWNhdGlvbiAoaXQgaXMgbm90IG5lY2Vzc2FyaWx5IGEgcGVyc29uLCB0aGlzIGNhbiBiZSBjb25mdXNpbmcgYmVjYXVzZSB0aGUgd29yZCAidXNlciIgaW1wbGllcyBhIHBlcnNvbikuIFlvdSBjcmVhdGUgdGhlIElBTSB1c2VycyBhZnRlciB0aGUgaW5pdGlhbCBjcmVhdGlvbiBvZiB5b3VyIHJvb3QgdXNlci4gQW4gYWNjb3VudCBjYW4gaGF2ZSBzZXZlcmFsIHVzZXJzICh0aGluayBvZiBwZW9wbGUgb3IgYXBwbGljYXRpb25zIGJlaW5nIGFibGUgdG8gYWNjZXNzIHRoZSBjb250YWluZXIgb2YgcmVzb3VyY2VzKS4gCgpUaGVyZSBhcmUgdmFyaW91cyB3YXlzIGhvdyB5b3UgY2FuIGdyYW50IElBTSB1c2VycyBwZXJtaXNzaW9ucyBpbiBvcmRlciB0byBiZSBhYmxlIHRvIGRvIHNvbWV0aGluZy4gT25lIG9mIHRoZW0gaXMgYXR0YWNoaW5nIHBvbGljaWVzIHRvIHRoZSBJQU0gdXNlciAoW2xlYXJuIG1vcmUgYWJvdXQgSUFNIHBlcm1pc3Npb25zXShwZXJtaXNzaW9ucyBmb3IgYW4gSUFNIHVzZXIpKS4gQW4gSUFNIHVzZXIgd2l0aCB0aGUgYEFkbWluaXN0cmF0b3JBY2Nlc3NgIHBvbGljeSBhdHRhY2hlZCBpcyBub3QgdGhlIHNhbWUgYXMgdGhlIHJvb3QgdXNlci4KCiMjIENvbmNsdXNpb24KVGhlIGNvbmNlcHQgb2YgYWNjb3VudHMgYW5kIHVzZXJzIGluIEFXUyBpcyBkaWZmZXJlbnQgZnJvbSB3aGF0IHdlIGFyZSB1c2VkIHRvIChHb29nbGUsIFNwb3RpZnksIGV0Yy4pLiBUaGlzIGNhbiBsZWFkIHRvIGNvbmZ1c2lvbi4gSG9wZWZ1bGx5IHRoaXMgcG9zdCBoYXMgY2xlYXJlZCB1cCB0aGF0IGNvbmZ1c2lvbiBmb3IgeW91LgoKSWYgeW91IG5lZWQgaGVscCBnZXR0aW5nIGdvaW5nLCBmZWVsIGZyZWUgdG8gYXNrIHF1ZXN0aW9ucy4=
+# AWS Beginner: AWS is different. What are AWS Accounts, IAM Users and Root User?
+
+Things are confusing when you are just starting to use AWS. You don't just create an account and get started as you do with other services. You come across terms like "Account", "User" and "Root User" and maybe ask yourself how they differ. This post should help understand these terms.
+
+## When You Sign Up for an AWS Account
+
+If you [sign up for an AWS account](https://portal.aws.amazon.com/billing/signup) you will be asked to enter a "Root user email address" and an "AWS account name":
+
+![AWS sign up screen](https://cdn.hashnode.com/res/hashnode/image/upload/v1660759462081/pqv6ArCLL.png align="center")
+
+After you finish the signup process, you will end up with an account (identified by a 12-digit account ID and an account name, also known as account alias) and some credentials (email and password of your root user) to enter that account.
+
+This is what the [AWS docs say about the root user](https://docs.aws.amazon.com/IAM/latest/UserGuide/id_root-user.html) in a red warning callout:
+
+> We strongly recommend that you do **not use the root user for your everyday tasks**, even the administrative ones. Instead, adhere to the best practice of using the root user only to **create your first IAM user**.
+
+Okay, so you should create an IAM user (often just referred to as user; this is [how you can create an IAM user](https://docs.aws.amazon.com/IAM/latest/UserGuide/id_users_create.html)) but what is the difference between an IAM user and the root user? And usually, if you sign up for a service you create an account with credentials and end up with one thing: an account. Why do you have (at least) three account-related things in AWS? How are they different? Before we will get to the definitions we will have a look at how to sign in using either the root user or an IAM user.
+
+## Sign In to your account
+
+This is how the sign-in screen looks like when you click on the "Sign In" button on [https://aws.amazon.com/console/](https://aws.amazon.com/console/):
+
+![AWS sign in screen](https://cdn.hashnode.com/res/hashnode/image/upload/v1660763912747/hqdSRaXss.png align="center")
+
+You can either go ahead and sign in as a root user by just providing the root user email address and the password or you can sign in as an IAM user by providing the account ID or account alias first and the IAM user name and password in the second step:
+
+![AWS sign in screen IAM user](https://cdn.hashnode.com/res/hashnode/image/upload/v1660763779171/uhl7ljSG5.png align="center")
+
+Note how you don't have to provide the account ID for the root user as that user has to be unique globally.
+
+Also, you can use your account name in a URL like [https://myaccountname.signin.aws.amazon.com/console](https://myaccountname.signin.aws.amazon.com/console) to populate the account id input with `myaccountname` (that account alias must exist, otherwise you will land on a 404 page).
+
+## Definitions
+
+Now let's get to the definitions.
+
+### Account
+
+Think of an account as just a container. A container containing your resources, users and account settings.
+
+You can create multiple of these containers. In fact, it is best practice to separate your different workloads (for example test and production) into different accounts.
+
+### Root User
+
+The root user is the master of your account. It is the central key (this is why you should activate Multi-Factor Authentication (MFA) for it) and provides unrestricted access to the account. There is always exactly one root user per account.
+
+There are some [tasks that only a root user can do](https://docs.aws.amazon.com/accounts/latest/reference/root-user-tasks.html), e.g. changing the account settings (including the account name) and billing information.
+
+Again: use MFA for your root user and only use that user if you have to, don't use it for everyday work.
+
+### IAM User
+
+An IAM User is an entity representing a person or an application (it is not necessarily a person, this can be confusing because the word "user" implies a person). You create the IAM users after the initial creation of your root user. An account can have several users (think of people or applications being able to access the container of resources). 
+
+There are various ways how you can grant IAM users permissions in order to be able to do something. One of them is attaching policies to the IAM user ([learn more about IAM permissions](permissions for an IAM user)). An IAM user with the `AdministratorAccess` policy attached is not the same as the root user.
+
+## Conclusion
+The concept of accounts and users in AWS is different from what we are used to (Google, Spotify, etc.). This can lead to confusion. Hopefully this post has cleared up that confusion for you.
+
+If you need help getting going, feel free to ask questions.
