@@ -1,1 +1,81 @@
-IyMgTXkgRmF2b3JpdGUgVGVjaCBTdGFjayBmb3IgMjAyMgoKSSBqdXN0IHJlY2VudGx5IHR3ZWV0ZWQgbXkgZmF2b3JpdGUgdGVjaCBzdGFjayBmb3IgMjAyMiAoaW5zcGlyZWQgYnkgQFtKb24gTWV5ZXJzXShAZGlqb25tdXN0ZXJzKSB0d2VldCkuIEknZCBsaWtlIHRvIHNoYXJlIHNvbWUgbW9yZSB0aG91Z2h0cyBhYm91dCBteSBjaG9pY2VzIGluIHRoaXMgcG9zdC4KCiVbaHR0cHM6Ly90d2l0dGVyLmNvbS9KYW5uaWtXZW1wZS9zdGF0dXMvMTQ3MzkzNTkzMzQ0NzgzOTc0OF0KCiMjIEZyb250ZW5kCgpGaXJzdCBvZiBhbGw6IEkgbG92ZSBmcm9udGVuZCBkZXZlbG9wbWVudC4gSXQgaXMgdGhlIGRpcmVjdCB0b3VjaHBvaW50IHRvIHRoZSB1c2VyIGZvciB3ZWJzaXRlcyAvIC1hcHBzLiBJdCBpcyB0aGUgZmlyc3QgaW1wcmVzc2lvbiBmb3IgdGhlIHVzZXIuCgpUaGVyZSBpcyBzbyBtdWNoIG91dCB0aGVyZS4gSXQgY2FuIGJlIHBhcmFseXppbmcuIEkgYWxyZWFkeSB1c2VkIGEgdmFyaWV0eSBvZiBmcm9udGVuZCBmcmFtZXdvcmtzOiBSZWFjdCAoQ1JBLCBHYXRzYnksIE5leHRKUyksIFZ1ZSwgQW5ndWxhciwgU3ZlbHRlIChTdmVsdGVLaXQpLiBBbmQgYXMgZmFyIGFzIHN0eWxpbmcgZ29lcywgSSd2ZSB0cmllZCBhIGxvdCBvZiB0aGluZ3MgdG9vOiBDU1MgKG1vZHVsZXMpLCBTQVNTLCBDU1MtaW4tSlMsIE1hdGVyaWFsLCBCb290c3RyYXAsIEJ1bG1hLCBRdWFzYXIsIFRhaWx3aW5kLCBDaGFrcmEgVUksIGFuZCBtb3JlLiBUaGVyZWZvcmUgeW91IGNhbiBhc3N1bWUgSSd2ZSB0cmllZCBxdWl0ZSBhIGxvdCBhbmQgbXkgY2hvaWNlcyBhcmUgbm90IHRoZSBvbmx5IG9uZXMgSSBrbm93LiAoTm90IHNheWluZyB0aGF0IG90aGVyIHRvb2xzIGRvbid0IGRvIHRoZSBqb2IgYW5kIGFyZSBpbmZlcmlvci4gSXQgYWxzbyBjb21lcyBkb3duIHRvIHBlcnNvbmFsIHByZWZlcmVuY2UuKQoKIyMjIFN2ZWx0ZSAvIFN2ZWx0ZUtpdAoKVGhpcyBibG9nIHBvc3QgZ29lcyBpbnRvIGRldGFpbCBbV2h5IFN2ZWx0ZSBpcyBkaWZmZXJlbnQgLSBhbmQgYXdlc29tZV0oaHR0cHM6Ly9ibG9nLmphbm5pa3dlbXBlLmNvbS93aHktc3ZlbHRlLWlzLWRpZmZlcmVudC1hbmQtYXdlc29tZSkuIEkganVzdCByZWFsbHkgZW5qb3kgdXNpbmcgU3ZlbHRlLiBJdCBpcyBtb3JlIGNvbmNpc2UgdGhhbiBSZWFjdCBhbmQgbW9yZSBwZXJmb3JtYW50LiBTdG9yZXMgYW5kIGFuaW1hdGlvbnMgYXJlIGFsc28gZ3JlYXQgZmVhdHVyZXMuIFRoZXJlIGlzIGEgcmVhc29uIHdoeSBTdmVsdGUgd2FzIHRoZSBbbW9zdCBsb3ZlZCB3ZWIgZnJhbWV3b3JrIGluIHRoZSBTdGFjayBPdmVyZmxvdyBEZXZlbG9wZXIgU3VydmV5IDIwMjFdKGh0dHBzOi8vaW5zaWdodHMuc3RhY2tvdmVyZmxvdy5jb20vc3VydmV5LzIwMjEjc2VjdGlvbi1tb3N0LWxvdmVkLWRyZWFkZWQtYW5kLXdhbnRlZC13ZWItZnJhbWV3b3JrcykuCgpJIHRoaW5rIFN2ZWx0ZSB3aWxsIG1ha2UgYSBqdW1wIGluIHBvcHVsYXJpdHkgd2l0aCB0aGUgcmVsZWFzZSBvZiBTdmVsdGVLaXQgdmVyc2lvbiAxLjAgd2hpY2ggaXMgbXkgZGVmYXVsdCBmb3IgZXZlcnkgU3ZlbHRlIGFwcC4gSW4gYWRkaXRpb24gdG8gdGhhdCwgUmljaCBIYXJyaXMgKHRoZSBjcmVhdG9yIG9mIFN2ZWx0ZSkgd2FzIGhpcmVkIGJ5IFZlcmNlbCBhbmQgaXMgbm93IHdvcmtpbmcgZnVsbC10aW1lIG9uIFN2ZWx0ZSAvIFN2ZWx0ZUtpdC4gCgpTdmVsdGUgd2lsbCByaXNlIGFuZCBzaGluZSDinKgKCltMZWFybiBtb3JlIGFib3V0IFN2ZWx0ZV0oaHR0cHM6Ly9zdmVsdGUuZGV2LykKCltMZWFybiBtb3JlIGFib3V0IFN2ZWx0ZUtpdF0oaHR0cHM6Ly9raXQuc3ZlbHRlLmRldi8pCgojIyMgTmV4dEpTCgpDdXJyZW50bHksIEkgYW0gc3RpbGwgb2Z0ZW4gdXNpbmcgTmV4dEpTLiBJdCBpcyBncmVhdCEgSnVzdCBsaWtlIFN2ZWx0ZUtpdCBpcyBteSBkZWZhdWx0IGZvciBldmVyeSBTdmVsdGUgcHJvamVjdCwgTmV4dEpTIGlzIG15IGRlZmF1bHQgZm9yIGFueSBSZWFjdCBwcm9qZWN0LiBNb3N0bHkgZm9yIHRoZSBzYW1lIHJlYXNvbnM6IFN0YXRpYyBTaXRlIEdlbmVyYXRpb24gKFNTRyksIFNlcnZlci1TaWRlIFJlbmRlcmluZyAoU1NSKSwgYnVpbHQtaW4gZmlsZS1iYXNlZCByb3V0aW5nIGJhc2VkLCBhbmQgbW9yZS4gCgpUaGUgZWNvc3lzdGVtIGZvciBSZWFjdCBpcyB3YXkgbGFyZ2VyIHRoYW4gdGhlIFN2ZWx0ZSBvbmUgYW5kIG1vcmUgcGVvcGxlIGFyZSBmYW1pbGlhciB3aXRoIFJlYWN0LiBUaGVyZWZvcmUgTmV4dEpTIGlzIG15IGNob2ljZSBmb3Igd29ya2luZyB0b2dldGhlciB3aXRoIG90aGVyIFJlYWN0LWRldnMgYW5kIHdoZW4gcmVseWluZyBvbiBhIGNlcnRhaW4gbGlicmFyeSB0aGF0IGlzIG5vdCAoeWV0KSBhdmFpbGFibGUgaW4gU3ZlbHRlIChjYW4ndCB0aGluayBvZiBhbnkgb3V0IG9mIG15IGhlYWQpLiBJbiBhZGRpdGlvbiwgdGhlIGRlbWFuZCBhbmQgam9iIG1hcmtldCBmb3IgUmVhY3QgLyBOZXh0SlMgYXJlIG11Y2ggbGFyZ2VyIHRoYW4gZm9yIFN2ZWx0ZSAvIFN2ZWx0ZUtpdC4KCltMZWFybiBtb3JlIGFib3V0IE5leHRKU10oaHR0cHM6Ly9uZXh0anMub3JnLykKCiMjIyBUYWlsd2luZENTUwoKSSBsb3ZlIHN0eWxpbmcgd2l0aCB1dGlsaXRpZXMgYmFzZWQgb24gYSBwcmVkZWZpbmVkIGFuZCBlYXNpbHkgY3VzdG9taXphYmxlIHRoZW1lLiBJZiB5b3UgaGF2ZSByZWFkIG15IHBvc3QgW0RlYnVua2luZyBUYWlsd2luZCBDb3VudGVyYXJndW1lbnRzXShodHRwczovL2Jsb2cuamFubmlrd2VtcGUuY29tL2RlYnVua2luZy10YWlsd2luZC1jb3VudGVyYXJndW1lbnRzKSB5b3UgYWxyZWFkeSBrbm93IHRoYXQgSSBhbSBhIGJpZyBmYW4uIE1vc3Qgb2Z0ZW4gSSB1c2UgW0hlYWRsZXNzIFVJXShodHRwczovL2hlYWRsZXNzdWkuZGV2LykgYXMgYW4gYWRkaXRpb24gdG8gZ2V0IHNvbWUgZnVuY3Rpb25hbGl0eSBsaWtlIGEgc2VsZWN0IG9yIGEgbW9kYWwuIEkndmUgYWxzbyBib3VnaHQgW1RhaWx3aW5kIFVJXShodHRwczovL3RhaWx3aW5kdWkuY29tLykgaW4gb3JkZXIgdG8gbW92ZSBmYXN0ZXIgYW5kIGFsc28gZm9yIHNvbWUgaW5zcGlyYXRpb24g4oCUIGFuZCBJIGRvbid0IHJlZ3JldCBpdC4KCkkganVzdCBjYW4ndCBnbyBiYWNrIHRvIFVJIGxpYnJhcmllcyBsaWtlIE1hdGVyaWFsIFVJIG9yIEJvb3RzdHJhcCBhbnltb3JlIPCfpLfwn4+84oCN4pmC77iPCgpbTGVhcm4gbW9yZSBhYm91dCBUYWlsd2luZENTU10oaHR0cHM6Ly90YWlsd2luZGNzcy5jb20vKQoKIyMjIENoYWtyYSBVSQoKQ2hha3JhIFVJIGlzIGluc3BpcmVkIGJ5IFRhaWx3aW5kLiBJdCBpcyBhbHNvIGJhc2VkIG9uIGEgdGhlbWUgdGhhdCB1c2VzIHZlcnkgc2ltaWxhciBkZXNpZ24gdG9rZW5zLiBUaGUgZGlmZmVyZW5jZSB0byBUYWlsd2luZENTUyBpcyB0aGF0IGl0IGNvbWVzIHdpdGggYSBsb3Qgb2YgY29tcG9uZW50cyAodGhlcmVmb3JlIGl0IGlzIGZyYW1ld29yay1zcGVjaWZpYzsgb3JpZ2luYWxseSBjcmVhdGVkIGZvciBSZWFjdCBidXQgYWxzbyBhdmFpbGFibGUgZm9yIFZ1ZSkuIFRoZSBjb21wb25lbnRzIGFyZSBjcmVhdGVkIHdpdGggYWNjZXNzaWJpbGl0eSBpbiBtaW5kLiBDaGFrcmEgVUkgZmVlbHMgbGlrZSBhIGhlYWRzdGFydCBjb21wYXJlZCB0byBUYWlsd2luZCB3aGVuIGluaXRpYWxseSBnZXR0aW5nIHN0YXJ0ZWQgYnV0IGl0IGFsc28gaXMgYSBsaXR0bGUgbGVzcyBmbGV4aWJsZSAoZnJhbWV3b3JrLXNwZWNpZmljLCBwZWVyIGRlcGVuZGVuY2llcywgZXRjLikgSSBsb3ZlIGJvdGghCgpbTGVhcm4gbW9yZSBhYm91dCBDaGFrcmEgVUldKGh0dHBzOi8vY2hha3JhLXVpLmNvbS8pCgojIyBCYWNrZW5kCgpObyBmcm9udGVuZCB3aXRob3V0IGJhY2tlbmQgKGF0IGxlYXN0IGlmIHlvdSBhbHNvIGNvbnNpZGVyIHN0YXRpYyBzaXRlIGhvc3RpbmcgYXMgYmFja2VuZCkuIEkgZG8gbm90IG9ubHkgbG92ZSBmcm9udGVuZCBidXQgSSBsb3ZlIGJhY2tlbmQgYXMgd2VsbCDigJQgeWVzLCBJIGtub3csIGZvY3VzaW5nIGlzIG5vdCBvbmUgb2YgbXkgc3RyZW5ndGhzLCBidXQgSSBqdXN0IGNhbid0IGdvIHdpdGgganVzdCBvbmUgb2YgdGhlbS4gCgojIyMgVmVyY2VsCgpWZXJjZWwgaXMgbXkgZ28tdG8gZm9yIGhvc3RpbmcgbXkgcHJvamVjdHMuIEl0IGp1c3QgcHJvdmlkZXMgYSBncmVhdCBEZXZlbG9wZXIgRXhwZXJpZW5jZSAoRFgpLiBMdWNraWx5IHRoZXkgYXJlIG5vdCBvbmx5IHRoZSBjcmVhdG9ycyBvZiBOZXh0SlMgYnV0IG5vdyBhbHNvIGhhdmUgUmljaCBIYXJyaXMgYW5kIHRoZXJlZm9yZSBTdmVsdGVLaXQgZXhwZXJ0aXNlIG9uIGJvYXJkLgoKRm9yIHNvbWUgb2YgbXkgcHJvamVjdHMsIFZlcmNlbCBhbG9uZSBpcyBzdWZmaWNpZW50IGFzIGl0IGFsc28gcHJvdmlkZXMgYWxzbyBzZXJ2ZXItc2lkZSBmdW5jdGlvbnMuIElmIGl0IGlzIG5vdCBzdWZmaWNpZW50IGFuZCBJIGp1c3QgbmVlZCBhIGxpdHRsZSBtb3JlLCBsaWtlIGF1dGgsIGEgREIgb3Igc29tZSBzdG9yYWdlLCBJIGdvIHdpdGggU3VwYWJhc2UgbmV4dC4KCltMZWFybiBtb3JlIGFib3V0IFZlcmNlbF0oaHR0cHM6Ly92ZXJjZWwuY29tKQoKIyMjIFN1cGFiYXNlCgpTdXBhYmFzZSAoIlRoZSBPcGVuIFNvdXJjZUZpcmViYXNlIEFsdGVybmF0aXZlIikgaXMgZ3JlYXQuIEl0IGhhcyBhIGdyZWF0IERYLCBpcyB2ZXJ5IGVhc3kgdG8gdXNlIHdoaWxlIGFsc28gYmVpbmcgcXVpdGUgcG93ZXJmdWwsIGFuZCBoYXMgYSBnZW5lcm91cyBmcmVlIHRpZXIgKGFuZCBpcyBhbHNvIHF1aXRlIGNoZWFwIGJleW9uZCB0aGF0KS4KClN1cGFiYXNlIHdpbGwgYmUgc3VmZmljaWVudCBmb3IgYSBsb3Qgb2YgdXNlIGNhc2VzIGFzIGl0IHByb3ZpZGVzIGF1dGgsIGEgREIgd2l0aCBhIGdvb2QgQVBJIHRocm91Z2ggdGhlaXIgU0RLIGFuZCBzdG9yYWdlLiBJZiBpdCBpcyBub3Qgc3VmZmljaWVudCwgSSBnbyB3aXRoIEFXUy4KCltMZWFybiBtb3JlIGFib3V0IFN1cGFiYXNlXShodHRwczovL3N1cGFiYXNlLmNvbS8pCgojIyMgQVdTIENESyAvIFNlcnZlcmxlc3MgRnJhbWV3b3JrCgpUaGVyZSBpcyBsaXRlcmFsbHkgbm90aGluZyB5b3UgY2FuJ3QgZG8gd2l0aCBBV1MuIEluIGFkZGl0aW9uLCBBV1Mgc2tpbGxzIG1ha2UgeW91IHZlcnkgYXR0cmFjdGl2ZSBvbiB0aGUgam9iIG1hcmtldCAobXkgTGlua2VkSW4gaW5ib3ggaXMgcHJldHR5IGZ1bGwgc2luY2UgSSBlYXJuZWQgdGhlIEFXUyBBc3NvY2lhdGUgRGV2ZWxvcGVyIGNlcnRpZmljYXRlKS4KCkkndmUgdXNlZCBDbG91ZGZvcm1hdGlvbiwgU0FNLCBDREsgYW5kIHRoZSBTZXJ2ZXJsZXNzIEZyYW1ld29yayBzbyBmYXIuIEkgY2FuJ3QgcmVhbGx5IGRlY2lkZSBiZXR3ZWVuIENESyBhbmQgU2VydmVybGVzcy4gSSBsaWtlIHdyaXRpbmcgbXkgaW5mcmFzdHJ1Y3R1cmUgaW4gVHlwZVNjcmlwdCBidXQgSSBhbHNvIGFwcHJlY2lhdGUgdGhlIGVhc2Ugb2YgdXNlIGFuZCBwbHVnaW4gc3lzdGVtIG9mIFNlcnZlcmxlc3MuIEJvdGggb2YgdGhlbSBhcmUgd2VsbCBzdWl0ZWQgZm9yIHNlcnZlcmxlc3MgYXJjaGl0ZWN0dXJlcyB3aGljaCBpcyB3aGF0IEkgcGVyc29uYWxseSBhbG1vc3QgZXhjbHVzaXZlbHkgdXNlLgoKW0xlYXJuIG1vcmUgYWJvdXQgQVdTIENES10oaHR0cHM6Ly9hd3MuYW1hem9uLmNvbS9jZGsvKQoKW0xlYXJuIG1vcmUgYWJvdXQgU2VydmVybGVzcyBGcmFtZXdvcmtdKGh0dHBzOi8vd3d3LnNlcnZlcmxlc3MuY29tLykKCiMjIENvbmNsdXNpb24KClRoYXQncyBpdC4gTm90aGluZyBoaWdobHkgc29waGlzdGljYXRlZC4gSXQgaXMgbW9zdGx5IHRoZSB0ZWNoIEkgZW5qb3kgYW5kIEkgdGhpbmsgaXMgdmFsdWFibGUgaW4gdGhlIGZ1dHVyZS4gVGhlcmUgYXJlIGFsc28gb3RoZXIgbGlicmFyaWVzIEkgcmVhbGx5IGVuam95LCBsaWtlIFtYU3RhdGVdKGh0dHBzOi8veHN0YXRlLmpzLm9yZy8pIGFuZCBbUmVhY3QgUXVlcnldKGh0dHBzOi8vcmVhY3QtcXVlcnkudGFuc3RhY2suY29tLykgKHRoZXJlIGlzIGFsc28gW1N2ZWx0ZSBRdWVyeV0oaHR0cHM6Ly9zdmVsdGVxdWVyeS52ZXJjZWwuYXBwLykpLiBKdXN0IHRvIG1lbnRpb24gYSBmZXcuCgpIb3cgZG9lcyB5b3VyIGdvLXRvIHN0YWNrIGluIDIwMjEgbG9vayBsaWtlPw==
+# My Favorite Tech Stack for 2022
+
+I just recently tweeted my favorite tech stack for 2022 (inspired by @[Jon Meyers](@dijonmusters) tweet). I'd like to share some more thoughts about my choices in this post.
+
+%[https://twitter.com/JannikWempe/status/1473935933447839748]
+
+## Frontend
+
+First of all: I love frontend development. It is the direct touchpoint to the user for websites / -apps. It is the first impression for the user.
+
+There is so much out there. It can be paralyzing. I already used a variety of frontend frameworks: React (CRA, Gatsby, NextJS), Vue, Angular, Svelte (SvelteKit). And as far as styling goes, I've tried a lot of things too: CSS (modules), SASS, CSS-in-JS, Material, Bootstrap, Bulma, Quasar, Tailwind, Chakra UI, and more. Therefore you can assume I've tried quite a lot and my choices are not the only ones I know. (Not saying that other tools don't do the job and are inferior. It also comes down to personal preference.)
+
+### Svelte / SvelteKit
+
+This blog post goes into detail [Why Svelte is different - and awesome](https://blog.jannikwempe.com/why-svelte-is-different-and-awesome). I just really enjoy using Svelte. It is more concise than React and more performant. Stores and animations are also great features. There is a reason why Svelte was the [most loved web framework in the Stack Overflow Developer Survey 2021](https://insights.stackoverflow.com/survey/2021#section-most-loved-dreaded-and-wanted-web-frameworks).
+
+I think Svelte will make a jump in popularity with the release of SvelteKit version 1.0 which is my default for every Svelte app. In addition to that, Rich Harris (the creator of Svelte) was hired by Vercel and is now working full-time on Svelte / SvelteKit. 
+
+Svelte will rise and shine ✨
+
+[Learn more about Svelte](https://svelte.dev/)
+
+[Learn more about SvelteKit](https://kit.svelte.dev/)
+
+### NextJS
+
+Currently, I am still often using NextJS. It is great! Just like SvelteKit is my default for every Svelte project, NextJS is my default for any React project. Mostly for the same reasons: Static Site Generation (SSG), Server-Side Rendering (SSR), built-in file-based routing based, and more. 
+
+The ecosystem for React is way larger than the Svelte one and more people are familiar with React. Therefore NextJS is my choice for working together with other React-devs and when relying on a certain library that is not (yet) available in Svelte (can't think of any out of my head). In addition, the demand and job market for React / NextJS are much larger than for Svelte / SvelteKit.
+
+[Learn more about NextJS](https://nextjs.org/)
+
+### TailwindCSS
+
+I love styling with utilities based on a predefined and easily customizable theme. If you have read my post [Debunking Tailwind Counterarguments](https://blog.jannikwempe.com/debunking-tailwind-counterarguments) you already know that I am a big fan. Most often I use [Headless UI](https://headlessui.dev/) as an addition to get some functionality like a select or a modal. I've also bought [Tailwind UI](https://tailwindui.com/) in order to move faster and also for some inspiration — and I don't regret it.
+
+I just can't go back to UI libraries like Material UI or Bootstrap anymore 🤷🏼‍♂️
+
+[Learn more about TailwindCSS](https://tailwindcss.com/)
+
+### Chakra UI
+
+Chakra UI is inspired by Tailwind. It is also based on a theme that uses very similar design tokens. The difference to TailwindCSS is that it comes with a lot of components (therefore it is framework-specific; originally created for React but also available for Vue). The components are created with accessibility in mind. Chakra UI feels like a headstart compared to Tailwind when initially getting started but it also is a little less flexible (framework-specific, peer dependencies, etc.) I love both!
+
+[Learn more about Chakra UI](https://chakra-ui.com/)
+
+## Backend
+
+No frontend without backend (at least if you also consider static site hosting as backend). I do not only love frontend but I love backend as well — yes, I know, focusing is not one of my strengths, but I just can't go with just one of them. 
+
+### Vercel
+
+Vercel is my go-to for hosting my projects. It just provides a great Developer Experience (DX). Luckily they are not only the creators of NextJS but now also have Rich Harris and therefore SvelteKit expertise on board.
+
+For some of my projects, Vercel alone is sufficient as it also provides also server-side functions. If it is not sufficient and I just need a little more, like auth, a DB or some storage, I go with Supabase next.
+
+[Learn more about Vercel](https://vercel.com)
+
+### Supabase
+
+Supabase ("The Open SourceFirebase Alternative") is great. It has a great DX, is very easy to use while also being quite powerful, and has a generous free tier (and is also quite cheap beyond that).
+
+Supabase will be sufficient for a lot of use cases as it provides auth, a DB with a good API through their SDK and storage. If it is not sufficient, I go with AWS.
+
+[Learn more about Supabase](https://supabase.com/)
+
+### AWS CDK / Serverless Framework
+
+There is literally nothing you can't do with AWS. In addition, AWS skills make you very attractive on the job market (my LinkedIn inbox is pretty full since I earned the AWS Associate Developer certificate).
+
+I've used Cloudformation, SAM, CDK and the Serverless Framework so far. I can't really decide between CDK and Serverless. I like writing my infrastructure in TypeScript but I also appreciate the ease of use and plugin system of Serverless. Both of them are well suited for serverless architectures which is what I personally almost exclusively use.
+
+[Learn more about AWS CDK](https://aws.amazon.com/cdk/)
+
+[Learn more about Serverless Framework](https://www.serverless.com/)
+
+## Conclusion
+
+That's it. Nothing highly sophisticated. It is mostly the tech I enjoy and I think is valuable in the future. There are also other libraries I really enjoy, like [XState](https://xstate.js.org/) and [React Query](https://react-query.tanstack.com/) (there is also [Svelte Query](https://sveltequery.vercel.app/)). Just to mention a few.
+
+How does your go-to stack in 2021 look like?
