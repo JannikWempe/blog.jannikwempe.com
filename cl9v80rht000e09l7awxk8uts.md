@@ -1,5 +1,11 @@
 # My thoughts after trying to port a Shopify store from NextJS to Shopify Hydrogen
 
+**EDIT (2022-10-31):** Just one day after publishing this post, there is a huge announcement: [Remix joins Shopify](https://remix.run/blog/remixing-shopify) and [Hydrogen v2 will be leveraging Remix](https://hydrogen.shopify.dev/roadmap#remixing-hydrogen). Also, there is a great thread on Twitter about design mistakes being made in Hydrogen v1:
+
+%[https://twitter.com/jplhomer/status/1587095536833859584] 
+
+* * *
+
 A while ago I created a Shopify shop for my little brother who is selling handmade, unique furniture: [glückweiser.de](https://www.xn--glckweiser-beb.de/) (all German; currently mainly [selling on Etsy](https://www.etsy.com/de/shop/Glueckweiser)). It is written in NextJS 12 and uses Shopify's GraphQL Storefront API. The Developer Experience (DX) is okay. Everything is nice and typesafe with Typescript, graphql-codegen and react-query. BUT it is quite some manual work. Especially dealing with the cart. Initializing it, storing the id, updating etc.
 
 I like trying out new things and this is why I thought I'll give [Shopify Hydrogen](https://hydrogen.shopify.dev/) a shot and recreate the shop using it. In this article, I want to share my experiences and thoughts after a few days of coding in Hydrogen.
