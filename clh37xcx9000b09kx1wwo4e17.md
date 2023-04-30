@@ -2,7 +2,7 @@
 title: "Create Your Personal, Pay-Per-Use ChatGPT Client in Minutes"
 datePublished: Sun Apr 30 2023 09:37:37 GMT+0000 (Coordinated Universal Time)
 cuid: clh37xcx9000b09kx1wwo4e17
-slug: create-your-personal-pay-per-use-chatgpt-client-in-minutes
+slug: personal-chatgpt
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1682847180351/28c62519-991c-4ad9-9338-b0433a524e07.png
 tags: ai, programming, web-development, webdev, chatgpt
 
