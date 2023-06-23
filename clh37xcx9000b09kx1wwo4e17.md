@@ -14,7 +14,7 @@ In this article, I'll explain how to host your own ChatGPT UI, allowing you to e
 
 ## About ChatBot UI
 
-> Chatbot UI is an open source chat UI for AI models.  
+> Chatbot UI is an open-source chat UI for AI models.  
 > – [ChatBot UI GitHub Repository](https://github.com/mckaywrigley/chatbot-ui)
 
 ChatBot UI is a NextJS app and has an interface that is familiar if you have used ChatGPT:
@@ -75,7 +75,7 @@ export default function handler(_: NextApiRequest, res: NextApiResponse) {
 }
 ```
 
-This is just setting a header and a `401` (Unauthorized) status code.The `WWW-authenticate` field is used to initiate the authentication process, and the value `Basic realm="Secure Area"` instructs the client to send encoded username and password credentials to access the "Secure Area" of the website.
+This is just setting a header and a `401` (Unauthorized) status code.The `WWW-authenticate` field is used to initiate the authentication process and the value `Basic realm="Secure Area"` instructs the client to send encoded username and password credentials to access the "Secure Area" of the website.
 
 You just have to add those two files to your ChatBot UI code and provide the `BASIC_AUTH_USER` and `BASIC_AUTH_PASSWORD` to add Basic Auth to your own version of ChatGPT.
 
