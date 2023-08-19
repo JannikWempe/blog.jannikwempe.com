@@ -36,7 +36,7 @@ By [Sumit Kumar](https://twitter.com/TweetsOfSumit) who is the founder of [Parqe
 
 ## My Notes
 
-### Episode 2 – How do I find an idea for founding, bootstrapping, or as a side hustle?
+### E2 – How do I find an idea for founding, bootstrapping, or as a side hustle?
 
 * Find a small niche that offers a large "piece of the cake"
     
