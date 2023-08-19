@@ -1,5 +1,6 @@
 ---
 title: "Podcast Notes: Minimal Empires"
+seoDescription: "My podcast notes from Minimal Empires podcast, covering topics like SaaS, finding ideas, motivation, business structures, goal-setting, and more."
 datePublished: Sat Aug 19 2023 07:49:14 GMT+0000 (Coordinated Universal Time)
 cuid: cllhpxioe001709l75dd460dl
 slug: podcast-notes-minimal-empires
