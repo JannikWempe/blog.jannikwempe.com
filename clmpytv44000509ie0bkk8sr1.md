@@ -1,11 +1,10 @@
 ---
 title: "How To Use Different Git Configs"
-seoTitle: "Optimize Git Configs: Usage Guide"
 datePublished: Tue Sep 19 2023 07:00:12 GMT+0000 (Coordinated Universal Time)
 cuid: clmpytv44000509ie0bkk8sr1
 slug: git-config-includes
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1694873897921/51063ecb-2e70-4e0f-b467-ef9f76470c6a.png
-tags: programming-blogs, programming, git
+tags: programming-blogs, github, programming, git
 
 ---
 
