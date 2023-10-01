@@ -5,7 +5,7 @@ datePublished: Sat Aug 19 2023 07:49:14 GMT+0000 (Coordinated Universal Time)
 cuid: cllhpxioe001709l75dd460dl
 slug: podcast-notes-minimal-empires
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1692431209248/be1eb663-95a1-4e4c-a020-0016709134c5.png
-tags: saas, podcast, business, notes
+tags: programming, saas, podcast, business
 
 ---
 
