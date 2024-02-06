@@ -1,4 +1,14 @@
-# How To Use GitHub Actions for Deployments When Following Trunk-Based Development
+---
+title: "How To Use GitHub Actions for Deployments When Following Trunk-Based Development"
+seoTitle: "Using GitHub Actions Following Trunk-Based Development"
+seoDescription: "Creating a CI/CD pipeline with GitHub Actions and trunk-based development can be challenging without advanced techniques."
+datePublished: Wed Dec 14 2022 06:14:41 GMT+0000 (Coordinated Universal Time)
+cuid: clbn9co2x000l08liczp3cbf2
+slug: github-actions-trunk-based-development
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1670998381200/knD6Ik8oS.png
+tags: aws, github, web-development, devops, github-actions, ci-cd
+
+---
 
 Nowadays trunk-based development as a branching model is preferred compared to something like Git Flow. But creating a CI/CD pipeline is more challenging since we deploy to every environment from the same branch. In this post, I create a CI/CD pipeline with GitHub actions that deploys to multiple environments. We will start with a basic implementation and improve it step by step.
 
