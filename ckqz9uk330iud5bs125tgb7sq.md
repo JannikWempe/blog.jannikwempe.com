@@ -1,5 +1,7 @@
 ---
 title: "Domain-Driven Design: Entities, Value Objects, and How To Distinguish Them"
+seoTitle: "Domain-Driven Design: Distinguish Entities, Value Objects"
+seoDescription: "Examine Domain-Driven Design: Entities, Value Objects, their distinctions, and effective modeling."
 datePublished: Sun Jul 11 2021 14:08:00 GMT+0000 (Coordinated Universal Time)
 cuid: ckqz9uk330iud5bs125tgb7sq
 slug: domain-driven-design-entities-value-objects
