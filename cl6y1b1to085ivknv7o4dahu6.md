@@ -5,7 +5,7 @@ datePublished: Wed Aug 17 2022 19:56:25 GMT+0000 (Coordinated Universal Time)
 cuid: cl6y1b1to085ivknv7o4dahu6
 slug: aws-accounts-iam-users-root-user
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1660766052768/9vKwygz5X.png
-tags: cloud, aws, cloud-computing, beginners
+tags: cloud, aws, cloud-computing, beginners, amazon-web-services
 
 ---
 
