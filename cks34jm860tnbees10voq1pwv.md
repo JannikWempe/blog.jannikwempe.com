@@ -1,4 +1,12 @@
-# State Machines and Statecharts: What are they?
+---
+title: "State Machines and Statecharts: What are they?"
+datePublished: Sun Aug 08 2021 11:30:19 GMT+0000 (Coordinated Universal Time)
+cuid: cks34jm860tnbees10voq1pwv
+slug: what-are-state-machines-and-statecharts
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1628420625532/uKAJS0xuw.png
+tags: development, computer-science, developer, state, mathematics
+
+---
 
 If you are working as a developer (software engineer, coding wizard, or whatever you want to call it), chances are high you came across the term *state machine*. But do you also know what they are? Can you explain them to others? What is a statechart? This article is here to answer exactly these questions.
 
