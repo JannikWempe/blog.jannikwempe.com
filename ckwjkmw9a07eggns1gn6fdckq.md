@@ -1,4 +1,12 @@
-# Authentication: Cookie- vs. Token-based
+---
+title: "Authentication: Cookie- vs. Token-based"
+datePublished: Sun Nov 28 2021 18:23:54 GMT+0000 (Coordinated Universal Time)
+cuid: ckwjkmw9a07eggns1gn6fdckq
+slug: authentication-cookie-vs-token-based
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1638123493208/f4dRWdSd4.png
+tags: cookies, authentication, web-development, jwt
+
+---
 
 Authentication is about confirming that users are who they say they are. Whereas authorization is about permissions of a given user (e.g. admin vs. user). Authentication is an integral part of most apps.
 
