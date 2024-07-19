@@ -1,4 +1,12 @@
-# Benefits and Downsides of Using Statecharts
+---
+title: "Benefits and Downsides of Using Statecharts"
+datePublished: Sun Aug 15 2021 17:52:25 GMT+0000 (Coordinated Universal Time)
+cuid: cksdi9yyh0blat2s1df8bbmo8
+slug: statecharts-benefits-and-downsides
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1629049346119/kmpz8U4qx.png
+tags: development, web-development, state
+
+---
 
 *This post is part two of my [series about state machines](https://blog.jannikwempe.com/series/state-machines). It is a follow-up post of [State Machines and Statecharts: What are they?](https://blog.jannikwempe.com/what-are-state-machines-and-statecharts). Start there if you'd like to learn about what (finite) state machines and statecharts are.*
 
