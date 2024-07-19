@@ -1,4 +1,14 @@
-# TypeScript decorators basics
+---
+title: "TypeScript decorators basics"
+seoTitle: "TypeScript decorators basics. What are decorators and how do they work"
+seoDescription: "TypeScript decorators are still an experimental feature, but they are widely used. Learn about the types of decorators and how they work."
+datePublished: Sat Apr 24 2021 19:03:33 GMT+0000 (Coordinated Universal Time)
+cuid: cknw426oc01eyg1s10t1ea8tm
+slug: typescript-decorators-basics
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1619290789521/x1VLIrLOw.webp
+tags: web-development, typescript
+
+---
 
 ⁉️ **What** are decorators? **What** types of decorators are there?
 
