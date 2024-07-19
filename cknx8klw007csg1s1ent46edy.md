@@ -1,4 +1,14 @@
-# Why Svelte is different - and awesome!
+---
+title: "Why Svelte is different - and awesome!"
+seoTitle: "Why Svelte is different - and awesome!"
+seoDescription: "Svelte is not just another JavaScript framework. It's a compiler. Read what that means and what the implications are."
+datePublished: Sun Apr 25 2021 13:57:37 GMT+0000 (Coordinated Universal Time)
+cuid: cknx8klw007csg1s1ent46edy
+slug: why-svelte-is-different-and-awesome
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1619358925225/50e2XssdE.png
+tags: javascript, web-development, webdev, javascript-framework, svelte
+
+---
 
 *Just to get this out of the way in the beginning:*
 
