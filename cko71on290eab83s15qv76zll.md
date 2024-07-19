@@ -1,4 +1,13 @@
-# React Pre-rendering and Potential Hydration Issue
+---
+title: "React Pre-rendering and Potential Hydration Issue"
+datePublished: Sun May 02 2021 10:42:30 GMT+0000 (Coordinated Universal Time)
+cuid: cko71on290eab83s15qv76zll
+slug: react-pre-rendering-and-potential-hydration-issue
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1619951195670/L7pZfFGcN.gif
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1619957980803/HTeFDJEWl.png
+tags: webdev, reactjs, ssr, nextjs, jamstack
+
+---
 
 # Why I did my research
 I am not writing this article because the subject just came to me. It all started with an issue I had. While developing an eCommerce website for my little brother using Next.js this popped up in Google Chrome dev console:
