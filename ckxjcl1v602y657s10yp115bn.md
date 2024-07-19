@@ -1,4 +1,12 @@
-# My Favorite Tech Stack for 2022
+---
+title: "My Favorite Tech Stack for 2022"
+datePublished: Thu Dec 23 2021 19:18:13 GMT+0000 (Coordinated Universal Time)
+cuid: ckxjcl1v602y657s10yp115bn
+slug: my-favorite-tech-stack-for-2022
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1640287015202/htRMAs7k4.png
+tags: technology, web-development, webdev, full-stack
+
+---
 
 I just recently tweeted my favorite tech stack for 2022 (inspired by @[Jon Meyers](@dijonmusters) tweet). I'd like to share some more thoughts about my choices in this post.
 
