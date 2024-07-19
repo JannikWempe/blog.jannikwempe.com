@@ -1,4 +1,12 @@
-# When to (Not) Use React Context API for State?
+---
+title: "When to (Not) Use React Context API for State?"
+datePublished: Fri Jun 24 2022 05:26:56 GMT+0000 (Coordinated Universal Time)
+cuid: cl4s0gvxk05gz9vnvgcp135f7
+slug: when-to-not-use-react-context-api-for-state
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1656048327945/Sf7vhl63d.png
+tags: web-development, react, reactjs, state, reacthooks
+
+---
 
 [React's Context API](https://reactjs.org/docs/context.html) is a popular choice for global state *(my definition: state that is shared amongst components)*. It is easy to use and we are used to it because a lot of libraries leverage them. There are characteristics of React Context that you should be aware of. They make context not always the best choice for global state.
 
