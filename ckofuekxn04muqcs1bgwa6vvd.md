@@ -1,4 +1,12 @@
-# Debunking Tailwind Counterarguments
+---
+title: "Debunking Tailwind Counterarguments"
+datePublished: Sat May 08 2021 14:28:39 GMT+0000 (Coordinated Universal Time)
+cuid: ckofuekxn04muqcs1bgwa6vvd
+slug: debunking-tailwind-counterarguments
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1620484014614/Tp2Xanvum.png
+tags: css, web-development, html, tailwind-css
+
+---
 
 # Same Discussions Over and Over Again
 
