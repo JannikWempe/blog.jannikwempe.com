@@ -1,4 +1,12 @@
-# You Have Fucked Up! How to git revert?
+---
+title: "You Have Fucked Up! How to git revert?"
+datePublished: Wed Jan 25 2023 19:57:02 GMT+0000 (Coordinated Universal Time)
+cuid: cldc37zvs000009mcd77wc4kx
+slug: how-to-git-revert
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1674676741389/9ef44422-0a77-4afd-86c5-c1bdc78ca582.png
+tags: programming, git, developer, programming-tips
+
+---
 
 You have messed up production. All hell broke loose. What to do now? Fix it as fast as possible and undo the last change that made everything fall apart to unblock further deployments.
 
