@@ -1,4 +1,12 @@
-# Introduction into Domain-Driven Design (DDD)
+---
+title: "Introduction into Domain-Driven Design (DDD)"
+datePublished: Wed Jun 16 2021 05:19:09 GMT+0000 (Coordinated Universal Time)
+cuid: ckpz0y5e304exm7s1g4kbfszn
+slug: domain-driven-design-introduction
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1623820118835/s5gapCsww.png
+tags: programming, tools, developer, ddd
+
+---
 
 The concept of Domain-Driven Design (DDD) was introduced by Eric Evans. He wrote about it in his book Domain-driven Design back in 2004 *(aka "The Big Blue Book")*. 
 
