@@ -1,4 +1,12 @@
-# Mastering AWS CDK Aspects
+---
+title: "Mastering AWS CDK Aspects"
+datePublished: Thu Sep 29 2022 06:31:28 GMT+0000 (Coordinated Universal Time)
+cuid: cl8mohifa001709l5gpvy6flq
+slug: mastering-aws-cdk-aspects
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1664433023392/hqulxhQZs.png
+tags: aws, aws-cdk
+
+---
 
 ## CDK Aspects Introduction
 
