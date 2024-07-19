@@ -1,4 +1,12 @@
-# AWS Cross-Account Access
+---
+title: "AWS Cross-Account Access"
+datePublished: Fri May 28 2021 13:27:59 GMT+0000 (Coordinated Universal Time)
+cuid: ckp8d1lwb0h23vws10ik2hlqh
+slug: aws-cross-account-access
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1622197294816/WHKftVUeN.png
+tags: cloud, aws, web-development, security, webdev
+
+---
 
 I recently set up an AWS organization to follow the best practice to use a multi-account environment ([read "Why should I set up a multi-account AWS environment?"](https://aws.amazon.com/organizations/getting-started/best-practices/)). That was quite easy using Control Tower, which sets up an organization with some accounts (and additional things) for you. BUT to use services across accounts wasn't easy for me. 
 
